@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Thursday January 12, 2006" name="DC.Date"/>
+  <meta content="Mom" name="DC.Creator"/>
+  <recipe id="Spritz">
+    <head>
+      <title>Spritz</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Along with sugar cookies, these may be the most popular Christmas cookies. They are wonderful fresh from the oven or even stale, dunked.</xhtml:p>
+
+<xhtml:p>You can buy a cookie press from Fante's.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>shortening</item>
+<!--1 c. shortening-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--3/4 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+<!--1 egg-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>lemon extract</item>
+<!--1 tsp. lemon extract-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>almond extract</item>
+<!--1 tsp. almond extract-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--2 1/4 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/4 tsp. salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1/2 tsp. baking powder-->
+        </ing>
+        <ing>
+          <item>Colored sugars, jimmies, dragees and food coloring for decoration.</item>
+<!--Colored sugars, jimmies, dragees and food coloring for decoration.-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream shortening until soft. Add sugar gradually, until the shortening is light and fluffy. Add the egg and lemon extract, and beat on medium high speed. Sift together the flour, salt and baking powder. Add the dry ingredients in three additions. Beat well on medium speed after each addition.</step>
+      <step>Chill dough 10 to 20 minutes.</step>
+      <step>Preheat oven to <temp><qty>400</qty><tempunit unit="F" system="US">degrees</tempunit><!--400  degrees--></temp>.</step>
+      <step>Taking a large handfull of the chilled dough, shape into a log about two to three inches in diameter. Place log of dough in the spritz gun, and return remainder of dough to the refrigerator.</step>
+      <step>Squeeze dough onto an ungreased cookie sheet. Decorate with colored sugars, dragees and jimmies.</step>
+      <step>Bake 8 to 10 minutes until golden brown.</step>
+      <step>To color dough, add a few drops of food coloring to a large handful of dough. Knead dough between hands or on a washable surface; the food coloring will stain your hands and the counter, but this will wash off. At first the dough will have a nice marbled effect, but the dye will distribute evenly after a bit of kneading.</step>
+    </directions>
+  </recipe>
+</recipeml>

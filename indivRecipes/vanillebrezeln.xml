@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday January 18, 2006" name="DC.Date"/>
+  <recipe id="Vanillebrezeln">
+    <head>
+      <title>Vanillebrezeln</title>
+      <subtitle>Vanilla pretzels</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Germans are very fond of their pretzels. Soft pretzels, somewhat like the pretzels sold on Philadelphia street corners, are eaten for breakfast with butter and jam, for supper with cold cuts, and in Munich's beer halls from the bread basket. Bread bakers hang signs shaped like pretzels like barbers have striped poles.</xhtml:p>
+
+<xhtml:p>These pretzel-shaped cookies substitute lump sugar for the salt usually sprinkled on pretzels. Pearl sugar can be found at King Arthur flour and Martha Stewart, who calls it sanding sugar. Ethnic groceries may also carry pearl sugar.</xhtml:p>
+
+<xhtml:p>To use the leftover egg whites, I usually make a double batch of forgotten cookies.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+<!--3/4 c. butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1/2 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>egg yolks</item>
+<!--3 egg yolks-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 Tb. vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>milk</item>
+<!--3 Tb. milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--2 2/3 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--2 tsp. baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 tsp. salt-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>For the glaze and decorating</title>
+<!--For the glaze and decorating-->
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg yolk</item>
+<!--1 egg yolk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>milk</item>
+<!--1 tsp. milk-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <item>Pearl sugar</item>
+<!--Pearl sugar-->
+          </alt-ing>
+          <alt-ing>
+            <item>Hagelzucker</item>
+<!--Hagelzucker-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream together butter and sugar until light and fluffy. Slowly add three egg yolks, vanilla and three tablespoons milk. Sift together remaining dry ingredients and mix in on low speed until a stiff dough forms. Chill for 30 minutes to an hour.</step>
+      <step>Preheat oven to <temp><qty>400</qty><tempunit unit="F" system="US">degrees</tempunit><!--400  degrees--></temp>.</step>
+      <step>To form the pretzels: Form a handful of dough into a cylinder between your hands, being sure to press out any air pockets. On a lightly-floured work surface, roll into a log an inch or so in diameter. Cut into two-inch pieces. Roll each piece into a rope about seven inches long and the width of a thick pencil. Cross ends over into a pretzel shape, and lay onto a parchment-covered baking sheet.</step>
+      <step>Brush with one egg yolk thinned with a teaspoon of milk. Sprinkle with perl sugar. Bake 12 to 14 minutes until golden brown.</step>
+    </directions>
+  </recipe>
+</recipeml>

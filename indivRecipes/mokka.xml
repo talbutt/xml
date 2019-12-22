@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  1, 2006" name="DC.Date"/>
+  <meta content="Lutz" name="DC.Creator"/>
+  <recipe id="Mokka">
+    <head>
+      <title>Mokka</title>
+      <subtitle>Mocha coffee</subtitle>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This is the Buchmann family's favorite holiday drink. Russian in origin, Mokka is served after dinner at Christmas and New Year's. Every time his father made Mokka, Tobi would follow him into the kitchen to learn how to make Mokka.</xhtml:p>
+
+<xhtml:p>This drink is very addictive. It is what I'd always hoped espresso would be. Although the preparation is simple, it has a smooth and complex flavor. With a little cream, it is very rich.</xhtml:p>
+
+<xhtml:p>Tobi first made this in America while we were studying math, reviewing his most recent test. Hoping to distract me, he suggested that he show me how to make Mokka. He made a full recipe -- enough for eight people -- and we each had four servings. In an hour, he was too energized to do any more math.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>butter</item>
+<!--2 Tb butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>sugar</item>
+<!--3 Tb sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>warm water</item>
+<!--4 c warm water-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>3/4</q1>
+              <q2>1</q2>
+            </range>
+            <unit>c</unit>
+          </amt>
+          <item>ground coffee</item>
+<!--3/4 to 1 c ground coffee-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>1</q1>
+              <q2>2</q2>
+            </range>
+            <unit>Tb</unit>
+          </amt>
+          <item>cocoa</item>
+<!--1 to 2 Tb cocoa-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step><xhtml:img src="/images/mokka.jpg" class="photo" align="right" alt="Mokka, ready to
+drink. Copyright 2003 Tobias Buchmann. Used with permission. All rights
+reserved." />Melt butter in a heavy-bottomed, medium saucepan over medium high heat. Stir in sugar. Continue to stir sugar and butter until sugar begins to caramelize and stick to the bottom of the pot a bit. Be careful not to burn the sugar! Remove pan from heat. Slowly and carefully add <xhtml:strong>warm</xhtml:strong> water. The sugar mixture will spit and steam as the water is first poured in. Do not add cold water, as this will cause the caramel to harden and stick to the bottom of the pot.</step>
+      <step>Return pan to heat and add 3/4 c ground -- not instant -- coffee and the cocoa. Bring to a boil, and allow to boil for a minute. Add more coffee if desired. When ready, the Mokka should have a crema on top: a fine, lighter brown foam.</step>
+      <step>Strain mixture into a mocha, coffee or tea pot. Serve in mocha or espresso cups that have been warmed by rinsing in hot water. Particularly wonderful with a teaspoon of cream and half a teaspoon additional sugar.</step>
+    </directions>
+  </recipe>
+</recipeml>

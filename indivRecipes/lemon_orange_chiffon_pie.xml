@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="lemon_orange_chiffon_pie">
+    <meta content="2013-03-21" name="DC.Date"/>
+    <meta content="Tante Gretel" name="DC.Creator"/>
+    <head>
+      <title>Lemon-orange chiffon pie</title>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="sub">Pie</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>My grandmother didn't have a signature dish so much a two or three dozen things she baked really, really well. This is a favorite of both my cousin Lisa and my godfather Ernst. Unlike a meringue pie, there is no baking and later weeping, by the meringue and the baker.</x:p>
+      <x:p>Leftover filling makes a delicious pudding.</x:p>
+      <x:p>The best size is an 8-inch pie plate; for a 10-inch pie plate, make a batch and a half of filling.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>pre-baked pie crust in an 8-inch pie plate</item>
+          <!--1 pre-baked pie crust in an 8-inch pie plate-->
+        </ing>
+        <ing>
+          <item>Grated zest and juice of</item>
+          <!--Grated zest and juice of-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+            </amt>
+            <item>large lemon</item>
+            <prep>zested and juiced</prep>
+            <!--1 large-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1 1/2</qty>
+            </amt>
+            <item>medium lemons</item>
+            <prep>zested and juiced</prep>
+            <!--1 1/2 medium lemons-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>orange</item>
+          <prep>zested and juiced</prep>
+          <!--1 orange-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>1 1/2</q1>
+              <q2>2</q2>
+            </range>
+            <unit>tsp</unit>
+          </amt>
+          <item>of unflavored gelatin</item>
+          <!--1 1/2 to 2 tsp of unflavored gelatin-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs</item>
+          <prep>separated</prep>
+          <!--4 eggs, separated-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar </item>
+          <prep>for yolks</prep>
+          <!--1/4 c. sugar (for yolks)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+          <!--1/4 tsp. salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+          <prep>for whites</prep>
+          <!--1/2 c. sugar (for whites)-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Pre-bake the pie crust and allow to cool.</step>
+      <step>Sprinkle the gelatin in 2-3 Tbs. of the juice and let stand.</step>
+      <step>Mix the yolks, <ing> <amt> <qty>1/4</qty> <unit>c</unit> </amt> <item>sugar</item></ing>, the remaining juice, salt, and grated zest in a sauce pan. Boil gently over a <x:em>low</x:em> flame, stirring constantly until it thickens enough to coat a spoon. It will be about <temp><qty>160</qty><tempunit unit="F" system="US">degrees</tempunit><!--160 F--></temp>.</step>
+      <step>Remove the yolk mixture from the heat, and stir in the gelatin in the juice. Stir occasionally while whipping whites.</step>
+      <step>Beat whites until soft peaks form. Gradually beat in remaining <ing> <amt> <qty>1/2</qty> <unit>c</unit> </amt> <item>sugar </item> </ing> until stiff but not dry peaks form.</step>
+      <step>Fold whites into yolks. Pour filling into pie shell. Cool at least 4 hours in the refrigerator.</step>
+    </directions>
+  </recipe>
+</recipeml>

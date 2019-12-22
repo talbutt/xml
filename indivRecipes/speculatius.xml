@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="speculatius" system="metric">
+    <meta content="2010-12-16" name="DC.Date"/>
+    <head>
+      <title>Speculatius</title>
+      <subtitle>Speculaas</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Pressed</cat>
+        <cat class="region">Holland</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>These cookies are traditional in both Holland, where they are called Speculaas, and in <x:a href="http://www.thelocal.de/society/20101216-31857.html">Northern Germany</x:a>, where they are called Speculatius, because Latin is such a common language in modern Germany. According to the link above, both names are thought to be related to the Latin, <x:i>speculator</x:i>, or bishop, for St. Nikolas.</x:p>
+      <x:p>Although my cookbook calls these "somewhat difficult," I found them one of the easiest cookies I've made.</x:p>
+    </description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <!--250 g butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--250 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>finely ground</prep>
+          <!--150 g almonds, finely ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+          <!--2 tsp cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cardamom</item>
+          <!--1/2 tsp cardamom-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cloves</item>
+          <!--1/4 tsp cloves-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>nutmeg</item>
+          <!--1/4 tsp nutmeg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+          <!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>450</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+          <!--450 g flour-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Beat the butter and sugar together on high speed until just combined, but do not beat particularly long. Beat in almonds and spices. Scrape the bowl down and beat in eggs until combined. Mix in the flour until combined. Chill for at least an hour.</step>
+      <step>Preheat the oven to <temp><qty>190</qty><tempunit unit="C" system="metric">degrees</tempunit><!--190 C--></temp>.</step>
+      <step>Traditionally, Speculatius are made by pressing the dough into a mold, but you can also roll the dough to <size><qty>1/2</qty> <unit>cm</unit></size> thick and cut them out with cookie cutters. If using a mold, grind an additional <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+        </ing> and mix with flour. Dust a small pice of dough with the flour-nut mix and press into the mold. If the dough sticks, <x:a href="http://ask.metafilter.com/141432/How-do-you-get-speculaas-to-release-from-their-molds">help is available</x:a>.</step>
+      <step>Bake for 8 to 10 minutes (depending on thickness) until brown at the edges.</step>
+    </directions>
+  </recipe>
+</recipeml>

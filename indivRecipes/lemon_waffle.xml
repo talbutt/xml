@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Patricia Macoretta" name="DC.Creator"/>
+  <recipe id="Italian Lemon Waffle Cookies">
+    <head>
+      <title>Italian Lemon Waffle Cookies</title>
+      <source>Patricia Macoretta</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Italy</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This recipe comes from my mother-in-law although I converted it from a handful of this and that to a recipe that everyone can follow, it is an Italian tradition and I make it every Christmas.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>12</qty>
+          </amt>
+          <item>med eggs</item>
+<!--12 med eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>canola oil</item>
+<!--2 cups canola oil-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>white sugar</item>
+<!--3 cups white sugar-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>3</qty>
+            </amt>
+            <item>lemons</item>
+            <prep>grated and squeezed</prep>
+<!--3 lemons, grated and squeezed-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>3/4</qty>
+              <unit>cup</unit>
+            </amt>
+            <item>real lemon juice concentrate</item>
+<!--3/4 cup of real lemon juice concentrate-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--3 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>5 1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>unbleached flour</item>
+<!--5 1/2 cups unbleached flour-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Add oil and sugar and mix, add eggs one at a time mixing well after each addition add lemon and zest. Then add flour mixture a little at a time. Then let sit for 10 minutes.</step>
+      <step>Heat up waffle iron, give it a light spray of pam and then drop by the teaspoon onto hot waffle iron, close lid and cook until light brown, usually you can do 4 at one time. Use a fork to gently pull away from grids. Do not cook to long or the waffles will be to dry.</step>
+      <step>This recipe can be cut in half, and freezes well. Take frozen waffles and spoon ice cream in between and make ice cream waffles.</step>
+    </directions>
+  </recipe>
+</recipeml>

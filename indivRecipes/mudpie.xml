@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN"
+  "http://www.formatdata.com/recipeml/recipeml.dtd">
+  <?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <recipe id="Mud pie">
+    <head>
+      <title>M&#252;d pie</title>
+      <source>Jakob</source>
+      <category>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Dairy-free</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </category>
+    </head>
+    <description><xhtml:p>A classic American recipe, beloved by children everywhere. This is very
+easy to prepare, although clean-up can be problematic.
+</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>water</item>
+          <prep> room temperature</prep>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>pound</unit>
+          </amt>
+          <item>dirt</item>
+        </ing>
+      <ing>
+        <alt-ing>
+          <item>leaves</item>
+        </alt-ing>
+        <alt-ing>
+          <item>twigs</item>
+        </alt-ing>
+        <alt-ing>
+          <item>worms</item>
+        </alt-ing>
+        <alt-ing>
+          <item>grass clippings</item>
+        </alt-ing>
+      </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <title>On any sunny day</title>
+      <step>Combine water and half the dirt. Stir slowly. Add additional dirt to achieve
+the desired consistency. Mix in twigs, leaves, worms or grass if desired.</step>
+      <step>Form into patties. Decorate with twigs, leaves, worms or grass.
+</step>
+      <note>Be sure to have a hot bath waiting for the cook!</note>
+    </directions>
+  </recipe>
+</recipeml>

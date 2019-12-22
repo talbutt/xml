@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  8, 2006" name="DC.Date"/>
+  <meta content="Carole Weatherby (my mom)" name="DC.Creator"/>
+  <recipe id="Shortbread cookies">
+    <head>
+      <title>Shortbread cookies</title>
+      <source>Karen Weatherby</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>These cookies are very simple to make, and according to many people they are the best shortbread cookies they have ever eaten!!!</xhtml:p>
+
+<xhtml:p>Enjoy!</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>lb</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+<!--1 lb butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>cornstarch</item>
+<!--1/2 cup cornstarch-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+<!--3 cups flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>powdered sugar</item>
+<!--1 cup powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 tsp vanilla-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Whip butter and add all dry ingredients &amp; mix thoroughly.</step>
+      <step>Drop by teaspoon on a greased cookie sheet.</step>
+      <step>Bake at <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp> until cookies are a pale brown.</step>
+      <step>Yields about 3 dozen cookies.</step>
+    </directions>
+  </recipe>
+</recipeml>

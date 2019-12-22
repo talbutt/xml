@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="hot_buttered_rum">
+    <meta content="2018-01-04" name="DC.Date"/>
+    <meta content="Marsha" name="DC.Creator"/>
+    <head>
+      <title>Hot, buttered rum</title>
+      <source>Marsha</source>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Hot</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Nut-free</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Gluten-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>I didn't realize until well into midlife that Hot Buttered Rum is really a thing. I thought maybe it was like sugarplums, something vaguely believable and definitely Christmasy that we hear about in songs, perhaps, but not altogether based in reality. Of course, sugarplums are real, too. Who knew?</x:p>
+      <x:p>The basic idea is that you make what's known as a "batter" - comprised of the best parts of actual cookie batter with butter, brown sugar, and spices - and then mix the result with a good bit of rum topped off with hot water. Turns out you can buy the batter, although I don't really approve of that kind of thing as easy as it is to mix sugar and butter together. Use a mixer or a spoon, use dark or light brown sugar, and use whatever wintery-type spices you like. That's all there is to it. I came across a recipe recently that used melted vanilla ice cream and, well, that just doesn't sound so appealing to me but, hey, don't let me stand in your way.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>oz</unit>
+          </amt>
+          <item>unsalted butter</item>
+          <prep>softened</prep>
+          <!--4 oz. unsalted butter, softened-->
+        </ing>
+        <ing>
+            <amt>
+              <qty>8</qty>
+              <unit>oz</unit>
+            </amt>
+            <item>brown sugar (or white sugar really, maybe even maple syrup or honey because it's not like there are laws about these things)</item>
+            <!--honey because it's not like there are laws about these things)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>spices of your choice</item>
+          <!--1 Tbs spices of your choice-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>fl. ounce</unit>
+          </amt>
+          <item>rum</item>
+          <!--1 fl. ounce rum-->
+        </ing>
+        <ing>
+          <item>boiling water</item>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Mix the butter and your sweetener of choice until completely blended. Now you get to choose your spices. Nutmeg is traditional, apparently, and you'll find cinnamon in the canon, as well. I like ginger and (ground, in this use) cloves so put those in, too. For this ratio of butter and sugar, you're looking at about a combined tablespoon of spices but do what makes you happy. Experiment!</step>
+      <step>To make a Hot Buttered Rum, place about a tablespoon of batter in a mug, add an oz. of rum (I used dark, but not spiced, rum) and add 6 oz. of boiling water (use more or less to taste). Stir to dissolve the batter and enjoy. Excess batter can be refrigerated for a couple weeks or frozen for a few months.</step>
+      <step>My husband judged my batter as resulting in a drink like "a melted gingersnap, but for grown-ups". Entirely workable outcome, in my opinion.</step>
+    </directions>
+  </recipe>
+</recipeml>

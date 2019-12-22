@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Tuesday January  3, 2006" name="DC.Date"/>
+  <meta content="Gran" name="DC.Creator"/>
+  <recipe id="Pecan Snowballs">
+    <head>
+      <title>Pecan Snowballs</title>
+      <source>Elizabeth Scheyder</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>One of my earliest Christmas memories is watching my grandmother make these cookies. (My mom said she made them for as long as she could remember,too.) They were my absolute favorite cookie of all time. My grandmother passed away when I was 12, but fortunately we had a few Christmases together when I was old enough to actually learn how to make these cookies.</xhtml:p>
+
+<xhtml:p>The recipe calls for margarine, which I had assumed was a depression-era economy measure. But I've made these with butter, and they're just not as good (and they're more prone to burn on the bottoms, too.) Even if it's not something you usually buy, use margarine for these.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>margarine</item>
+          <ing-note>(the kind that comes in sticks not 'whipped' or 'light')</ing-note>
+<!--1 c. margarine (the kind that comes in sticks, not 'whipped'-->
+<!--'light')-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>powdered sugar</item>
+<!--1/2 c. powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sifted flour</item>
+<!--2 c. sifted flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/8 tsp. salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>chopped pecans</item>
+<!--2 c. chopped pecans-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--2 tsp. vanilla-->
+        </ing>
+        <ing>
+          <item>More powedered sugar for coating baked cookies</item>
+<!--More powedered sugar for coating baked cookies-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Yield: about 80 snowballs.</step>
+      <step>Preheat oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>. (If you don't have an oven thermometer, get one, and make sure your oven temperature is accurate. It's $10 well spent compared to ruining batches of cookies!)</step>
+      <step>Cream margarine and sugar together until smooth. My grandmother did this by hand, but I'm a wimp and put it in the stand mixer with the paddle blade.</step>
+      <step>Sift flour with salt and pecans to mix. Add to bowl with margarine and sugar. Mix a bit, add the vanilla, then continue mixing until batter is a uniform consistency.</step>
+      <step>Shape dough into small balls - I make them about 3/4" diameter. Place balls one inch apart on a greased baking sheet. Bake 15 minutes, or until just starting to turn golden.</step>
+      <step>Remove from oven and quickly roll in powdered sugar. When cool, roll again in sugar, and they'll look like little snowballs!</step>
+      <step>Store in an airtight container - if they last that long!</step>
+    </directions>
+  </recipe>
+</recipeml>

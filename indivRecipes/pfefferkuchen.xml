@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <meta content="Saturday December 30, 2006" name="DC.Date"/>
+  <meta content="Renate" name="DC.Creator"/>
+  <recipe id="Pfefferkuchen" system="metric">
+    <head>
+      <title>Pfefferkuchen</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Rolled</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Dairy-free</cat>
+      </categories>
+    </head>
+    <description>Pfefferkuchen are a type of Lebkuchen, Germany's famous spiced
+    cookies. Although there are many varieties of Lebkuchen, they all have in
+    common nuts, cloves, and resting the dough for a day or, like these, weeks.
+    Renate wrote that these are for "foresighted Christmas bakers, who already
+    think about Lebkuchen in November." The cookies come out chewy rather than
+    crispy, but the baking time is easily converted for use as
+    construction materials.</description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>honey</item>
+<!--3/4 c. honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>600</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+<!--3 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>4</q1>
+              <q2>6</q2>
+            </range>
+            <unit>Tbs</unit>
+          </amt>
+          <item>rum</item>
+<!--4 to 6 T rum-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>baker's ammonia</item>
+<!--1/2 T baker's ammonia-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>baking powder</item>
+<!--baking powder-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>potash</item>
+<!--1 T potash-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>baking soda</item>
+<!--baking soda-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>900</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+<!--6 1/4 c. flour-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>65</qty>
+              <unit>g</unit>
+            </amt>
+            <item>citron</item>
+            <prep>finely chopped</prep>
+<!--1/3 c. citron-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>65</qty>
+              <unit>g</unit>
+            </amt>
+            <item>candied ginger</item>
+            <prep>finely chopped</prep>
+<!--candied ginger, finely chopped-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>65</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sliced almonds</item>
+          <prep>ground</prep>
+<!--1/2 c. sliced almonds, ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>cocoa</item>
+<!--1 T cocoa-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>1/2</q1>
+              <q2>1</q2>
+            </range>
+            <unit>Tbs</unit>
+          </amt>
+          <item>cloves</item>
+<!--1 T cloves-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>cinnamon</item>
+<!--1 T cinnamon-->
+        </ing>
+        <ing>
+          <item>grated zest of one lemon</item>
+<!--grated zest of one lemon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs</item>
+<!--4 eggs-->
+        </ing>
+      </ing-div>
+      <ing-div>
+	    <title>Lemon glaze:</title>
+<!--Lemon glaze:-->
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>hot water</item>
+<!--2 1/2 T hot water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>lemon extract</item>
+<!--1 1/4 t lemon extract-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar.</item>
+<!--1 1/4 c powdered sugar.-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+    <dir-div>
+      <note>Do not double this recipe</note>
+
+      <step>Heat the honey, either in a double boiler or while still in the
+      jar in a small pot of simmering water (this last method is good if your
+      honey has crystalized). Add sugar and stir over heat until dissolved.
+      Dissolve baker's ammonia/baking powder and potash/baking soda in 4 T
+      rum. Stir together dry ingredients in a large bowl.</step>
+
+      <step>Add honey-sugar mixture, rum-leavening mixture and eggs to dry
+      ingredients. Using a stand mixer or your hands, mix together until
+      combined. If the dough is dry and crumbly, add up to two more
+      tablespoons rum to bring dough together. Once the dough comes together,
+      knead quickly on your work surface.</step>
+
+      <step>Place into an airtight container (minimum <size><qty>2</qty>
+      <unit>L</unit></size>). If there is a large gap to the top, cover with
+      plastic wrap. Store in your refrigerator for two to three weeks.</step>
+
+      <step><x:img src="/images/pfefferkuchen.jpg" class="photo"
+      alt="[Plate of pfefferkuchen, (c) 2007 Susan J. Talbutt, all rights
+      reserved]" />Preheat oven to <temp><qty>120</qty><tempunit unit="C"
+      system="metric">degrees</tempunit><!--250  degrees--></temp> (yes,
+      <temp><qty>120</qty><tempunit unit="C"
+      system="metric">degrees</tempunit><!--250  degrees--></temp>). Roll dough
+      very thin, cut with cutters, and bake on parchment-lined sheets 15 to 17
+      minutes. Cool. Whisk together the ingredients for the lemon glaze until
+      all lumps are gone. Brush with glaze. Store in an airtight
+      container.</step>
+    </dir-div>
+    <dir-div>
+      <title>For gingerbread construction</title>
+      <step>Preheat oven to <temp><qty>150</qty><tempunit unit="C"
+      system="metric">degrees</tempunit><!--250  degrees--></temp>. Roll dough
+      <size><qty>1/2</qty>-<unit>cm</unit></size> thick. Cut pieces out with a
+      smallish, finely-serrated knife (<x:strong>not a bread or cake
+      knife</x:strong>); work from the corners inward, to keep the dough from
+      stretching and distorting the shapes. Bake on parchment-lined sheets 20 to
+      30 minutes, longer for larger pieces. Cool. Double check the shape of the
+      baked pieces with the patterns. For the most egregiously out of shape
+      pieces, trim with a serrated bread or cake knife by slowly scoring the top
+      of the piece and then cutting gently with a bit more speed and pressure.
+      Assemble with royal icing.</step>
+    </dir-div>
+    </directions>
+  </recipe>
+</recipeml>

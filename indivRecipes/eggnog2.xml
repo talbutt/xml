@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Tuesday December 27, 2005" name="DC.Date"/>
+  <recipe id="Fast and Easy Eggnog">
+    <head>
+      <title>Fast and Easy Eggnog</title>
+      <subtitle>Sack posset</subtitle>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="region">England</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Personally, I have no qualms about drinking eggnog made from uncooked eggs. I'm not immuno-compromised and eggs are pretty fresh in my kitchen at Christmas (all that baking, of course).</xhtml:p>
+
+<xhtml:p>This eggnog is so simple it barely deserves a recipe, and the measurements are mere guidelines. Experiment with bourbon and brandy!</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>6 </qty>
+          </amt>
+          <item>eggs</item>
+<!--6 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>rum (or to taste)</item>
+<!--1 c. rum (or to taste)-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1 </qty>
+              <unit>qt</unit>
+            </amt>
+            <item>light cream</item>
+<!--1 qt. light cream-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1 </qty>
+              <unit>qt</unit>
+            </amt>
+            <item>whole milk</item>
+<!--1 qt. whole milk-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1 </qty>
+              <unit>qt</unit>
+            </amt>
+            <item>half and half</item>
+<!--1 qt half and half-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1/2 tsp. vanilla-->
+        </ing>
+        <ing>
+          <item>grated nutmeg</item>
+<!--grated nutmeg-->
+        </ing>
+        <ing>
+          <item>ground cinnamon (optional)</item>
+<!--ground cinnamon (optional)-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Beat eggs until light and foamy. Add sugar and salt, and beat until thick and lemon-colored. Gently stir in the cream or milk, vanilla and cinnamon. Chill. Sprinkle with nutmeg.</step>
+    </directions>
+  </recipe>
+</recipeml>

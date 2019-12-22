@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="apfelkuchen" system="metric">
+    <head>
+      <title>Apfelkuchen mit Nussstreusel</title>
+      <subtitle>Apple tart with nut crumbs</subtitle>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">Swabia</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>A typical fruit pie for the Stuttgart area. The recipe is
+	from my grandmother's sister-in-law, Tante Maria. </x:p>
+      <x:p>In my memories, Maria is always smiling and laughing, and seated with her
+(step) sister-in-law Matilda. Maria and Matilda were close friends as
+children, and became family when Maria married Matilda's step-brother. They
+were typical of their generation: no University education, but still smart,
+strong, very capable and happy with their blessings. Their
+husbands died at about the same time, and they wore mourning together. They
+lived half a mile from each other and saw each other every day.</x:p>
+      <x:p>Today, they are all gone now. I want to believe they are together again,
+and with Julie, Adolf, Ernst, Ernst, Frieda, Otto, Bertha and Frederika,
+drinking coffee and eating apple cake with <i>Schlagsahne</i>.</x:p>
+      <x:p>Traditionally, my aunts make this with the tartest, sourest apples they can find, a Swabian heirloom variety that will make your entire face pucker, it's so tart. Granny Smith is an acceptable substitute, but you can reduce the sugar in the streusel.</x:p>
+    </description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>
+            <x:a href="murbteig.html">M&#252;rbteig</x:a>
+          </item>
+
+<!--1 M&#252;rbteig-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>6</q1>
+              <q2>8</q2>
+            </range>
+          </amt>
+          <item>apples</item>
+          <prep>very tart</prep>
+
+<!--6 - 8 apples-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>For the custard</title>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+
+<!--1 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>mL</unit>
+          </amt>
+          <item>heavy cream (or a bit more)</item>
+
+<!--1 c. heavy cream (or a bit more)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>110</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+
+<!--1/2 c. butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+
+<!--1/2 c. sugar-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>For the streusel</title>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>100</qty>
+              <unit>g</unit>
+            </amt>
+            <item>ground almonds</item>
+
+<!--4 oz. ground almonds-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>100</qty>
+              <unit>g</unit>
+            </amt>
+            <item>ground hazelnuts</item>
+
+<!--ground hazelnuts-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>g</unit>
+          </amt>
+          <item>zweiback or bread crumbs</item>
+
+<!--2 oz. zweiback crumbs-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Roll out the m&#252;rbteig and place in a springform pan. I use a German, <size><qty>30</qty> <unit>cm</unit></size> pan with sloping sides, but a <size><qty>25</qty> <unit>cm</unit></size> pan has worked, as long as the pan is deep and the dough reaches all the way to the top.</step>
+
+      <step>Preheat the oven to <temp><qty>190</qty><tempunit system="metric" unit="C">degrees</tempunit><!--375  degrees--></temp>.</step>
+
+      <step>Peel, core, and halve the apples. Lay the apple flat side down onto the cutting board. Do not slice the apples like you would for an American apple pie, but slice almost down to the cutting board (deeper than scoring the apples), so that the apples hold their shape. Lay apples flat side down on the m&#252;rbteig. After fitting as many apples into the pan as possible, halve and quarter any remaining apples and fit them into the gaps.</step>
+
+      <step>Beat <ing><amt><qty>200</qty> <unit>g</unit></amt> <item>sugar</item></ing> and the eggs together, then mix in the cream. Use less sugar if your apples are not extremely tart. Pour egg-cream mixture over the apples.</step>
+
+      <step>Mix <ing><amt><qty>100</qty> <unit>g</unit></amt> <item>sugar</item></ing>, the butter, ground nuts and crumbs together. Use less sugar if your apples are not extremely tart. Sprinkle the crumb mixture over the egg-cream mixture.</step>
+
+      <step>Bake about one hour.</step>
+
+      <step><x:img src="/images/Apfelkuchen.jpg" class="photo" alt="[Apfelkuchen fresh from the oven, with a bowl of apples; copyright 2013 Susan J. Talbutt]" /></step>
+    </directions>
+  </recipe>
+</recipeml>
+

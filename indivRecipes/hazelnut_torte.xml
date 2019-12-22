@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Tante Marie" name="DC.Creator"/>
+  <recipe id="Hazelnut Torte">
+    <head>
+      <title>Hazelnut Torte</title>
+      <subtitle>Filbert Torte</subtitle>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Aunt Gertrude, Tante Marie's middle daughter, serves
+    this each year at Christmas when the whole family -- about fifty of us --
+    gathers for eggnog, cookies, cake, presents and a visit from Santa Claus.
+    She serves two tortes, two chocolate rolls, and a dozen varieties of
+    cookies. The menu hasn't changed in 20 or 30 years and I like it that
+    way!</xhtml:p>
+
+    <xhtml:p>When I've served this cake at parties, guests have followed me
+    from the kitchen to be sure they got one of the first pieces. </xhtml:p>
+
+<xhtml:p>"Filbert" is another name for hazelnut.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>6</qty>
+          </amt>
+          <item>eggs</item>
+          <prep>separated</prep>
+<!--6 egg yolks-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cream of tartar</item>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 cup sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>cold water</item>
+<!--3 Tbs cold water-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>cup</unit>
+            </amt>
+            <item>bread crumbs</item>
+<!--1/2 cup bread crumbs-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>5</qty>
+            </amt>
+            <item>Zwieback</item>
+            <prep>ground (1/2 cup)</prep>
+<!--5 Zwieback, ground (1/2 cup)-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>lb</unit>
+          </amt>
+          <item>hazelnuts</item>
+<!--1/2 lb. finely ground hazelnuts-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1 tsp baking powder-->
+        </ing>
+	  </ing-div>
+	  <ing-div>
+        <title>Whipped cream filling</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>heavy cream</item>
+<!--1 cup heavy cream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 tsp vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tbs</unit>
+          </amt>
+          <item>sugar </item>
+<!--1 tbs sugar -->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>325</qty><tempunit unit="F"
+      system="US">degrees</tempunit><!--325  degrees--></temp>.</step>
+
+      <step optional="yes">While the oven is preheating, spread the nuts on a
+      baking sheet and toast for five or six minutes, shaking once midway
+      through.</step>
+
+      <step>Beat egg yolks until foamy with 1 cup sugar. Add cold water and
+      continue to beat.</step>
+
+      <step>Add bread crumbs (or Zwieback), nuts and baking powder, and
+      mix.</step>
+
+      <step>Beat whites (and cream of tartar, if using) until stiff and fold
+      into nut mixture.</step>
+
+      <step>Grease and flour two 9" pans and place wax paper or parchment
+      paper circles into the bottom of the pans. Pour batter into pans.</step>
+
+      <step>Bake 25 mins. Allow to cool. Remove from pans when cold.</step>
+
+      <step>Beat heavy cream until peaks form; add vanilla and 1 tbs sugar to
+      sweeten. Frost and fill with sweetened whipped cream, leaving the sides
+      bare.</step>
+
+      <step>I use a bit more whipped cream than my aunt. If I'm feeling
+      particularly ambitious, I'll cut each layer in half to make four layers,
+      whip an extra half-cup of cream and fill between all four laters.</step>
+    </directions>
+  </recipe>
+</recipeml>

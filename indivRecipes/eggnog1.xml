@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Tuesday December 27, 2005" name="DC.Date"/>
+  <recipe id="Cooked Eggnog">
+    <head>
+      <title>Cooked Eggnog</title>
+      <subtitle>Sack posset</subtitle>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="region">England</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Salmonella scares got you down? It wouldn't be Christmas without eggnog. Here's a cooked eggnog recipe that should set your mind at ease, and you can put that quart of vaguely nog-flavored milk product back on the shelf. (Now with extra nogginess!)</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+          <prep>divided</prep>
+<!--1/2 c. sugar, divided-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 </qty>
+          </amt>
+          <item>eggs</item>
+          <prep>divided</prep>
+<!--2 eggs, divided-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/4 tsp. salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>qt</unit>
+          </amt>
+          <item>milk</item>
+<!--1 qt. milk-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>3/4 </qty>
+              <unit>c</unit>
+            </amt>
+            <item>brandy</item>
+<!--3/4 c. brandy-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>3/4 </qty>
+              <unit>c</unit>
+            </amt>
+            <item>rum</item>
+<!--rum-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>whipping cream</item>
+<!--1/2 c. whipping cream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 tsp. vanilla-->
+        </ing>
+        <ing>
+          <item>grated nutmeg</item>
+<!--grated nutmeg-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <note>This recipe can be doubled, but if more is desired, make multiple batches.</note>
+      <step>Beat egg yolks with <ing><amt><qty>5</qty> <unit>Tbs.</unit></amt> <item>sugar</item></ing> until light. Add salt and <ing><amt><qty>1</qty> <unit>c.</unit></amt> <item>milk</item></ing>. Cook and stir over medium-low to medium heat until the mixture coats the back of a spoon. Don't boil, don't try to cook over high heat. That way leads scrambled eggs. And keep stirring!</step>
+      <step>Beat egg whites until foamy, then gradually add the remaining <ing><amt><qty>3</qty> <unit>Tbs.</unit></amt> <item>sugar</item></ing>, and beat to soft peaks. While continuing stir, slowly drizzle in hot egg mixture to bring whites up to temperature. Stir in remaining <ing><amt><qty>3</qty> <unit>c.</unit></amt> <item>milk</item></ing>.</step>
+      <step>This is a good stopping point to make the eggnog in advance. Chill mixture in the refrigerator.</step>
+      <step>Add alcohol to taste. Pour nog into a punch bowl. Beat cream with vanilla, and top nog with dollops of whipped cream and sprinklings of nutmeg.</step>
+    </directions>
+  </recipe>
+</recipeml>

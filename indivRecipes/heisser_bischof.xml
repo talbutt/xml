@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="heisser_bischof" system="metric">
+    <meta content="2015-11-08" name="DC.Date"/>
+    <head>
+      <title>Heisser Bischof</title>
+      <subtitle>Hot bishop wine punch</subtitle>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Hot</cat>
+        <cat class="sub">Alcoholic</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Nut-free</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Dairy-free</cat>
+        <cat class="diet">Gluten-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>My husband describes this as "winter Sangria." The longer the wine steeps, the spicier (and less citrusy) the final drink will be.</x:p>
+      <x:p>This appears in a book about German Christmas markets. Hot wine drinks are common in Germany during any fall or winter outdoor event. There's nothing like waiting for the New Year's Eve fireworks near Brandenburgertor, and being served hot wine by a wizened old woman. From a crock pot.</x:p>
+    </description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>orange</item>
+          <prep>rinsed in hot water</prep>
+          <!--1 orange, rinsed in hot water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>750</qty>
+            <unit>ml</unit>
+          </amt>
+          <item>spicy white wine</item>
+          <prep>like a Gew&#252;rtztraminer (1 bottle)</prep>
+          <!--750 ml spicy white wine, like a Gew&uuml;rtztraminer (1 bottle)-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>2</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>honey</item>
+            <!--2 Tbs honey-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>2</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>turbinado sugar</item>
+            <!--turbinado sugar-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>40</qty>
+              <unit>ml</unit>
+            </amt>
+            <item>Cointreau</item>
+            <!--40 ml (3 Tbs) Cointreau-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>40</qty>
+              <unit>ml</unit>
+            </amt>
+            <item>Limoncello</item>
+            <!--Limoncello-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>stick</unit>
+          </amt>
+          <item>cinnamon</item>
+          <!--1 stick cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+		    <range>
+			  <q1>2</q1>
+			  <q2>4</q2>
+		    </range>
+            <unit>pods</unit>
+          </amt>
+          <item>cardamom</item>
+          <prep>lightly crushed</prep>
+          <!--2 - 4 pods cardamom, lightly crushed-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>small piece</unit>
+          </amt>
+          <item>ginger</item>
+          <!--1 small piece ginger-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Slice the orange. Place fennel seeds, cardamom pods and ginger in a tea ball if you have one. Place all ingredients in a medium saucepot. Cover and heat over low until steaming, but not simmering. Serve in heat-proof cups. Keep remaining punch covered and reduce heat to warm. Longer steeping makes a spicier, less citrus drink. For larger batches, increase the sugar and liqueur, but not the amount of spices, and steep a bit longer.</step>
+      <step><x:img src="/images/Heisser_bischof_oranges.jpg" class="photo" alt="[Orange slices and cinnamon stick steeping in white wine.]" /></step>
+    </directions>
+  </recipe>
+</recipeml>

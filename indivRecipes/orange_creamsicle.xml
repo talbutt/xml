@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Friday November 18, 2005" name="DC.Date"/>
+  <meta content="Mary" name="DC.Creator"/>
+  <recipe id="Orange Creamsicle Cookies">
+    <head>
+      <title>Orange Creamsicle Cookies</title>
+      <source>Mary</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>From my mother-in-law.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>Tang orange crystals or other orange drink mix</item>
+<!--other orange drink mix-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sugar</item>
+<!--3/4 cup sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>butter</item>
+<!--1/2 cup butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+<!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>vanilla extract</item>
+<!--1 teaspoon vanilla extract-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 3/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>all-purpose flour</item>
+<!--1 3/4 cups all-purpose flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>baking soda</item>
+<!--1/2 teaspoon baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1/2 teaspoon baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>vanilla baking chips</item>
+<!--1 1/2 cups vanilla baking chips-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>. Beat butter until light &amp; fluffy. Add the sugar,egg,tang &amp; vanilla extract,beat for another minute or so. Add remaining dry ingredients,mix well. Roll heaping TBs into balls. Place 2" apart onto a lightly greased baking sheet. Bake for 12 to 14 minutes or until tops are very lightly browned. Cool 5 minutes on sheet then transfer to wire racks to cool completely. </step>
+    </directions>
+  </recipe>
+</recipeml>

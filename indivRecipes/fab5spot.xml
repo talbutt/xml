@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="fab5spot" system="US">
+    <meta name="DC.Date" content="2019-10-04"/>
+    <meta content="Jack P" name="DC.Creator"/>
+    <head>
+      <title>Fabulous Five Spot</title>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Cold</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>After sending out a call on Twitter for some ideas of what to do with all our bourbon, our college friend and cocktail aficionado Jack suggested a couple recipes, including this one. Jack has hosted some delightful cocktail parties and was long the only other person who could make a negroni, so I trusted his judgement and shook up a couple.</x:p>
+      <x:p>This eponymous variation on a stiletto is from one of the first bars in Philadelphia to embrace the cocktail resurgence. The Five Spot also had swing dancing that we went to a couple of times; it was there that I had my first negroni from a professional bartender. The citrus of the Cointreau and lime cut the sweetness and heaviness of the bourbon and amaretto.</x:p>
+    </description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>fluid ounces</unit>
+          </amt>
+          <item>bourbon</item>
+          <!--    1 1/2 ounces bourbon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>fluid ounce</unit>
+          </amt>
+          <item>Amaretto</item>
+          <!--3/4 fluid ounce Amaretto-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/8</qty>
+            <unit>fluid ounce</unit>
+          </amt>
+          <item>Cointreau</item>
+          <!--3/8 fluid ounce Cointreau-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/8</qty>
+            <unit>fluid ounce</unit>
+          </amt>
+          <item>lime juice</item>
+          <!--3/8 fluid ounce lime juice-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Shake with ice and strain into a cocktail glass, or pour over ice in a rocks glass.</step>
+      <step>I find it easier to measure a double version and share.</step>
+      <step><x:img src="/images/advent2017/fiveSpot.jpg" class="photo" alt="[Bourbon cocktail in a rocks glass next to three vintage ornaments; copyright 2017 Jorj F. Bauer, all rights reserved]" /></step>
+    </directions>
+  </recipe>
+</recipeml>

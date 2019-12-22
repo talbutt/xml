@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="kiffle">
+    <meta content="2010-12-16" name="DC.Date"/>
+    <meta content="Boj" name="DC.Creator"/>
+    <head>
+      <title>Kiffle</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Rolled</cat>
+        <cat class="region">Poland</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Our friends Shawn and Boj make hundred of these nut-filled cookies every year. One batch makes 70 cookies; the first year I helped they made 8 batches for 560 cookies. They spend and entire evening making the filling and forming the dough for the wrappers into small balls. Friends and family come the second day to form a massive assembly line, with one group rolling the dough balls into pancakes and the other group would fill with ground nuts and roll up the dough. After two trays were filled, Boj spent his time running the trays in and out of the oven, then rolling them in powdered sugar when they'd cooled.</x:p>
+      <x:p>Boj explained they'd made only a single batch the first year of baking Kiffle, but they quickly needed to add more batches as their kids kept giving more cookies away -- but they would bring friends for the assembly line.</x:p>
+      <x:p>If walnut filling isn't to your liking, you can substitute other nuts or used canned poppyseed filling rather than making your own.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+          <title>Dough</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>butter</item>
+          <!--1 cup butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour </item>
+          <prep>more for rolling</prep>
+          <!--2 cups flour (more for rolling)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs separated</item>
+          <!--4 eggs separated-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>yolks</item>
+          <!--4 yolks-->
+        </ing>
+      </ing-div>
+      <ing-div>
+          <title>Filling</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sugar</item>
+          <!--1 cup sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>walnuts</item>
+          <prep>finely ground (or other nuts)</prep>
+          <!--2 cups walnuts, finely ground (or other nuts)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <prep>for dusting</prep>
+          <!--1 cup powdered sugar for dusting-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <dir-div>
+        <title>Dough</title>
+      <step>Cut the butter into the flour. Add 8 egg yolks and mix by hand until the dough is smooth. Roll into a log and cut into seven equal pieces. Cut each of those into ten pieces and form into balls. Chill overnight. Shawn had stored them in layers separated by aluminum foil.</step>
+      </dir-div>
+      <dir-div>
+        <title>Filling</title>
+      <step>Beat the whites of four eggs stiff, then fold in the sugar and walnuts. If the filling is dry, add the stiffly beaten white of a fifth egg. Chill overnight.</step>
+      </dir-div>
+      <dir-div>
+        <title>The next day</title>
+      <step>Shawn put the filling into squeeze bottles with the tops cut off. It made filling quicker, easier, and cleaner.</step>
+      <step>Preheat the oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  F--></temp>. Roll the balls flat, they should be very thin and more oval than completely round. It doesn't matter if the edges are ragged. Add about 2 Tbs filling toward the bottom of the rolled out dough, and roll up into a tube. Pinch the ends closed to keep the filling in while they bake.</step>
+      <step>Bake 10 to 12 minutes until lightly brown.</step>
+      <step>Cool on racks, then roll in powdered sugar.</step>
+      </dir-div>
+    </directions>
+  </recipe>
+</recipeml>

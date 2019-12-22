@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Maria Mannherz" name="DC.Creator"/>
+  <recipe id="Haselnussbr&#246;tchen">
+    <head>
+      <title>Haselnussbr&#246;tchen</title>
+      <subtitle>Hazelnut Meringues</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Meringue</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">dairy-free</cat>
+        <cat class="diet">gluten-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>In German, a Broetchen is a little bread; therefore,
+    these are little hazelnut breads. Gran'ma rarely made these because she
+    could never chop the nuts finely enough, she said. However, with a food
+    processor, this is a very easy recipe. The only problem I had was not
+    knowing the shape of the cookies to make. The first time, I, for an
+    unknown reason, decided they should be bar cookies. It became a delicious
+    failure.</xhtml:p>
+
+    <xhtml:p>Save seven of the yolks for Ausstecherle, and the remaining yolk
+    for glazing the Ausstecherle.</xhtml:p>
+	</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>lb</unit>
+          </amt>
+          <item>hazelnuts</item>
+<!--1 1/2 lb chopped hazelnuts-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+          </amt>
+          <item>egg whites</item>
+<!--8 egg whites-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cream of tartar</item>
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--2 1/2 c. sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>325</qty><tempunit unit="F"
+      system="US">degrees</tempunit><!--350  degrees--></temp>.</step>
+
+      <step optional="yes">While the oven is preheating, spread the nuts on a
+      baking sheet and toast for five or six minutes, shaking once midway
+      through.</step>
+
+      <step>Grind the hazelnuts in a food processor until very finely chopped.
+      This will take a minute or minute and a half for each bowlful. If you
+      wish, reserve and chop about 1/4 cup of nuts to use as
+      decorations.</step>
+
+      <step>In a large (4 1/2 qt) bowl, beat the egg whites until stiff.
+      Slowly add the sugar while continuing to beat. Once the sugar is added,
+      beat until stiff peaks form and the mixture is glossy. Fold in the
+      ground nuts.</step>
+
+      <step>Drop small spoonfuls onto a parchment-paper-covered cookie sheet,
+      <xhtml:i>or</xhtml:i> fill a large pastry bag fitted with a very large,
+      plain tip (I use a #809), and pipe circles of meringue. This may seem
+      like overkill, but I found it was easier and faster to pipe the
+      cookies.</step>
+
+      <step optional="yes">Smooth the tops of the cookies with a finger or the
+      back of a spoon dipped in water. Place a reserved nut piece on the
+      center of each cookie. </step>
+
+      <step>Bake 25 to 30 minutes or until light brown. Essentially, the
+      cookies will dry out.</step>
+    </directions>
+  </recipe>
+</recipeml>

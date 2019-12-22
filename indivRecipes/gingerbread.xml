@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Wen Zientek-Sico" name="DC.Creator"/>
+  <recipe id="World's Best Gingerbread Cookies">
+    <head>
+      <title>World's Best Gingerbread Cookies</title>
+      <source>Wen Zientek-Sico</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Gingerbread cookies, especially gingerbread men, have always been popular at Christmas time. For years we made gingerbread cookies that, while very tasty, were as hard as rocks. One year I decided to really work with the recipe to get a cookie that would stay soft even when stored for a while that still had all the gingerbread flavor one could want. This cookie was the result - and everyone who tries them instantly agrees that they are the best gingerbread cookies they have ever tried. The cookies are great plain, but I have also added a recipe for Royal Icing which can be used to give detail and features to the cookies if desired.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>unsalted  butter</item>
+          <prep>softened</prep>
+<!--3/4 cup unsalted  butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sugar</item>
+<!--3/4 cup sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>unsulphured molasses</item>
+<!--3/4 cup unsulphured molasses-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>water</item>
+<!--1/4 cup water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 teaspoon salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoon </unit>
+          </amt>
+          <item>baking soda</item>
+<!--1/2 teaspoon baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit>
+          </amt>
+          <item>ground ginger</item>
+<!--2 teaspoons ground ginger-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons </unit>
+          </amt>
+          <item>ground cinnamon</item>
+<!--2 teaspoons ground cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon </unit>
+          </amt>
+          <item>freshly grated nutmeg</item>
+<!--1 teaspoon freshly grated nutmeg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>allspice</item>
+<!--1/4 teaspoon allspice-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoon </unit>
+          </amt>
+          <item>ground cardamon</item>
+<!--1/2 teaspoon ground cardamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3 1/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+<!--3 1/4 cups flour-->
+        </ing>
+	  </ing-div>
+	  <ing-div>
+	  	<title>Royal Icing</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <prep>sifted</prep>
+<!--1 cup powdered sugar, sifted-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+            </amt>
+            <item>large egg white</item>
+<!--1 large egg white-->
+          </alt-ing>
+          <alt-ing>
+            <item>equivalent meringue powder and water</item>
+<!--equivalent meringue powder and water-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>teaspoon </unit>
+          </amt>
+          <item>cream of tartar</item>
+<!--1/8 teaspoon cream of tartar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoon </unit>
+          </amt>
+          <item>orange extract</item>
+<!--1/4 teaspoon orange extract-->
+        </ing>
+        <ing optional="yes">
+          <item>paste or gel food coloring </item>
+<!--gel food coloring (optional)-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+	  <dir-div>
+        <step>In a large bowl cream together the butter and sugar until fluffy. Stir in the molasses and water. In a medium bowl whisk together the remaining ingredients. Slowly add the dry ingredients to the butter mixture, stirring constantly. Divide the dough in half and flatten to a round disk. Wrap each disk in plastic wrap and chill overnight. (You can freeze half or all of it if desired for later use.)</step>
+	  </dir-div>
+	  <dir-div>
+        <title>The next day</title>
+        <step>Preheat the oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp> and lightly grease your cookie sheets. On a lightly floured surface roll out one of the disks, leaving the other chilled. Roll to a 1/4 inch thickness, adding more flour if needed. Cut the cookies into desired shapes and place about an inch apart on the prepared cookie sheets. Bake for 6-10 minutes depending on the size of the cookies. Cookies should be firm but not browned. Reroll the scraps and continue to cut and bake until the dough is gone. Cool the cookies on the cookie sheets for three minutes, then remove to wire racks to finish cooling. Frost if desired with royal icing and let dry for 24 hours. Store in airtight containers.</step>
+	  </dir-div>
+	  <dir-div>
+        <title>Royal Icing</title>
+        <step>Traditionally egg whites are used in making royal icing, but because of concerns about salmonella I have switched to using meringue powder. While more expensive than an egg white, the icing comes out perfect every time and there is no need to worry about letting children or the elderly enjoy the cookies. It is very important not to overbeat this icing as it can (and will) break down. You can use the icing white, or tint it using paste or food colors. Liquid food colors will make the icing too watery - unless you are using meringue powder and substitute some of the food coloring for the water.</step>
+        <step>In a large bowl beat the powdered sugar, egg white, cream of tartar, and orange extract on medium high speed for 5 minutes. Check and see if you can form peaks with a teaspoon. If you cannot, beat at a higher speed for a minute more and check again. Beat and check at thirty second intervals until the peaks will form. Tint icing with food coloring if desired.</step>
+	  </dir-div>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  8, 2006" name="DC.Date"/>
+  <recipe id="Basic Scones">
+    <head>
+      <title>Basic Scones</title>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="region">Scotland</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>A basic scone based on a recipe from The New Doubleday Cookbook. Once you've made these a few times, you'll find they are very quick to whip up for breakfast on the weekends. The raisin scones are very good with fig jam, but my favorite are the ginger-lemon scones.
+</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--1 1/4 c flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1/4 c sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/4 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1 1/2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+<!--1/4 c butter-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/4</qty>
+              <unit>c</unit>
+            </amt>
+            <item>crystalized ginger</item>
+            <prep>minced</prep>
+			<ing-note> plus grated rind of one lemon </ing-note>
+<!--1/4 c crystalized ginger, minced, and grated rind of one lemon-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/3</qty>
+              <unit>c</unit>
+            </amt>
+            <item>raisins</item>
+			<ing-note> plus 1/2 t cinnamon </ing-note>
+<!--1/3 c raisins and 1/2 t cinnamon-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/3</qty>
+              <unit>c</unit>
+            </amt>
+            <item>dried cranberries </item>
+			<ing-note> plus grated rind of half orange </ing-note>
+<!--1/3 c dried cranberries and grated rind of half orange-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>c</unit>
+            </amt>
+            <item>mini chocolate chips</item>
+			<ing-note> (reduce sugar by half) </ing-note>
+<!--1/2 c mini chocolate chips (reduce sugar by half)-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+<!--1 egg-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>2</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>milk</item>
+<!--2 Tb milk-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>2</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>cream</item>
+<!--cream-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>425</qty><tempunit unit="F" system="US">degrees</tempunit><!--425  degrees--></temp>.</step>
+      <step>Sift dry ingredients together, including any spices. Cut in butter. Add ginger or raisins. Lightly beat egg and milk together, and add to dry ingredients. It may seem as if more milk is needed, but it isn't. Stir quickly until most, if not all flour has formed into a dough.</step>
+      <step>On a floured surface, quickly and lightly knead in any leftover flour bits. Roll dough into a circle 1/2 inch thick and 9 inches in diameter. Cut into eight triangles. If desired, brush tops with a little milk and sprinke with some extr sugar. Space evenly on a baking sheet and bake 12 to 15 minutes, until golden brown.</step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Maria Mannherz" name="DC.Creator"/>
+  <recipe id="S's">
+    <head>
+      <title>S's</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>These are similar to the Austecherle, but are a little easier to make.</xhtml:p>
+
+<xhtml:p>As a child, and the only child of an only child (making me an only grandchild) I thought the S shape was for Susan. That my mother's name begins with F, that everyone else in the family made S's (and not for me) did not dissuade me from this belief for many, many years. Now when I make them, I also make a few J's for my husband.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+<!--1 c. butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+          <ing-note>, scant</ing-note>
+<!--1 c. sugar, scant-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>6</qty>
+            </amt>
+            <item>yolks</item>
+<!--6 yolks-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>4</qty>
+            </amt>
+            <item>whole eggs</item>
+<!--4 whole eggs-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>vanilla extract</item>
+<!--vanilla extract-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>lemon extract</item>
+<!--1 tsp. lemon-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <item>a little salt</item>
+<!--a little salt-->
+        </ing>
+        <ing>
+          <amt>
+		  	<range>
+		      <q1>4</q1>
+		      <q2>4 1/4</q2>
+		  	</range>
+            <unit>c</unit>
+          </amt>
+          <item>cake flour</item>
+<!--4 cups cake flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1 tsp. baking powder-->
+        </ing>
+        <ing>
+          <item>egg wash</item>
+<!--Egg wash-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>.</step>
+      <step>Cream butter and sugar. Add eggs one at a time, beating after each. Add extract and beat.</step>
+      <step>Sift or mix dry ingredients, and beat in. Dough will be very sticky.</step>
+      <step>Chill at least a half hour, and keep dough chilled while you roll it.</step>
+      <step>Roll a lump of dough into a log, 1/2 inch in diameter. Cut log into 3 or 4-inch lengths and form S's. Brush tops with egg wash (whole egg, yolk or white thinned with a milk or water) and sprinkle with sugar. Bake 20 to 25 minutes (more for larger S's).</step>
+	  <xhtml:p style="text-align: center"><xhtml:img src="/images/ess_ornaments.gif" alt="S's with ornaments" class="photo" style="border: none" /></xhtml:p>
+    </directions>
+  </recipe>
+</recipeml>

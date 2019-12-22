@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="spongecake">
+    <meta content="2010-05-31" name="DC.Date"/>
+    <meta content="Heide" name="DC.Creator"/>
+    <head>
+      <title>Spongecake</title>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">Germany</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>This versatile cake can be turned into a Rouladen (aka jelly roll or Swiss roll), the base for a strawberry shortcake, or a fresh fruit tart. Although sponge cake is universal, the Rouladen and fresh fruit tart are, to me, very German. The corn starch makes the cake very tender, and gives it a distinctive taste.</x:p>
+      <x:p>In winter it can be the basis of a jelly roll, and in summer the bottom of a fruit tart. Every February, it becomes the basis of a strawberry shortcake for my brother-in-law, who has always and will always want only a strawberry shortcake for his birthday. It's also great for summer, as it takes 15 minutes or less to bake the cake, keeping your kitchen cooler.</x:p>
+    </description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>5</qty>
+          </amt>
+          <item>eggs</item>
+          <prep>separated</prep>
+          <!--5 eggs, separated-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit>
+          </amt>
+          <item>cold water</item>
+          <!--2 tablespoons cold water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--200 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+          <!--1 1/2 tsp vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>80</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+          <!--80 g flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>80</qty>
+            <unit>g</unit>
+          </amt>
+          <item>corn starch</item>
+          <!--80 g corn starch-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>375</qty>
+            <unit>ml</unit>
+          </amt>
+          <item>whipping cream</item>
+          <!--375 ml whipping cream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>sugar</item>
+          <!--2 Tbs sugar-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <item>jelly</item>
+            <!--jelly-->
+          </alt-ing>
+          <alt-ing>
+            <item>strawberries</item>
+            <!--strawberries-->
+          </alt-ing>
+          <alt-ing>
+            <item>other fresh fruit</item>
+            <!--other fresh fruit-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven (see below). Whisk together the flour, cornstarch and baking powder.</step>
+      <step>Whip the egg whites and water until soft peaks form. Gradually add 200 g sugar while continuing to whip until glossy and stiff peaks form. Gently mix in the egg yolks and vanilla.</step>
+      <step>Sift the dry ingredients a bit at a time over the egg mixture and gently fold in. You are trying to avoid big lumps of flour, but small lumps will form despite your best efforts.</step>
+      <step>Jelly roll:&#13;
+Preheat the oven to <temp><qty>225</qty><tempunit unit="C" system="metric">degrees</tempunit><!--225  C--></temp>. Line a large jelly roll pan with parchment paper and spread the batter evenly. Bake 8 - 10 minutes, until springy when touched and just pulling away from the edges of the pans. Allow to cool just enough to handle. Gently pull the paper off the cake, and immediately roll in a clean dishtowel and allow to cool; don't roll too tightly, just about to the size of a jelly roll. I like to roll so that the long side remains straight; this gives more slices.</step>
+      <step>Whip the cream with 2 Tb sugar. Spread with your choice of jelly, then with whipped cream. Re-roll and slice.</step>
+      <step>Strawberry shortcake:&#13;
+Preheat the oven to <temp><qty>200</qty><tempunit unit="C" system="metric">degrees</tempunit><!--200  C--></temp>. Line two 23-cm pans with parchment paper; divide the batter evenly between the two pans and smooth the tops. Bake 16 minutes, until springy. Cool in the pans, then gently turn out and remove the paper. Allow to completely cool. Wrap one cake in plastic wrap, then in foil and freeze for up to 3 months.</step>
+      <step>Slice the other cake into two layers. Whip cream with 2 Tbs sugar. Slice 500 g strawberries, and sprinkle with 2 or 3 Tbs sugar. Spread half the slice strawberries on the bottom layer; spread half the whipped cream over this. Top with the remaining cake, then strawberries, then whipped cream. Place a few whole berries on top.</step>
+      <step>Fresh fruit tart:&#13;
+Preheat the oven to <temp><qty>220</qty><tempunit unit="C" system="metric">degrees</tempunit><!--220  C--></temp>. Line a 30-cm pan with parchment paper. Spread the batter evenly in the pan. Bake for 13 minutes, then allow to cool. Gently turn out of the pan and remove paper. I have a very shallow pan, and return the cake to it.</step>
+      <step>Whip cream with 2 Tbs sugar; spread over cake. Top with sliced ripe fruit; as little of the whipped cream should be peeking through as possible.</step>
+    </directions>
+  </recipe>
+</recipeml>

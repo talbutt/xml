@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday January  4, 2006" name="DC.Date"/>
+  <meta content="Vivi McGarian's mother" name="DC.Creator"/>
+  <recipe id="Pfefferkuchen">
+    <head>
+      <title>Pfefferkuchen</title>
+      <subtitle>Peppercake</subtitle>
+      <source>Karin Froebel</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Vivi's mother lived in Berlin before the second world war.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>560</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+<!--560 g flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>white sugar</item>
+<!--250 g white sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>190</qty>
+            <unit>g</unit>
+          </amt>
+          <item>honey</item>
+<!--190 g honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>ground almonds</item>
+<!--250 g ground almonds-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>190</qty>
+            <unit>g</unit>
+          </amt>
+          <item>candied lemon peel </item>
+          <ing-note>(mixed will do)</ing-note>
+<!--190 g candied lemon peel (mixed will do)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+		  <modifier>
+		  	<size>medium</size>
+		  </modifier>
+          <item>egg yolks</item>
+<!--2 medium egg yolks-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+<!--125 g butter-->
+        </ing>
+        <ing>
+          <amt>
+            <unit>cup</unit>
+          </amt>
+          <item>water</item>
+<!--small cup water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>ground mace</item>
+<!--1/2 tsp ground mace-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>ground cinnamon</item>
+<!--1 tsp ground cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>g</unit>
+          </amt>
+          <item>ground cardamoms</item>
+<!--1 g ground cardamoms-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>Hartshorn</item>
+          <ing-note>(Baker's Ammonia, Ammonium Bicarbonate or Carbonate of Ammonia in English)</ing-note>
+<!--1/2 tsp Hirschhornsalz = Hartshorn, Ammonium Bicarbonate Carbonate of Ammonia in English-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>g</unit>
+          </amt>
+          <item>Pottasche = Saltpetre (potassium nitrate) in English</item>
+<!--6 g Pottasche = Saltpetre (potassium nitrate) in English-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <prep>beaten</prep>
+<!--1 egg,-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Freshly ground spices really add something. If possible, grind them fresh just before use (pestle and mortar) and sieve them through a tea strainer to separate out the husks and big bits. I probably add a bit more of each than in the recipe. The quantities above are half of the original recipe, hence some funny numbers. I find it makes about 5 tray-fuls of biscuits. You can get the Hirschhornsalz and Pottasche in some specialist delis. (I get them from Germany, and the packets last ages). If stuck, try baking powder.</step>
+      <step>Mix the dry ingredients: flour, spices, candied peel and ground almonds. Heat the water, sugar, honey, and butter in a pan. Allow to cool a little, add the egg yolks, and while warm, mix into the flour mixture. Sprinkle some flour over, cover the bowl with a tea towel and leave to stand overnight. Divide into 3 portions; roll each out thickly. Cut into biscuit shapes (I use a mixture of round and gingerbread men shaped cutters.) (Optional) Paint the surface with beaten egg, and decorate with lemon or orange peel. Bake on a greased and floured baking tray at <temp><qty>180</qty><tempunit unit="C" system="metric">degrees</tempunit></temp> for 12 minutes, or until a light golden colour. (Don't allow them to get too dark). Using a palette knife, transfer the biscuits onto a wire rack to cool.</step>
+      <step>Keep in an airtight tin. </step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="wintermilch" system="metric">
+    <meta content="2011-01-09" name="DC.Date"/>
+    <head>
+      <title>Wintermilch</title>
+      <subtitle>Winter milk</subtitle>
+      <categories>
+        <cat class="diet">Gluten-free</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Nut-free</cat>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Hot</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>I first encountered Wintermilch on the menu of <x:a href="http://www.darmstadtnacht.de/cafe-darmstadt/cafe-chaos.htm">Cafe Chaos, in Darmstadt</x:a>, while visiting Tobi, our first exchange student, while he finished his studies.</x:p>
+      <x:p>The Cafe has a commitment to freshly-prepared, seasonal food. Our fellow diners were college students, young parents with their kids, and middle-aged friends out for dinner. The menu was extensive and varied. It was November, and I was able to have my first Gluehwein of the season. The menu also had Wintermilch, but it was time to return to our hotel before I could order it. Tobi disparaged my choice, "It's just milk with spices!" Still, it was necessary to track down the recipe and try it.</x:p>
+      <x:p>As it happens, Wintermilch has two meanings in German, and the second is the quality of milk made by cows when they eat winter feed, rather than grazing in the fields, as in summer. It made for an interesting search.</x:p>
+      <x:p>This is based on a recipe from a Germany dairy.</x:p>
+    </description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>L</unit>
+          </amt>
+          <item>milk</item>
+          <!--1 L milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+          </amt>
+          <item>vanilla bean</item>
+          <!--1/2 vanilla bean-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>stick</unit>
+          </amt>
+          <item>cinnamon</item>
+          <!--1 stick cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>cloves</item>
+          <!--4 cloves-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>sugar </item>
+          <!--1 Tbs. sugar (optional)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>ml</unit>
+          </amt>
+          <item>Amaretto</item>
+          <!--100 ml Amaretto-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Combine milk, vanilla bean, cinnamon stick, cloves and sugar (if using) in a <size><qty>1 1/2</qty> <unit>L</unit></size> pan and heat milk over medium high heat until it is steaming but not boiling. Reduce heat to medium so that the milk is still steaming but does not boil, and allow to steep for 10 minutes.</step>
+      <step>Remove from heat and add the Amaretto. Strain into mugs. Top with a bit of whipped cream if you like.</step>
+      <step>To make a non-alcoholic version, make with almond milk, either bought or home-made.</step>
+    </directions>
+  </recipe>
+</recipeml>

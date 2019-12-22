@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <recipe id="Mandelbrot">
+    <head>
+      <title>Mandelbrot</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This is like a German biscotti, but not anise flavored. Tracking down this recipe required a long and arduous search, finding the original that was the basis for this recipe in Granma's oldest cookbook. Surprisingly, it called for chocolate, something that seems more in tune with a modern American recipe, not a German recipe old enough to have grandchildren.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs</item>
+<!--4 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 1/4 c sugar-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>8</qty>
+              <unit>oz</unit>
+            </amt>
+            <item>almonds</item>
+            <prep>ground</prep>
+<!--8 oz ground almonds-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>8</qty>
+              <unit>oz</unit>
+            </amt>
+            <item>hazelnuts</item>
+            <prep>ground</prep>
+<!--hazelnuts, ground-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>oz</unit>
+          </amt>
+          <item>semi-sweet chocolate</item>
+          <prep>ground</prep>
+<!--4 oz semi-sweet chocolate, ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--2 1/4 c flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>t</unit>
+          </amt>
+          <item>cinnamon</item>
+<!--1 t cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>t</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1/4 t baking powder-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>whole nuts </item>
+<!--1 c whole nuts (optional)-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg white</item>
+<!--1 egg white, optional -->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>.</step>
+      <step>Beat together eggs, sugar and ground nuts in a 3-quart saucepan. Heat over medium-low heat until lukewarm (90 to <temp><qty>100</qty><tempunit unit="F" system="US">degrees</tempunit><!--100  degrees--></temp>). If you start to smell scrambled eggs, take the saucepan off the heat immediately. Add broken chocolate, stirring until the chocolate is melted. Sift together flour, cinnamon and baking powder and mix in until a stiff dough forms. Add whole nuts if desired.</step>
+      <step>With wet hands (keeping a bowl half-filled with water nearby is a help), form the dough into two, 4-inch logs wide on a parchment-covered baking tins. Brush with egg white or smooth with wet hands. Bake for 30 minutes.</step>
+      <step>Allow to cool on racks.</step>
+      <step>Keep oven at <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>. Slice loafs into 1/2-inch slices, return to cookie sheets, and toast for 10 minutes.</step>
+    </directions>
+  </recipe>
+</recipeml>

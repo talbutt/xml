@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <recipe id="springerle3">
+    <meta content="2000-12-01" name="DC.Date"/>
+    <meta content="Great-Aunt Frieda and Great-Grandmother" name="DC.Creator"/>
+    <head>
+      <title>Springerle III</title>
+      <source>Jan Bissell</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Swabia</cat>
+        <cat class="region">Germany</cat>
+        <cat class="region">Switzerland</cat>
+        <cat class="diet">Dairy-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xLp>This is a compilation of two recipes, one acquired
+    from my Great Aunt in 1978 and another hand-written with fountain pen by my
+    great-grandmother who died in 1945, inherited from my grandmother, found in
+    her recipe box after she died. The ingredient that causes the recipes to be
+    different is the addition of a small amount of butter which makes the
+    cookies stay softer.</xLp>
+
+    <xLp>Great Aunt Frieda would send 3 dozen of these to my grandmother,
+    Helena Putz Marx, for Christmas every year, and hers were always risen
+    higher and remained softer than any other recipe I
+    tried.</xLp></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>large eggs</item>
+          <prep>at room temperature</prep>
+<!--4 large eggs, at room temperature-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pound</unit>
+          </amt>
+          <item>powdered sugar</item>
+<!--1 pound powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <ing-note>20 drops</ing-note>
+          <item>anise OIL</item>
+<!--20 drops (approximately 1/4 teaspoon) anise OIL-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sifted all-purpose flour</item>
+<!--4 cups sifted all-purpose flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>Baking Powder</item>
+<!--1/2 teaspoon Baking Powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>bakers Ammonia</item>
+          <ing-note> (Available at some drug stores)</ing-note>
+<!--1/4 teaspoon bakers Ammonia (Available at some drug stores)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>baking soda</item>
+<!--1/4 teaspoon baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>butter</item>
+          <prep>melted</prep>
+<!--1/4 cup butter, melted-->
+        </ing>
+        <ing>
+            <item>Additional desirable items: A very strong stand mixer with a "paddle", a medicine-dropper for measuring the anise oil, a rolling pizza cutter, a regular rolling pin, springerle rolling pin, or imprinters and airbake cookie sheets.</item>
+<!--Additional desirable items: A very strong stand mixer with a "paddle", a medicine-dropper for measuring the anise oil, a rolling pizza cutter, a regular rolling pin, a springerle rolling pin-->
+<!--imprinters and airbake cookie sheets.-->
+        </ing>
+          <note>Anise OIL does not evaporate out of the cookies as anise EXTRACT does.</note>
+<!--Anise OIL does not evaporate out of the cookies as anise EXTRACT does.-->
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Beat eggs in stand mixer with "paddle" (not the wire whip) until light. Slow mixer down and continue beating while adding powdered sugar. Continue beating for 15 to 20 minutes, or until like soft meringue. Slow mixer down again and add the anise oil, measuring with medicine dropper, and add the butter.</step>
+      <step>Slow mixer way down and mix together three cups of the flour,the bakers ammonia, baking powder and baking soda, and gradually add to the mixer. Add enough of the last cup of flour to make the dough stiff enough to roll.</step>
+      <step>If you sample the dough at this point, you will be able to taste the Baker's ammonia, but it will completely evaporate out when the cookies are baked, but helps them to be higher and lighter. The last cup of flour is used to make the dough stiff enough to handle and also to flour the rolling pin and board.</step>
+      <step>When the dough is stiff enough to roll, stop mixer, remove paddle or beater, cover bowl with a dishtowel and let dough sit for 15 minutes to ripen. This DOES make a difference--it will make the dough easier to handle although the dough will still be sticky.</step>
+      <step>On lightly floured surface with regular rolling pin, roll dough a little thicker than 1/4 inch. Dust Springerle rolling pin or other forms with flour and press into dough hard enough to make clear impressions. Use pizza cutter to cut cookies apart and place on greased air-bake cookie sheets. One recipe should fill up two sheets.</step>
+      <step>Let stand UNCOVERED on cookie sheets for 8 hours or for overnight. Tops of cookies must be DRY for impression to remain when they are baked.</step>
+      <step>Bake in slow <temp><qty>300</qty><tempunit unit="F" system="US">degrees</tempunit><!--300  degree--></temp> oven for 20 minutes until set but not brown. Do not allow bottoms or tops of cookies to brown. Air bake sheets work best for this. The cookies should be a light straw color when done.</step>
+      <step>Cookies are best if allowed to age in airtight containers (ziplock bags work for this)for several days before eating or freezing. I include in each container a napkin soaked with a few more drops of anise oil.</step>
+      <step>Makes enough to fill two air-bake sheets.</step>
+      <step>These are great with coffee for breakfast in the morning--so be aware of disappearing cookies before Christmas!</step>
+    </directions>
+  </recipe>
+</recipeml>

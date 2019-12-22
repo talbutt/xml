@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  1, 2006" name="DC.Date"/>
+  <meta content="Grammy" name="DC.Creator"/>
+  <recipe id="Pecan Balls">
+    <head>
+      <title>Pecan Balls</title>
+      <source>Sherry Weller</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This is one of the first cookies I learned to make. They are easy to do, and are great for kids helping out. They are very dense and have a creamy texture. My Mom got the receipe from my Grammy.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>stick</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+<!--1 stick butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tbs</unit>
+          </amt>
+          <item>confectioners sugar</item>
+<!--3 tbs confectioners sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--1 c flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>pecans</item>
+          <prep>chopped fine</prep>
+<!--1 c pecans, chopped fine-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream the butter with the sugar. Mix the rest of the ingredients until the dough turns into fine crumbs. Roll into small balls, and bake 10 minutes at <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>. When cool, roll into powdered sugar.</step>
+    </directions>
+  </recipe>
+</recipeml>

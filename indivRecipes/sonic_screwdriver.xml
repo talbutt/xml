@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="sonic_screwdriver">
+    <meta content="2018-03-30" name="DC.Date"/>
+    <meta name="DC.Creator" content="Susiej"/>
+    <head>
+      <title>Sonic screwdriver</title>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Cold</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Dairy-free</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>I am a <x:a href="http://www.christmas-baking.com/advent2014/08.html">Whovian</x:a>, that is, an ardent fan of the British sci-fi series Doctor Who. It is my comfort television, despite occasionally scaring the life out of me as a child and an adult.</x:p>
+      <x:p>The Doctor is a (mostly) pacifist time-traveller, whose main weapon is a sonic screwdriver, much more useful than any sonic weapon, as the Doctor himself points out: "Never had a long night? Never had a lot of cabinets to put up?" Doctor Who is humor and danger and doing the right thing for the right reason the right way. It is also out-dated special effects and clearly not-monstrous monsters. And I love it. Clearly, my two hobbies needed to combine into one, delicious, orange and vodka cocktail.</x:p>
+      <x:p>The cocktail requires vodka along with the orange flavor and unnatural blue color of blue Curacao. Alone, the two were too sweet, insanely sweet. There were many false paths, until I started from the beginning again and made a <x:a href="http://www.christmas-baking.com/advent2015/21.html">white lady</x:a>, but with vodka, and a bit of Curacao instead of sugar syrup. Close, but unsubtle. Rosemary simple syrup gave it a high note, and a dash of orange bitters amplified the orange.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>fl. ounce</unit>
+          </amt>
+          <item>vodka</item>
+          <!--1 1/2 ounces vodka-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>fl. ounce</unit>
+          </amt>
+          <item>Cointreu</item>
+          <!--1/2 ounce Cointreu-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>fl. ounce</unit>
+          </amt>
+          <item>blue Curacao</item>
+          <!--1/4 ounce blue Curacao-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>fl. ounce</unit>
+          </amt>
+          <item>rosemary simple syrup</item>
+          <!--1/4 ounce rosemary simple syrup-->
+        </ing>
+        <ing>
+          <item>dash orange bitters</item>
+          <!--dash orange bitters-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Shake over ice and pour into a replica Art Nouveau glass, or something from the MoMA catalog (or whatever cocktail glass is handy).</step>
+      <step>For the <x:b>rosemary simple syrup</x:b>: make a simple syrup (<x:b><ing><amt><qty>1</qty> <unit>cup</unit></amt><item>sugar</item></ing>, <ing><amt><qty>1</qty> <unit>cup</unit></amt> <item>water</item></ing></x:b>) and add a <x:b>sprig of fresh rosemary</x:b> or <x:b>1 tsp dried rosemary</x:b>. Bring to a boil, then reduce to a very low simmer until the syrup is lightly green and smells of rosemary, about one hour. Strain out the rosemary and allow to cool.<x:img src="/images/advent2017/sonicScrewdriver.jpg" class="photo" alt="[; copyright 2017 Jorj F. Bauer, all rights reserved]" /></step>
+    </directions>
+  </recipe>
+</recipeml>

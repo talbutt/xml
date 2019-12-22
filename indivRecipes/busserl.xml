@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="busserl" system="metric">
+    <meta content="2015-10-19" name="DC.Date"/>
+    <head>
+      <title>Busserl</title>
+      <subtitle>Chocolate meringue kisses</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Meringue</cat>
+        <cat class="region">Bavaria</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Nut-free</cat>
+        <cat class="diet">Gluten-free</cat>
+        <cat class="diet">Dairy-free</cat>
+      </categories>
+    </head>
+    <description>A Busserl is a kiss, in Bavaria and Austria. Like the American kiss cookie, it often means a meringue cookie. These are less sweet (but still sweet!) and more chocolatey than the similar forgotten cookies. This recipe comes from the Dr. Oetker Weihnachtsbaekerei, a cookbook of Christmas recipes from Germany's largest baking ingredients and mixes producer.</description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>egg whites</item>
+          <!--2 egg whites-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cream of tartar</item>
+          <!--1/4 tsp cream of tartar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--100 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>Dutched cocoa</item>
+          <prep>sifted</prep>
+          <!--1 Tbs Dutched cocoa, sifted-->
+        </ing>
+        <ing>
+            <amt>
+              <qty>50</qty>
+              <unit>g</unit>
+            </amt>
+            <item>bittersweet chocolate</item>
+            <prep>grated or finely ground</prep>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven to <temp><qty>130</qty><tempunit unit="C" system="metric">degrees</tempunit><!--130  C--></temp></step>
+      <step>Whip whites with the cream of tartar to the soft peaks stage; the white will look wet and tracks from the whisk will be visible. Slowly, add the sugar tablespoon by tablespoon to the whites. They will be shiny. Fold in the cocoa and chocolate.</step>
+      <step>Line two cookie sheets with parchment paper. Drop batter by teaspoonfuls onto the cookie sheets. the dough drops should be "about the size of a walnut."</step>
+      <step>Bake 25 to 30 minutes.</step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN"
+  "http://www.formatdata.com/recipeml/recipeml.dtd">
+  <?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+<meta name="DC.Date" content="1 December, 2003" />
+<recipe id="pfeffernusse">
+	<head>
+		<title>Pfeffern&#252;sse</title>
+		<subtitle>Peppernut</subtitle>
+		<categories>
+			<cat class="region">German</cat>
+			<cat class="main">Cookies</cat>
+		</categories>
+		
+	</head>
+	
+	<description><xhtml:p>Pfeffern&#252;sse are as German as cookies get. Spicy
+	like Lebkuchen, firm like Springerle, these cookies come from what
+	the German's call the "Oma Zeit," the grandmother's time.
+	Traditionally, hard cookies like Pfeffern&#252;sse were meant to be
+	dunked into wine during a long session of visiting and cookie
+	eating, according to Chef Fritz Blank of Duex Cheminees.
+
+	To be honest, I never liked Pfeffern&#252;sse; one of the main
+	ingredients is citron or orangeat, also known as fruit cake mix.
+	This version is a little new wave, substituting crystalized ginger
+	for the citron, and a little neo-traditional, keeping the ground
+	pepper that gives these "pepper nuts" their name.</xhtml:p></description>
+	
+	<ingredients system="US">
+		<ing-div>
+			<title>For the cookie</title>
+			<ing>
+				<amt>
+					<qty>2</qty>
+				</amt>
+				<item>eggs</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1 1/2</qty>
+					<unit>c</unit>
+				</amt>
+				<item>sugar</item>
+			</ing>
+			<ing>
+			  <alt-ing>
+				<amt>
+					<qty>1/4</qty>
+					<unit>c</unit>
+				</amt>
+				<item>candied ginger</item>
+				<prep>finely chopped</prep>
+			  </alt-ing>
+			  <alt-ing>
+				<amt>
+					<qty>1/4</qty>
+					<unit>c</unit>
+				</amt>
+				<item>citron</item>
+				<prep>finely chopped</prep>
+			  </alt-ing>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1/3</qty>
+					<unit>c</unit>
+				</amt>
+				<item>almonds</item>
+				<prep>ground</prep>
+			</ing>
+			<ing>
+				<alt-ing>
+					<item>zest of 1/2 lemon</item>
+				</alt-ing>
+				<alt-ing>
+					<amt>
+						<qty>1/2</qty>
+						<unit>tsp</unit>
+					</amt>
+					<item>lemon extract</item>
+				</alt-ing>
+			</ing>
+			<ing>
+				<amt>
+					<qty>2 1/4</qty>
+					<unit>c</unit>
+				</amt>
+				<item>flour</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1</qty>
+					<unit>tsp</unit>
+				</amt>
+				<item>baking powder</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1</qty>
+					<unit>tsp</unit>
+				</amt>
+				<item>cinnamon</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1/2</qty>
+					<unit>tsp</unit>
+				</amt>
+				<item>ground cloves</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1/2</qty>
+					<unit>tsp</unit>
+				</amt>
+				<item>ground cardamom</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1/2</qty>
+					<unit>tsp</unit>
+				</amt>
+				<item>ground ginger</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1/4</qty>
+					<unit>tsp</unit>
+				</amt>
+				<item>ground pepper</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>1/4</qty>
+					<unit>c</unit>
+				</amt>
+				<item>milk</item>
+			</ing>
+		</ing-div>
+
+		<ing-div>
+			<title>For the glaze</title>
+			<ing>
+				<amt>
+					<qty>1 1/2</qty>
+					<unit>c</unit>
+				</amt>
+				<item>powdered sugar</item>
+				<prep>sifted</prep>
+			</ing>
+			<ing>
+				<item>juice of 1/2 lemon</item>
+			</ing>
+		</ing-div>
+	</ingredients>
+	
+	<directions>
+		<dir-div>
+			<title>The first day</title>
+			
+			<step>Whip together eggs and sugar on high speed until
+			tripled in volume and almost white, about three to five
+			minutes. Finely chop crystalized ginger or citron; grind
+			nuts. Add crystalized ginger (or citron), nuts and lemon
+			zest or extract to egg mixture and mix until combined.
+			Change to the paddle blade. Sift together spices, flour and
+			baking powder, and slowly add to eggs mixture. If the dough
+			is dry and  crumbly, add milk one tablespoon at a time until
+			dough holds together. Knead gently for a minute or two until
+			the dough is smooth. Cover and let sit for one day; this
+			step is important to allow the flavors to meld.</step>
+
+		</dir-div>
+
+		<dir-div>
+			<title>The second day</title>
+			<step>Preheat oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp>. Form dough
+			into balls about 1 to 1 1/2 inches in diameter; place on a
+			parchment covered baking sheet. Bake 20 to 25 minutes until
+			browned. Allow to cool 20 minutes.</step>
+			<step>In a small bowl, whisk together powdered sugar and
+			lemon juice; add a bit of hot water for a thinner glaze if
+			you like. Dip the tops of the cookies into the glaze and
+			allow excess to drip off. (A cooling rack placed over the
+			parchement-lined baking sheets works well.) Store in an
+			airtight container. These keep for a long time, and the
+			flavor improves with age.</step>
+		</dir-div>
+	</directions>
+</recipe>
+</recipeml>

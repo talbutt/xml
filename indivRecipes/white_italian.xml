@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday January 18, 2006" name="DC.Date"/>
+  <meta content="Grandma Metro" name="DC.Creator"/>
+  <recipe id="White Italian Cookies">
+    <head>
+      <title>White Italian Cookies</title>
+      <source>AnnMarie Salviski</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Italy</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>I'm third generation Italian, My Mother gave this recipe to me. My Grandmother brought it with her from Calabria, Italy. This cookie is a holiday must in our house.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+<!--4 cups flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--4 tsps baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>lard </item>
+          <ing-note> (we use crisco)</ing-note>
+<!--1 cup lard (we use crisco)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 cup sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>whole milk</item>
+<!--1/4 cup whole milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--2 tsp vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>whole eggs</item>
+<!--3 whole eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>egg yolks</item>
+<!--3 egg yolks-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <item>chopped walnuts</item>
+<!--chopped walnuts-->
+          </alt-ing>
+          <alt-ing>
+            <item>grated coconut</item>
+<!--grated coconut-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>. Sift dry ingredients together, cut crisco into flour mixture (mixture should be crumbly). Make a well in the flour mixture and add the eggs, vanilla and milk. Mix by hand mixture will be sticky, put a little flour in your hands and roll into balls or open figure eight twists. Bake for 10-12 minutes. Frost with a simple white frosting (color for the holidays) while frosting is wet dip cookin in chopped walnuts or coconut.</step>
+      <step>Recipe yeilds about 3 dozen cookies depending on how big you roll the ball or make the twist.</step>
+    </directions>
+  </recipe>
+</recipeml>

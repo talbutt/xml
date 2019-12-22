@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns:x="http://www.w3.org/1999/xhtml" xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" version="0.5">
+  <recipe id="pumpkin_spice_cake" system="metric">
+    <meta content="2019-10-01" name="DC.Date"/>
+    <head>
+      <title>Pumpkin spice cake</title>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>I've made a spice cake for years, and this year decided to pumpkin it up. It's a tender, pumpkiny, spicy cake perfect for the fall.</description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter </item>
+          <ing-note>1 3/4 sticks</ing-note>
+          <!--200 g butter (1 3/4 sticks)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>dark brown sugar</item>
+          <!--250 g dark brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+          <!--3/4 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>large eggs</item>
+          <!--3 large eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>cake flour</item>
+          <!--250 g cake flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking soda</item>
+          <!--1/4 tsp baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>2 1/2</q1>
+              <q2>3</q2>
+            </range>
+            <unit>tsp</unit>
+          </amt>
+          <item>pumpkin spice</item>
+          <!--2 1/2 to 3 tsp pumpkin spice-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>ml</unit>
+          </amt>
+          <item>milk</item>
+          <!--125 ml mil-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>225</qty>
+            <unit>g</unit>
+          </amt>
+          <item>pumpkin puree</item>
+          <!--225 g pumpkin puree-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven to <temp><qty>190</qty><tempunit system="metric" unit="C">degrees</tempunit><!--190  degrees--></temp>. Line two <size><qty>23</qty>-<unit>cm</unit></size> cake tins with parchment paper (or grease and flour). <!--Put two cupcake liners into a cupcake pan.--></step>
+      <step>Sift together the cake flour, baking powder, baking soda, and spices, then give a quick stir. Stir together the pumpkin puree and milk.</step>
+      <step>On high speed, cream the butter, brown sugar and salt together until fluffy. Add eggs one at a time, beating on medium speed. for 30 seconds after each. Scrape the bowl and give a quick beat to incorporate the scraped butter mixture.</step>
+      <step>Add one third of the flour mixture and beat on low speed until incorporated. Add half the milk mixture and beat until combined. Repeat with another third of the flour, the remaining milk, and the remaining flour. Beat on medium speed for a minute.</step>
+      <step>Divide the batter between the two pans.</step>
+      <step>Bake the cakes for about half an hour, and cool.</step>
+      <step>Fill and cover with <x:a href="cream_cheese_icing.html">cream cheese icing</x:a>.</step>
+
+      <note type="variation" title="Plain spice cake">Instead of pumpkin puree, increase the<ing>
+          <item>milk</item> to
+          <amt>
+            <qty>250</qty>
+            <unit>ml</unit>
+          </amt>
+        </ing>.</note>
+    </directions>
+  </recipe>
+</recipeml>

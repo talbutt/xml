@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN"
+  "http://www.formatdata.com/recipeml/recipeml.dtd">
+  <?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:x="http://www.w3.org/1999/xhtml"
+		  >
+<meta name="DC.Date" content="30 November 1998" />
+<recipe>
+	<head>
+		<title>Springerle</title>
+		<subtitle>Pressed anise cookies</subtitle>
+		<source>Oma</source>
+		<categories>
+			<cat class="region">German</cat>
+			<cat class="main">Cookie</cat>
+			<cat class="diet">Nut-free</cat>
+		</categories>
+		<yield>
+			<qty>6</qty>
+			<unit>dozen</unit>
+		</yield>
+	</head>
+
+	<description><x:p>These are my mother's and husband's favorite and the Christmas
+baking rises and falls (pardon the pun) on the success of the springerle.
+In my family, every other cookie can be picture perfect (and for my
+aunts, usually is), but if the springerle fail, it wasn't a good year.
+Do the tops crack? Do they rise unevenly? Does the oven door fall off
+onto the cookie sheet that's ready for the oven? Does the mixer motor
+burn out? If there is time to bake only one cookie, it must be the
+Springerle.</x:p>
+
+<x:p>The name Springerle comes from an old German dialect and means
+"little knight," probably because of the pictures of knights on the
+cookies. According to Mimi Sherton's Visions of Sugarplums: A
+Cookbook of Cakes, Cookies, Candies &amp; Confections from all the
+Countries That Celebrate Christmas, the poor would offer cookies
+stamped with pictures in place of more expensive sacrifices. This is an
+old recipe, probably similar to my great-grandmother's. Great-granma had
+great-granpa beat the dough the requisite hour by hand, and he spent
+most of the time asking, "Is it done yet?"</x:p></description>
+
+	<ingredients>
+		<ing-div>
+			<ing>
+				<amt>
+					<qty>6</qty>
+				</amt>
+				<item>eggs</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>3</qty>
+					<unit>c</unit>
+				</amt>
+				<item>sugar</item>
+			</ing>
+			<ing>
+				<amt>
+					<qty>3/4</qty>
+					<unit>tsp</unit>
+				</amt>
+				<item>baking powder</item>
+			</ing>
+			<ing>
+				<amt>
+					<range>
+						<q1>5</q1>
+						<q2>6</q2>
+					</range>
+					<unit>c</unit>
+				</amt>
+				<item>flour</item>
+			</ing>
+			<ing>
+				<item>anise seeds</item>
+			</ing>
+		</ing-div>
+	</ingredients>
+
+	<directions>
+		<dir-div>
+			<title>The first day</title>
+			<note>Do not double this recipe</note>
+			<step>In a large (at least 4 1/2 quart) bowl, beat eggs very light.
+	Gradually beat in sugar, keep on beating, by hand one hour, one-half
+	hour by mixer. Mix baking powder with flour, gently mix that in by
+	hand. Make a stiff dough. Let it rest two hours in the refrigerator.</step>
+			<step>Grease three cookie trays and sprinkle with anise seeds. The anise
+	seeds give the cookies their flavor. Roll out small portions to about
+	1/2 inch thick on a well-floured board. Dust the Springerle mold with
+	flour and press it into the dough. Cut out with a sharp knife and set on
+	cookie sheet. You will need to clean your knife off occasionally as it
+	gets sticky. Let cookies stand, covered with a clean cloth, at least 24
+	hours.</step>
+		</dir-div>
+		<dir-div>
+			<title>The next day</title>
+			<step>Bake in a 350 degree oven one tin at
+	a time until white on top, about 10 to 15 minutes.</step>
+	    <step><x:img src="/images/SpringerleCollage.jpg" alt="[Springerle photo collage: Baked rectangular Springerle in an antique tin; dough after folding in flour; cookies on the baking sheet after molding; toddler plaing with cookie stamps and playdough; close up of baked cookies and molds. Copyright Susan J. Talbutt, all rights reserved.]"
+			class="photo" /></step>
+		</dir-div>
+	</directions>
+</recipe>
+</recipeml>

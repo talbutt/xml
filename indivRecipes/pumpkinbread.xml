@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  8, 2006" name="DC.Date"/>
+  <meta content="Maxine" name="DC.Creator"/>
+  <recipe id="Pumpkin Bread">
+    <head>
+      <title>Pumpkin Bread</title>
+      <source>Christy Ellingsworth</source>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This bread gets rave reviews every time it's made. Just try it and you'll see what I mean. Ultra moist and delicious, and so easy to make. Perfect for holiday gift giving!</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--3 1/2 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>t</unit>
+          </amt>
+          <item>baking soda</item>
+<!--2 t. baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>t</unit>
+          </amt>
+          <item>salt</item>
+<!--1 1/2 t. salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>t</unit>
+          </amt>
+          <item>cinnamon</item>
+<!--2 t. cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>t</unit>
+          </amt>
+          <item>nutmeg</item>
+<!--1 t. nutmeg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--3 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>vegetable oil</item>
+<!--1 c. vegetable oil-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs</item>
+<!--4 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>water</item>
+<!--2/3 c. water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>canned pumpkin</item>
+<!--2 c. canned pumpkin-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>. Sift dry ingredients together. Mix pumpkin, water, oil and eggs together in another bowl. Pour into dry mixture and mix well. Pour into 2 greased 9x5x3-inch loaf pans. Bake 1 hour and 15 minutes or until toothpick inserted in middle of loaf comes out clean. Cool before removing from pans. Enjoy!</step>
+    </directions>
+  </recipe>
+</recipeml>

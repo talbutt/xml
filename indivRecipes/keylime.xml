@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Terry" name="DC.Creator"/>
+  <recipe id="Homemade Key Lime Pie">
+    <head>
+      <title>Homemade Key Lime Pie</title>
+      <source>Valerie Detweiler</source>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This is a no-bake recipe, but it's the best key lime pie I've ever had, plus it's absolutely simple!</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+	  	<note>
+          Lowfat &amp; nonfat work fine due to sweet+tartness.
+          This is available a most grocery &amp; specialty food stores.
+	  	</note>
+        <ing>
+          <amt>
+            <qty>9</qty>
+          </amt>
+          <item>" graham cracker pie crust</item>
+<!--9" graham cracker pie crust-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>14</qty>
+            <unit>oz</unit>
+          </amt>
+          <item>can sweetened condensed milk</item>
+<!--14 oz. can sweetened condensed milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>oz</unit>
+          </amt>
+          <item>non-dairy topping (ie: Cool Whip)</item>
+<!--6 oz. non-dairy topping (ie: Cool Whip)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>key lime juice</item>
+<!--1/2 cup key lime juice-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Mix condensed milk with non-dairy topping at medium speed until blended. Add key lime juice to mixture and blend well. Pour into graham cracker pie crust. Refrigerate 3 hours before serving. (DON'T skimp and rush this step or your pie will be more like pudding mush!) Top with whipped cream and enjoy!</step>
+    </directions>
+  </recipe>
+</recipeml>

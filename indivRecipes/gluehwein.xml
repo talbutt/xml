@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <recipe id="Gluehwein">
+    <head>
+      <title>Gl&#252;hwein</title>
+      <subtitle>Hot Spiced Wine</subtitle>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="region">Germany</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Egg-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>One of the first signs of fall in Germany are the open air market stalls serving hot spiced wine. For an American, it's a bit shocking to see alcohol sold on the street and drunk openly! Gl&#252;hwein is particularly popular at a Weihnachtsmarkt (Christmas market). The markets open in mid-December and sell ornaments, adventcalendars, springerle molds and other Christmas items. Every city and town has a Weinachtsmarkt; the Stuttgart Markt is open every evening, but a smaller city like N&#252;rtingen has a Markt only on weekends and long Thursdays.</xhtml:p>
+
+<xhtml:p>Many European traditions include hot spiced wine. Substitute orange rind for the lemon to make English mulled claret. Swedish glogg is a more complex recipe, but begins with a base of red wine and spices.</xhtml:p>
+
+<xhtml:p>German specialty stores offer "tea bags" of spices under the brand name Gl&#252;hfix. Most modern Germans use Gl&#252;hfix at home (and when selling in the Markt).</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <title>For each 750 ml (3 cups) of wine</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>stick</unit>
+          </amt>
+          <item>cinnamon</item>
+<!--1 stick cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+          </amt>
+          <item>whole cloves</item>
+<!--6 whole cloves-->
+        </ing>
+        <ing>
+          <item>Rind of half a lemon</item>
+<!--Rind of half a lemon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>sugar</item>
+<!--2 to 4 Tbs. sugar-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>cardamon pod </item>
+<!--Cardamon pod (optional)-->
+        </ing>
+        <ing optional="yes">
+          <alt-ing>
+            <item>rum</item>
+<!--Rum, brandy, vodka-->
+          </alt-ing>
+          <alt-ing>
+            <item>brandy</item>
+<!--Rum, brandy, vodka-->
+          </alt-ing>
+          <alt-ing>
+            <item>vodka</item>
+<!--Rum, brandy, vodka-->
+          </alt-ing>
+          <alt-ing>
+            <item>schnapps </item>
+<!--schnapps (optional)-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Use cheap wine. Not that cheap, but still cheap, Carlo Rossi or Livingstone will do fine, but will need more sugar. The amount of sugar is inversely proportional to the cheapness of the wine.</step>
+      <step>Break cinnamon sticks into three or four pieces. Remove rind from lemon in large pieces or one long piece,</step>
+      <step>In saucepot over medium-low heat, combine wine, spices and 2 Tbs. sugar. Heat 1/2 to 1 hour, covered, and do not allow to boil. Longer heating brings out a warmer, more cinnamon flavor. Taste and adjust sugar. Serve, adding a shot of rum or schnapps if desired. If you do add schnapps, be careful not to inhale while drinking the Wein; you'll choke on the alchohol fumes (I learned this the hard way).</step>
+      <step>Remove spices and rind; reduce heat to low and cover if not all Wein is served.</step>
+    </directions>
+  </recipe>
+</recipeml>

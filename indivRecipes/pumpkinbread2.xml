@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="pumpkinbread2">
+    <meta content="2011-11-21" name="DC.Date"/>
+    <head>
+      <title>Pumpkin bread</title>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="sub">Quick</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>This is based on Christy Ellingsworth's bread, but, after I had to cut back on my carbs, I found that version too sweet. Less sugar enables more of the pumpkin flavor to come through. I wanted some brown sugar flavor, and never can resist adding allspice. The loaves were too wet for my taste, too dense on the bottom.</x:p>
+      <x:p>Wrapped in plastic, each loaf freezes well.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+          <!--3 1/2 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking soda</item>
+          <!--1 tsp. baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+          <!--1 tsp. salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+          <!--2 tsp. cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>allspice</item>
+          <!--1/2 tsp. allspice-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>grated nutmeg</item>
+          <!--1/2 tsp. grated nutmeg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+          <!--1 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>brown sugar</item>
+          <!--1/2 c. brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>oil</item>
+          <!--1 c. oil-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs</item>
+          <!--4 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>1/4</q1>
+              <q2>1/2</q2>
+            </range>
+            <unit>c</unit>
+          </amt>
+          <item>water</item>
+          <!--1/4 c. to 1/2 c. water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>canned pumpkin</item>
+          <!--2 c. canned pumpkin-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>. Grease two 9 by 5 by 3 inch loaf pans.</step>
+      <step>Whisk together the dry ingredients in a large bowl. Whisk together the wet ingredients. Mix to combine.</step>
+      <step>Divide batter between the loaf pans, and bake 50 to 60 minutes, until a toothpick inserted into the middle of the loaf comes out clean.</step>
+    </directions>
+  </recipe>
+</recipeml>

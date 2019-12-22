@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <meta content="Monday November 27, 2006" name="DC.Date"/>
+  <meta content="Grandmother Linda" name="DC.Creator"/>
+  <recipe id="cream_cheese_pound_cake">
+    <head>
+      <title>Cream Cheese Pound Cake</title>
+      <source>Olivia Faulkner</source>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>I first had this cake when I was very young. It has since become a standard cake to have at every family gatering. My husband, children and I have moved out of state and I have requests from family and friends for this cake to be shipped. I hope you enjoy it as much as we do.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>6</qty>
+          </amt>
+          <item>large eggs</item>
+<!--6 large eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>plain flour</item>
+<!--3 c plain flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--2 c sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>stick</unit>
+          </amt>
+          <item>of butter</item>
+          <prep>not margarine since it makes it oily</prep>
+<!--3 sticks of butter, not margarine since it makes it oily-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>8</qty>
+              <unit>oz</unit>
+            </amt>
+            <item>package of cream cheese</item>
+            <prep>lowfat</prep>
+<!--1 8 oz package of cream cheese, lowfat-->
+          </alt-ing>
+          <alt-ing>
+            <item>regular is fine</item>
+<!--regular is fine-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>T</unit>
+          </amt>
+          <item>of vanilla</item>
+          <prep>use the best you can get if you do not make your own</prep>
+<!--1 T of vanilla, use the best you can get if you do not make your own-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Heat over to 375 and grease and flour your cake pan( I use a tube pan but a standard bundnt pan will do as well. For a crispy crust on the outside of the cake use granulated sugar instead of flour to coat the pan.</step>
+      <step>Cream butter and cheese together with the vanilla until it is light and fluffy. Add the sugar and continue to beat at medium high speed till it is incorporated well. Add 1 egg at a time to the mixture beating well to incorporate. Mix the flour in to the mixture and stir by hand to make sure it is all mixed. Spoon into the pan and tap down to get rid of all of the air pockets.</step>
+      <step>Bake for 1 hour or until the a pic in the center comes out clean. Turn out on a cooling rack till it is cooked down.</step>
+      <step>Sometimes there is a cheese cake ring inside the cake and it is the best to get your cake 2 ways. It all depends on the flour and the cream cheese that you choose. If you make 10 cakes not one will come out the same or take the same amount of time to cook. I have made this for a long time and it has always been the same.</step>
+    </directions>
+  </recipe>
+</recipeml>

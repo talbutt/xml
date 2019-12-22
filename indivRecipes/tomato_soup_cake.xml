@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Tuesday January 17, 2006" name="DC.Date"/>
+  <meta content="Tanya Stafford" name="DC.Creator"/>
+  <recipe id="Tomato Soup Cake">
+    <head>
+      <title>Tomato Soup Cake</title>
+      <source>Tanya Stafford</source>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Good christmas cake or anytime or kind of occaision cake??? Tastes real good.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+<!--1 1/2 cups flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking soda</item>
+<!--1 tsp  baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1 tsp  baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/4 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnimon</item>
+<!--1 tsp cinnimon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>nutmeg</item>
+<!--1/2 tsp nutmeg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>mace</item>
+<!--1 tsp mace-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>butter</item>
+<!--1/4 cup butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>brown sugar</item>
+<!--1 cup brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+<!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>can</unit>
+          </amt>
+          <item>tomato soup</item>
+<!--1 can tomato soup-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>chopped nuts</item>
+<!--1/2 cup chopped nuts-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>raisins</item>
+<!--1/2 cup raisins-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>red cherries</item>
+          <prep>chopped</prep>
+<!--1/2 cup red cherries chopped-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>green cherries</item>
+          <prep>chopped</prep>
+<!--1/2 cup green cherries chopped-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream butter, then add all dry ingreadients mix well then add egg,tomato soup mix well then add all fruit and nuts.</step>
+      <step>Bake in a well greasted round tube pan at <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp> for 1 hour or til cooked and golden brown.</step>
+      <step>Tastes great with a good cup of tea, anytime.</step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <recipe id="Kir Royale">
+    <head>
+      <title>Kir Royale</title>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>My Lieblingsgetr&#228;nke. My Tante Heidi introduced me to these when I lived with her and Onkel Ernst while working for IBM. Often, Heidi and I would finish a bottle of champagne together, then I would carefully walk down the two flights of winding stairs to my room on the ground floor.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <item>One bottle of sparkling wine</item>
+<!--One bottle of sparkling wine-->
+        </ing>
+        <ing>
+          <item>Creme de cassis</item>
+<!--Creme de cassis-->
+        </ing>
+        <ing>
+          <item>Champagne flutes</item>
+          <prep>the more narrow the better</prep>
+<!--Champagne flutes, the more narrow the better-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>In each champagne flute, fill one-third with creme de cassis. Top with sparkling wine.</step>
+      <step>One bottle of sparkling wine will make six to eight kir royale.</step>
+      <step>Substitue white wine for the sparking wine for a kir.</step>
+    </directions>
+  </recipe>
+</recipeml>

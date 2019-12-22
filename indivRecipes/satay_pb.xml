@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="satay_style_peanut_butter_cookies" system="US">
+    <meta content="2017-11-23" name="DC.Date"/>
+    <head>
+      <title>Satay-style peanut butter cookies</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Drop</cat>
+        <cat class="region">America</cat>
+      </categories>
+    </head>
+    <description>While eating pork satay with peanut dipping sauce (from the classic <x:i>Real Tha</x:i>), the peanut sauce was so sweet it insisted on being turned into a cookie recipe. The heat of the red curry paste balances the cloying sweetness of the traditional peanut butter cookie. The more sophisticated taste belies how easy they are to make.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>brown sugar</item>
+          <!--1 c. brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>peanut butter</item>
+          <!--1/2 c peanut butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>shortening</item>
+          <prep>softened</prep>
+          <!--1/4 c shortening, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+          <!--1/4 c butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>Thai red curry paste</item>
+          <!--1 tsp Thai red curry paste-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+          <!--1 1/4 c flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking soda</item>
+          <!--1/2 tsp baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--1/2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+          <!--1/4 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flaked coconut</item>
+          <prep>preferably unsweetened</prep>
+          <!--1 c flaked coconut, preferably unsweetened-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream together the brown sugar, peanut butter, shortening, butter and red curry paste on medium high speed until fluffy. Add the egg and beat on medium speed. Scrape down. Sift together the flour, baking soda, baking powder and salt. Mix the dry ingredients into the peanut butter mixture on low speed.</step>
+      <step>Chill for half an hour.</step>
+      <step>Preheat the oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>.</step>
+      <step>Roll the dough into <size><qty>1 1/4</qty>-<unit>inch</unit></size> balls. Roll each ball in a shallow bowl of lukewarm water, then into the bowl of desiccated coconut. (The water will help the coconut to stick to the dough.) Space the balls about <size><qty>2</qty> <unit>inches</unit></size> apart on the cookie sheet, and flatten with the bottom of a glass to about <size><qty>1/4</qty>-<unit>inch</unit></size> to <size><qty>1/2</qty>-<unit>inch</unit></size> thick. Bake 9-10 minutes. The coconut should be toasted but not burnt.</step>
+      <step><x:img src="/images/600w/PBSatayCookies.jpg" class="photo" alt="Baked light brown cookies covered in coconut flakes on a cookie tray." /></step>
+    </directions>
+  </recipe>
+</recipeml>

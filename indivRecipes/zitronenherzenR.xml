@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<r:recipeml version="0.5"
+          xmlns:r="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <r:meta content="Wednesday January 18, 2006" name="DC.Date"/>
+  <r:meta content="Renate Buchmann" name="DC.Creator"/>
+  <r:recipe id="Zitronenherzen">
+    <r:head>
+      <r:title>Zitronenherzen</r:title>
+      <r:subtitle>Lemon Hearts</r:subtitle>
+      <r:categories>
+        <r:cat class="main">Cookies</r:cat>
+        <r:cat class="region">Germany</r:cat>
+      </r:categories>
+    </r:head>
+    <r:description>Lemonhearts from our exchange student Tobi's mother, originally from her mother. This is one of the favorite recipes that Tobi brought with him for his year in America. It is quite easy; the hardest part is grinding the nuts finely enough!</r:description>
+    <r:ingredients system="US">
+      <r:ing-div>
+        <r:ing>
+          <r:amt>
+            <r:qty>3</r:qty>
+          </r:amt>
+          <r:item>egg yolks</r:item>
+<!--3 egg yolks-->
+        </r:ing>
+        <r:ing>
+          <r:amt>
+            <r:qty>2/3</r:qty>
+            <r:unit>c</r:unit>
+          </r:amt>
+          <r:item>sugar</r:item>
+<!--2/3 c. sugar-->
+        </r:ing>
+        <r:ing>
+          <r:amt>
+            <r:qty>1/2</r:qty>
+            <r:unit>tsp</r:unit>
+          </r:amt>
+          <r:item>vanilla</r:item>
+<!--1/2 tsp. vanilla-->
+        </r:ing>
+        <r:ing>
+          <r:amt>
+            <r:qty>1/2</r:qty>
+            <r:unit>tsp</r:unit>
+          </r:amt>
+          <r:item>lemon extract</r:item>
+<!--1/2 tsp. lemon extract-->
+        </r:ing>
+        <r:ing>
+          <r:amt>
+            <r:qty>1/4</r:qty>
+            <r:unit>tsp</r:unit>
+          </r:amt>
+          <r:item>baking powder</r:item>
+<!--1/4 tsp. baking powder-->
+        </r:ing>
+        <r:ing>
+          <r:alt-ing>
+            <r:amt>
+              <r:qty>2 3/4</r:qty>
+              <r:unit>c</r:unit>
+            </r:amt>
+            <r:item>almonds</r:item>
+<!--2 3/4 c. almonds-->
+          </r:alt-ing>
+          <r:alt-ing>
+            <r:amt>
+              <r:qty>2 3/4</r:qty>
+              <r:unit>c</r:unit>
+            </r:amt>
+            <r:item>hazelnuts</r:item>
+<!--2 3/4 c. hazelnuts-->
+          </r:alt-ing>
+        </r:ing>
+      </r:ing-div>
+      <r:ing-div>
+        <r:title>For the glaze</r:title>
+        <r:ing>
+          <r:amt>
+            <r:qty>3/4</r:qty>
+            <r:unit>c</r:unit>
+          </r:amt>
+          <r:item>powdered sugar</r:item>
+<!--3/4 c. powdered sugar-->
+        </r:ing>
+        <r:ing>
+          <r:item>juice of 1 lemon</r:item>
+<!--juice of 1 lemon-->
+        </r:ing>
+      </r:ing-div>
+    </r:ingredients>
+    <r:directions>
+      <r:step><r:xhtml:img src="http://www.christmas-baking.com/images/zitronenherzen.jpg" class="photo right" alt="Zitronenherzen, fresh from the oven. Copyright 2003 Tobias Buchman, used with permission. All rights reserved." />Preheat oven to <r:temp><r:qty>350</r:qty><r:tempunit unit="F" system="US">degrees</r:tempunit><!--350  degrees--></r:temp>.</r:step>
+      <r:step>Grind nuts in a food processor until very fine. Reserve 3/4 c of ground nuts for rolling dough.</r:step>
+      <r:step>Beat egg yolks and sugar on medium high speed until thick and lemon-colored. Reduce mixer speed and add extracts and baking powder. Slowly add enough ground nuts until the dough comes together and no longer sticks to the sides of the bowl. The dough will still be somewhat sticky.</r:step>
+      <r:step>Roll out dough on remaining ground nuts to 1/4 inch thickness. Cut out heart shapes. Bake 10 minutes.</r:step>
+      <r:step>While the cookies are baking, combine powdered sugar and lemon juice; stir until smooth. After cookies are removed from the oven and still warm, brush with glaze.</r:step>
+      <r:step>Do not allow cookies to cool completely on trays; they will stick!</r:step>
+    </r:directions>
+  </r:recipe>
+</r:recipeml>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml version="0.5">
+  <meta content="Tuesday February 28, 2006" name="DC.Date"/>
+  <recipe id="Fasnachtskuechle">
+    <head>
+      <title>Fasnachtskuechle</title>
+      <subtitle>Fried doughnuts</subtitle>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="region">Germany,Switzerland</cat>
+      </categories>
+    </head>
+    <description>Technically, these are called Fasnachtsküchle, but in my pigden German they were always just Fasnachts. (Fasnacht is the night before the fast, and is spelled with a second t, Fastnacht, everywhere but Swaben and Switzerland.)&#13;
+&#13;
+Although most of America -- or at least my part of it -- has now heard of Doughnut Day, such was not the case in my youth. Twenty years ago, no-one outside my family ate doughnuts for dinner, and not square, deep-fried doughnuts either. Doughnuts were round with holes, eaten with coffee at breakfast and covered in glaze, icing or powdered sugar.&#13;
+&#13;
+But my grandmother, her cousins and her siblings made doughnuts for Fasnachttag. We aren't Catholic, so she wasn't using up the oil to prepare for Lenten fasting. Instead, the Lutherans living in mainly Catholic southern Germany (the Black Forest, Swabia and Bavaria) see no reason to forgo a good party because of minor religious differences. Although Philadelphia doesn't have parades and costume parties in the week leading up to Ash Wednesday, we had doughnuts Tuesday night.&#13;
+&#13;
+My grandmother paid lip service to a balanced meal, serving noodle soup as a first course. Frankly, I think she picked something that wouldn't be too filling (like vegetable soup) and would leave room for doughnuts. Or maybe my grandfather objected to anything heartier than noodle soup. After the soup, she would bring out a platter of doughnuts as big as my little hand, fried just before Mom and I arrived.&#13;
+&#13;
+Fasching is all about being wild and crazy, releasing steam in a stratified, rigid society. When you're seven, nothing seems wilder than having doughnuts for dinner.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <range>
+              <q1>3 1/4</q1>
+              <q2>3 1/2</q2>
+            </range>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--3 1/4 to 3 1/2 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>milk</item>
+          <prep>warmed</prep>
+<!--1 c. milk, warmed-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1/4 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>yeast (half a package)</item>
+<!--1 tsp. yeast (half a package)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1 tsp. salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>6</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>butter</item>
+<!--6 Tb. butter-->
+        </ing>
+        <ing>
+          <item>Dipping sugar</item>
+<!--Dipping sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1/3 c. sugar-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <range>
+              <q1>1/4</q1>
+              <q2>1/2</q2>
+            </range>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon </item>
+<!--1/4 to 1/2 tsp. cinnamon (optional)-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Measure 3 1/4 c. flour into a large (3 quart) bowl, and make a "well" in the flour. Just a hole, not all the way down to the bottom of the bowl. Pour some of the warmed milk into the well, about 1/4 c. Don't sweat being particulary accurate. Add in about 1 Tb. of the sugar and all the yeast. Mix the milk, sugar, yeast and a little bit of the surrounding flour into a batter. Allow to proof for half an hour</step>
+      <step>Keep the remaining milk covered and warm.</step>
+      <step>Just before the half hour is up, melt the butter, then combine it with the remaining milk and sugar, the two eggs, beaten, and the salt. Mix this into the proofed yeast, and mix in the remaining flour. If the dough looks wet and gloopy, add up to 1/4 c. flour more. However, you want a soft dough that isn't dry, unless you want fried bread dough rather than doughnuts.</step>
+      <step>Turn the dough out onto a floured work surface and knead just until the dough is smooth, no more than a dozen times. This is not the time for an upper body work out; that's foccaccia. The dough should be soft, sticking just a bit to the heel of your hand. Put it into a bowl (about quart-size), cover and put into a warm room for half an hour.</step>
+      <step>After half an hour, the dough with not have doubled in size. This is OK. Turn the dough out onto a lightly floured work surface and roll out to be about 3/8 to 1/2 inch thick. Using a pizza or pastry cutter, cut the dough into strips about three fingers wide. Cut each strip into rectangles about the size of the palm of your hand, or into squares, or diamonds.</step>
+      <step>Right now you can stop and freeze the doughnuts to fry them later. This will almost stop the yeast completely, but won't kill it. Place doughnuts onto a sheet of wax paper on a plate or baking sheet (plate is easier to transport); doughnuts should not touch each other. When the wax paper is covered, put down another sheet, etc. Cover with a last sheet of wax paper, then tinfoil and freeze.</step>
+      <step>In a wide soup bowl or on a plate, mix 1/3 c. sugar with cinnamon. Stir until cinnamon coats the sugar. There should be just enough cinnamon to give a hint to the final doughnut.</step>
+      <step>Heat canola or peanut oil to 350 to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>.</step>
+      <step>Gently slide in a few doughnuts; not so many that the oil is crowded. Cook until golden brown, flip and cook the other side to golden. If the oil is not too hot, this should take at least two minutes a side.</step>
+      <step>Drain on paper towels until cool enough to handle.</step>
+      <step>Drop each doughnut while still warm into the cinnamon sugar, and coat.</step>
+      <step>Eat immediately or within 24 hours. If you can't eat them immediately, and will be able to fry them when you can eat them, freeze the dough before frying.</step>
+    </directions>
+  </recipe>
+</recipeml>

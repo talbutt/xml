@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="kaesefuessle">
+    <meta content="2009-11-22" name="DC.Date"/>
+    <meta content="Heide" name="DC.Creator"/>
+    <head>
+      <title>K&auml;sef&uuml;ssle</title>
+      <subtitle>Cheese-feet crackers</subtitle>
+      <categories>
+        <cat class="main">Savoury</cat>
+        <cat class="region">Germany</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>Cheesey feet is an idiom for stinky feet. They are a rich, flakey, cheesey foot-shaped "cookie" that makes a great appetizer or accompaniment to beer. The recipe is very simple (combine, knead), and lots of fun for even small children to make. Obviously, you could make cheesey squares, or cheesey triangles, or cheesey strips if you don't have a foot-shaped cookie cutter.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1 2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+          <!--1 2/3 c flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--1 tsp baking powder-->
+        </ing>
+        <ing>
+          <item>pinch of salt</item>
+          <!--pinch of salt-->
+        </ing>
+        <ing>
+          <item>pinch of hot paprika</item>
+          <!--pinch of hot paprika-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>9</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>butter</item>
+          <prep>cut into 18 pieces</prep>
+          <!--9 Tbs butter (1 stick plus 1 Tbs), cold, cut into 18 pieces-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>7</qty>
+              <unit>oz</unit>
+            </amt>
+            <item>gouda</item>
+            <prep>finely shredded</prep>
+            <!--7 oz gouda-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>7</qty>
+              <unit>oz</unit>
+            </amt>
+            <item>emmental</item>
+            <prep>finely shredded</prep>
+            <!--emmental, finely shredded-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg yolk</item>
+          <!--1 egg yolk-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>2</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>sesame seeds</item>
+            <!--2 Tbs sesame seeds-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>2</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>poppy seeds</item>
+            <!--poppy seeds-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>.</step>
+      <step>In a stand mixer or with a hand mixer, mix all ingredients except yolk and seeds until it looks like crumbly, streusel topping. Turn onto counter and knead just until it comes together into a uniform dough.</step>
+      <step>Alternately, by hand, knead all ingredients except yolk and seeds just until dough comes together into a uniform dough.</step>
+      <step>Roll out to <size><qty>1/4</qty> <unit>inch</unit></size> thick. Cut out using a foot-shaped cutter and lay on a parchment-lined cookie sheet. Brush with yolk and sprinkle with seeds. Re-roll scraps and cut out more feet. Bake 12 to 15 minutes until just a bit brown around the edges.</step>
+    </directions>
+  </recipe>
+</recipeml>

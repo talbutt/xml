@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns:xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="springerle6">
+  <meta content="2008-12-22" name="DC.Date"/>
+  <meta content="Eleanora R&#246;mer Scheihing" name="DC.Creator"/>
+    <head>
+      <title>Springerle</title>
+      <source>Ned H. Benson</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Rolled</cat>
+        <cat class="region">Untert&#252;rkheim, W&#252;rttemberg</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><x:p>My maternal Grandmother and Grandfather Scheihing and their children spent hours every Christmas making Springerles in Oklahoma when it was a Territory and later a State. The recipe came from Christiana Dorothea Munk Scheihing, my great-grandmother who brought it from Untert&#252;rkheim, W&#252;rttemberg when she and her husband, Johann Gottlieb Scheihing, emigrated to the USA in 1869.</x:p>
+      <x:p>Making Springerles was a family undertaking, with the children, including my Mother, taking turns beating the eggs and powdered sugar by hand. Grandpa, Karl Wilhelm Scheihing (called "Charley") rolled the dough and pressed the designs, then cut the cookies. The children placed the cookies on anise seed sprinkled on baking pans to dry. Eleanora baked them the next morning.</x:p>
+      <x:p>The Springerle mold used was one brought to the USA Charley's parents.</x:p>
+      <x:p>When I was a boy my Mother, Clara Scheihng Benson, baked Springerles every Christmas, my Father, older Brother and I taking turns beating the dough my hand. </x:p>
+      <x:p>I bake Springerles every Christmas and use Great-grandpa Scheihing's Springerle mold, as well as others I acquired while living in T&#252;bingen during graduate study.</x:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs</item>
+<!--4 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>lb</unit>
+          </amt>
+          <item>powdered sugar</item>
+<!--1 lb. powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbsp</unit>
+          </amt>
+          <item>grated fresh lemon rind</item>
+<!--1 Tbsp. grated fresh lemon rind-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sifted flour</item>
+<!--4 cups sifted flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--? tsp. baking powder-->
+        </ing>
+        <ing>
+          <item>Lump of butter the size of a walnut</item>
+<!--Lump of butter the size of a walnut-->
+        </ing>
+        <ing>
+          <item>Anise seed</item>
+<!--Anise seed-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Beat the eggs and powdered sugar by hand for 30 minutes (or cheat and use a Kitchenaid mixer for 15 minutes). </step>
+      <step>Add flour, lemon rind and baking powder. Mix until the dough becomes heavy. (Cheat with a Kitchenaid mixed paddle)</step>
+      <step>Roll out on a floured board to <size><qty>3/8</qty> <unit>inch</unit></size> thickness. Lightly dust with flour to keep mold from sticking. </step>
+      <step>Press Springerle mold into the dough. Then cut into shapes.</step>
+      <step>Lay cookies on anise seed sprinkled on a greased baking sheet and let dry out in a cool room overnight.</step>
+      <step>Bake the next morning for 30 minutes at <temp><qty>300</qty><tempunit unit="F" system="US"></tempunit></temp>.</step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<recipeml xmlns="recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <meta content="Thursday December 13, 2007" name="DC.Date"/>
+  <meta content="Bacardi Company" name="DC.Creator"/>
+  <recipe id="rum_balls2">
+    <head>
+      <title>Rum Balls</title>
+      <source>Brenda R</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+      </categories>
+    </head>
+    <description>Got the recipe about 15 years ago from the Bacardi Rum
+
+Pamphlet.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>Vanilla Wafers</item>
+          <prep>crushed</prep>
+<!--1 cup Vanilla Wafers - crushed-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>cup</unit>
+            </amt>
+            <item>Pecans</item>
+          <prep>crushed</prep>
+<!--1 cup of Pecans-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>cup</unit>
+            </amt>
+            <item>Walnuts</item>
+          <prep>crushed</prep>
+<!--Walnuts - crushed-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>honey</item>
+<!--1/4 cup honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>rum</item>
+<!--1/2 cup rum-->
+        </ing>
+        <ing>
+          <item>Powdered Sugar</item>
+<!--Powdered Sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Crush the Vanilla Wafers using a food processor or if you don't have one - put the wafers in a sealed plastic bag and use a rolling pin to crush finely, no chunks or lumps</step>
+      <step>Crush the nuts (I use walnuts) same process as for wafers.</step>
+      <step>Place in a large bowl and add the honey.</step>
+      <step>Form into small balls and roll in powdered sugar.  Enjoy!</step>
+    </directions>
+  </recipe>
+</recipeml>

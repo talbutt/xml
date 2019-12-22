@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="almond_stollen">
+    <meta content="2010-02-11" name="DC.Date"/>
+    <head>
+      <title>Almond Stollen</title>
+      <subtitle>Mandelstollen</subtitle>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="sub">Yeast</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>I've made a Dresden-style Stollen every Christmas for over a decade, and it is my favorite part of Christmas breakfast. Every now an then, I'd casually think about trying another Stollen recipe, but was never inspired. And then Sarah joined us for a year, and she doesn't like raisins, a main part of the Dresden. Clearly, it was time to try some new recipes.</x:p>
+      <x:p>This first made it into the oven this year (while Sarah was here, I punted and made Hefekrantz, a plain sweet braid), and the stollen came out flat and crumbly. The taste was there (and the raisins weren't), but the texture was terrible. The second batch fared no better. Both times, my co-workers still ate every slice. Stuck at home during the mid-week, mid-February 2010 snowstorms with lots of almonds, it was time for another try. I decided to add the almonds after the gluten had developed, in case they were interfering with gluten development. Then the problem was obvious: bread dough should never resemble crumb topping. There wasn't enough liquid to develop the gluten. More milk solved the problem nicely.</x:p>
+      <x:p>The baking directions were also odd; they seemed to be written for a long-rising, rustic bread, not a sweet bread. The loaves were in constant danger of burning. Lowering the temperature to a more traditional 175 degrees C stopped the panic and produced a more yielding crust.</x:p>
+    </description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>packages dry yeast</item>
+          <!--2 packages dry yeast-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--100 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>275</qty>
+            <unit>ml</unit>
+          </amt>
+          <item>milk</item>
+          <!--275 ml milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>500</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+          <!--500 g flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cardamom</item>
+          <!--1/4 tsp cardamom-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+          <!--100 g butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+          <!--1/4 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>400</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>finely ground</prep>
+          <!--400 g almonds, finely ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>25</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <prep>melted</prep>
+          <!--25 g butter, melted-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <!--50 g powdered sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Heat the milk to about <temp><qty>40</qty><tempunit unit="C" system="metric">degrees</tempunit><!--40  degrees--></temp>. Stir in 1 tsp sugar and the yeast, and let sit until it begins to bubble.</step>
+      <step>Meanwhile, stir the cardamom into the flour, and cut or beat the softened butter into the flour.</step>
+      <step>When the yeast mixture is ready, stir the egg and salt into the milk-yeast mixture, then mix in to the flour. When the dough starts to come together, add the ground almonds and knead until dough is springy. It will still be soft.</step>
+      <step>Return to a bowl (if needed), brush a little oil on the top, cover, and allow to rise for one hour in a warm place.</step>
+      <step>Punch dough down and knead into a ball. Cut the ball in half. Lay one half cut-side down on a lightly floured surface and roll into an oval. Using the rolling pin, firmly indent the dough just off center. Fold dough at the indentation, and use the rolling pin to gently press the top fold into the bottom of the dough. Repeat with the other half of the dough. Cover, and allow to rise for an hour in a warm place.</step>
+      <step>Preheat oven to <temp><qty>175</qty><tempunit unit="C" system="metric">degrees</tempunit><!--175  C--></temp> 20 minutes before the dough needs to go into the oven. Bake for 45 minutes to an hour, until the loaf is brown and sounds hollow when tapped. Cool at least 10 minutes.</step>
+      <step>Brush loaves with the melted butter, and sift or shake powdered sugar over.</step>
+    </directions>
+  </recipe>
+</recipeml>

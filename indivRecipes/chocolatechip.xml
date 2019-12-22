@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Jeny" name="DC.Creator"/>
+  <recipe id="Chocolate Chip Cookies Variations">
+    <head>
+      <title>Chocolate Chip Cookies Variations</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Jeny is a dear friend who also loves to bake. Her motto is to never bake the same recipe twice, always altering it just a bit. She made these when she visited for a baking session Christmas 1996.</xhtml:p>
+
+<xhtml:p>In addition to her baking skills, she is also a very talented potter and designer, now living and working in Seattle.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+	  	<title>Substitute for sugar:</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>brown sugar</item>
+<!--1 c. brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>white sugar</item>
+<!--1/2 c. white sugar-->
+        </ing>
+      </ing-div>
+      <ing-div>
+	  	<title>Add:</title>
+        <ing>
+          <amt>
+		    <range>
+			  <q1>1/8</q1>
+			  <q2>1/4</q2>
+		    </range>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+		  <ing-note> (2 to 3 dashes) </ing-note>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Follow the usual directions for baking chocolate chip cookies.</step>
+      <step>When it is time to add the dry ingredients, substitute the 1 c. brown sugar and 1/2 c. white sugar for the usual 3/4 c. each and add the cinnamon. There should be just enough cinnamon that you can smell it while the cookies bake. (As Jeny said, "Enough to know something extra is in the cookies, but not enough to know what.")</step>
+      <step>Jeny also recommends banging the cookie tin midway through baking. I think this helps them spread -- or do they come off the tin better? I forget!</step>
+    </directions>
+  </recipe>
+</recipeml>

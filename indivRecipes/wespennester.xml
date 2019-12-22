@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="wespennester">
+    <meta content="2016-04-07" name="DC.Date"/>
+    <meta content="Dr. Oetker" name="DC.Creator"/>
+    <head>
+      <title>Wespennester</title>
+      <subtitle>Wasps' nests</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Meringue</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Gluten-free</cat>
+        <cat class="diet">Dairy-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Don't tell me Germans have no sense of humor; they've named a tasty chocolate-almond meringue cookie after a household pest. After being baked, the speckles and almond lumps make these cookies look like tiny paper wasps' nest.</x:p>
+      <x:p>If you prefer, use bittersweet chocolate instead of the unsweetened, but I find the cookies have enough sugar in and of themselves.</x:p>
+    </description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>egg whites</item>
+          <!--3 egg whites-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cream of tartar </item>
+          <!--1/2 tsp cream of tartar (optional)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--250 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+          <!--3/4 tsp vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>g</unit>
+          </amt>
+          <item>unsweetened chocolate</item>
+          <prep>ground</prep>
+          <!--125 g unsweetened chocolate, ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+          <!--250 g almonds-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>140</qty><tempunit unit="C" system="metric">degrees</tempunit><!--140  degrees--></temp></step>
+      <step>Slivered almonds are fine as is. Sliced almonds can be lightly crushed (not ground) with your hands. Whole almonds should be coarsely (not finely!) ground.</step>
+      <step>Start whipping the egg whites and cream of tartar on low speed, increasing mixer speed to high as the whites become increasingly foamy. When the whites are stiff but not dry, add the vanilla, and start slowly adding the sugar, about 2 - 3 Tbs at a time. Continue beating on high speed with a minute between additions. Stop beating after all the sugar is incorporated and the whites are stiff and glossy.</step>
+      <step>Gently fold in the ground chocolate and almonds.</step>
+      <step>Line three baking sheets with parchment or re-usable non-stick liner. Using two teaspoons (and German teaspoons are very, very small), drop small mounds of dough; each mound should be <size><qty>3</qty> <unit>cm</unit></size> - <size><qty>4</qty> <unit>cm</unit></size> across.</step>
+      <step>Bake each sheet 25 minutes. Cookies should be crisp and not chewy.<x:img src="/images/Wespennester.jpg" class="photo" alt="[Wespennester cookies on the baking sheet; copyright 2016, Susan J. Talbutt, all rights reserved]" /></step>
+    </directions>
+  </recipe>
+</recipeml>

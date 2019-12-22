@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="feuerzangenbowle" system="metric">
+    <meta content="2010-03-26" name="DC.Date"/>
+    <head>
+      <title>Feuerzangenbowle</title>
+      <subtitle>Flaming wine punch</subtitle>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Hot</cat>
+        <cat class="region">Germany</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Egg-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Feuerzangenbowle (fire tongs bowl or punch) is served most often at Sylvester (New Year's), and also at winter markets. This is not something I ever drank in Germany, but I <x:i>have</x:i> seen photos of it being made. I couldn't resist setting something on fire; usually my husband does fun things involving fire or violating warranties, and this was my chance.</x:p>
+      <x:p>When I say flaming, I do mean flaming. Before making this, take some precautions:</x:p>
+      <x:ul>
+      <x:li>Have a fire extinguisher ready.</x:li>
+      <x:li>Make sure nothing flammable or meltable is directly over or near where you'll be flaming the wine.</x:li>
+      <x:li>Use only metal utensils.</x:li>
+      <x:li>I like wearing (or having to hand) a silicone mitt if more rum is ladled over the flaming sugar.</x:li>
+      </x:ul>
+      <x:p>For wine, whatever comes in those double-size bottles works well. Merlot, shiraz and cabernet sauvingon have all worked well. However, living in Pennsylvania affords one no opportunities to train the palate, and I make no guarantees that you will like my choices in wine.</x:p>
+      <x:p>Traditionally, Feuerzangenbowle is made with <x:a href="http://www.germandeli.com/norzuc.html">a cone-shaped loaf of sugar called a Zuckerhut</x:a>; an equal weight of sugar cubes can be substituted. If you have any experience making sugar Easter eggs, you can probably make your own sugar cone.</x:p>
+      <x:p>The sugar sits on a <x:a href="http://www.germandeli.com/sksfeuerzange.html">special grate</x:a> over the wine. I used a <x:a href="http://www.amazon.com/Wilton-Performance-Cooling-Grid-Round/dp/B0000DDWTP">plain, aluminum cooling rack</x:a> that was not non-stick. If you want, you can buy a full <x:a href="http://www.germandeli.com/feuerzangeset.html">full set with heat-proof bowl, sugar rack and tea light to keep the wine warm.</x:a></x:p>
+      <x:p>If the punch is too sweet, increase the wine, citrus and spices, but keep the sugar amount the same.</x:p>
+    </description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1.5</qty>
+            <unit>L</unit>
+          </amt>
+          <item>red wine</item>
+          <!--1.5 L of red wine-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>lemon</item>
+          <prep>washed, juiced and strained</prep>
+          <!--1 lemon, washed, juiced and strained-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>orange</item>
+          <prep>washed, juiced and strained</prep>
+          <!--1 orange, washed, juiced and strained-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>8</qty>
+          </amt>
+          <item>whole cloves</item>
+          <!--8 whole cloves-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>200</qty>
+              <unit>g</unit>
+            </amt>
+            <item>sugar cubes</item>
+            <!--200 grams sugar cubes-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+            </amt>
+            <item>Zuckerhut</item>
+            <!--1 Zuckerhut-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>250</qty>
+              <unit>ml</unit>
+            </amt>
+            <item>high-proof rum</item>
+            <prep>e.g. Bacardi 151</prep>
+            <!--250 ml high-proof rum-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>250</qty>
+              <unit>ml</unit>
+            </amt>
+            <item>other high-proof liquor </item>
+            <!--other high-proof liquor (e.g. Bacardi 151)-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Combine the wine, citrus juices and cloves in a crock pot or fireproof pot. Heat until steaming, but not boiling or simmering. In a crock pot, this will take 30 to 45 minutes on high to heat.</step>
+      <step>Place the sugar cubes or Zuckerhut on the grate. Soak the sugar in the rum as thoroughly as possible, using at least 60 ml of liquor, up to 120 ml if you can. Put the grate over the wine, double-check that nothing is over or nearby, and light the sugar on fire &mdash; this should require only one match.</step>
+      <step>If the sugar is soaked well, you should get very tall, very hot flame, one that will, at least, melt the plastic cover over the light in your range hood.</step>
+      <step>The flame will melt the sugar so that it drips into the wine below. The wine will flare. As the flame dies down, you can carefully ladle a couple tablespoons of rum over the sugar to keep it melting. Don't be surprised when you find yourself holding a ladle-ful of blue flame. If you've melted your range hood already, your husband will probably argue that you do not need to melt all the sugar. Most of the German recipes I read called for an entire bottle of rum to be ladled on the sugar (do not pour from the bottle &mdash; I have friends who set an azalea on file pouring a flammable liquid onto a flame).</step>
+      <step>Once the flaming is over, you can choose to dump the remainder of the unmelted sugar into the wine.</step>
+    </directions>
+  </recipe>
+</recipeml>

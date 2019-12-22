@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="french_75" system="US">
+    <meta content="2017-11-23" name="DC.Date"/>
+    <head>
+      <title>French 75</title>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Cold</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Egg-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>The French 75 combines two of my most favorite things: gin and bubbly. Because we'd never had one, the husband and I spent a delicious evening taste-testing ratios of gin-lemon-sugar. As much as I liked the traditional 2-1-1 ratio (I am a mathematician), a little extra simple syrup smoothed out the gin and champers so that they worked together, instead of the gin overpowering the champers.</x:p>
+      <x:p>"Oh, this is lovely," my husband declared when we next drank them together, from the flutes he'd bought as our wedding present, 20 years before.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>    1</qty>
+            <unit>fluid ounce</unit>
+          </amt>
+          <item>gin</item>
+          <!--    1 oz. gin-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/8</qty>
+            <unit>fluid ounce</unit>
+          </amt>
+          <item>simple syrup</item>
+          <!--3/8 oz. simple syrup-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>fluid ounce</unit>
+          </amt>
+          <item>fresh squeezed lemon juice</item>
+          <!--1/2 oz. fresh squeezed lemon juice-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <item>Brut Champagne</item>
+            <!--Brut Champagne-->
+          </alt-ing>
+          <alt-ing>
+            <item>any dry sparkling white wine</item>
+            <!--any dry sparkling white wine-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <item>Lemon twist</item>
+          <prep>to garnish, if desired</prep>
+          <!--Lemon twist, to garnish, if desired-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Quickly shake gin, syrup, lemon juice with ice, just to cool, and pour into a champagne flute. Top with the champers. I prefer two Californians: Korbel Natural, a true bargain at under $20 a bottle, or Chandon Blanc de Noir, at about $20.</step>
+      <step><x:img src="/images/advent2015/french75.jpg" class="photo" alt="[Two glasses of French 75 in gilded flutes, copyright 2015, Jorj F. Bauer, all rights reserved]" /></step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  1, 2006" name="DC.Date"/>
+  <recipe id="Mulled Cider">
+    <head>
+      <title>Mulled Cider</title>
+      <subtitle>Hot Spiced Cider</subtitle>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Adapted from The New Doubleday Cookbook, this is a favorite of mine to serve at parties. It guarantees the crockpot is used once a year!</xhtml:p>
+
+<xhtml:p>For a quick holiday gift, suitable for pollyannas and other gift-giving quandries, wrap enough spices for one quart of cider in small pieces of cheesecloth and tie off with string. Give each person a few bags, and include the directions!</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <title>For Each Quart of Cider:</title>
+        <ing>
+          <amt>
+            <range>
+              <q1>2</q1>
+              <q2>4</q2>
+            </range>
+            <unit>Tb</unit>
+          </amt>
+          <item>brown sugar</item>
+<!--2 to 4 Tb brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>whole cloves</item>
+<!--4 whole cloves-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>whole allspice berries</item>
+<!--2 whole allspice berries-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>stick</unit>
+          </amt>
+          <item>cinnamon</item>
+<!--1 whole stick cinnamon-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Combine all ingredients in a crockpot or saucepan. Heat (but do not boil) on high until sugar is dissolved. In the crockpot, this takes about 20 to 30 minutes; on the stove, about 10 minutes. Turn down to low to keep warm. Keep covered so as not to allow too much liquid to evaporate. Remove spices if desired; the longer spices are left in, the stronger the "mulling."</step>
+      <step>Rather than make one large batch that gets spicer throughout the night, I'll make two quarts, and replenish cider and sugar when half the mulled cider is drunk. Refreshing the cider keeps the end of the concoction from becoming over-spiced.</step>
+    </directions>
+  </recipe>
+</recipeml>

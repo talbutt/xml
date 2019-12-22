@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="hot_cross_buns">
+    <meta content="2013-03-24" name="DC.Date"/>
+    <head>
+      <title>Hot cross buns</title>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="sub">Yeast</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>There is no doubt as to the authenticity of this recipe &mdash; it's not.</x:p>
+      <x:p>Having a craving for hot cross buns during Lent, I checked all of my general baking books and found only one and it sounded more like fruitcake buns. Bleh. What to do? What to do? It struck me that a hot cross bun is only a sweet bread (there's a recipe for that) with currants. I added the cardamom because not enough things have cardamom.</x:p>
+      <x:p>And a recipe was born.</x:p>
+      <x:p>This makes 20 small or 16 medium buns, and can be easily halved. The glaze gives a nice, brown color.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>recipe <x:a href="hefekrantz.html">Hefekranz dough</x:a></item>
+          <!--1 recipe Hefekranz dough-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4 1/2</qty>
+            <unit>ounces</unit>
+          </amt>
+          <item>currants</item>
+          <!--4.5 ounces currants-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cardamom</item>
+          <prep>instead of lemon zest</prep>
+          <!--1/2 tsp cardamom, instead of lemon zest-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>For the glaze</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>milk</item>
+          <!--3-4 Tbs milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>sugar</item>
+          <!--1 Tbs sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Prepare the Hefekranz dough according to the directions, with the following changes:
+        <x:ul>
+          <x:li>add the cardamom to the flour before cutting in the butter</x:li>
+          <x:li>do not add lemon zest</x:li>
+          <x:li>mix in the currants before adding the liquid</x:li>
+        </x:ul>
+      </step>
+      <step>After the dough rises for an hour, form the dough into 20 small buns of equal size (about <size><qty>2 3/4</qty> <unit>ounces</unit></size> each) or 16 medium buns (about <size><qty>3 1/2</qty> <unit>ounces</unit></size> each). Arrange on a baking sheet about <size><qty>1/2</qty> <unit>inch</unit></size> apart. Allow to rise, covered, in a warm room, for another hour.</step>
+      <step>Twenty minutes before the second rise is finished, preheat the oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>. Heat the milk and sugar until the sugar dissolves. Stir and allow to cool for 10 to 15 minutes. Brush the buns with the milk sugar glaze. With a very sharp knife, cut a shallow cross or X in the top of each bun. Brush again with the glaze.</step>
+      <step>Bake about 25 minutes for small buns, about 30 minutes for medium buns. A half batch needs less time to bake.</step>
+    </directions>
+  </recipe>
+</recipeml>

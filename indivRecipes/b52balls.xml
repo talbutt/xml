@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Tuesday December 27, 2005" name="DC.Date"/>
+  <recipe id="B-52 balls">
+    <head>
+      <title>B-52 balls</title>
+      <source>Vicki</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This has been used by pretty much everyone in the family with excellent results every time.</xhtml:p>
+
+<xhtml:p>For adults only! There is a very tasty kick to these.</xhtml:p>
+
+<xhtml:p>Note from SusieJ: It sounds like the name of this cookie came from the B-52 drink.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>finely crushed vanilla wafers</item>
+<!--2 c finely crushed vanilla wafers-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>powdered (icing) sugar</item>
+<!--1 c powdered (icing) sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>almond paste</item>
+<!--1/4 c almond paste-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 1/2 </qty>
+            <unit>tbls</unit>
+          </amt>
+          <item>Kahlua</item>
+<!--2 1/2 tbls Kahlua-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 1/2 </qty>
+            <unit>tbls</unit>
+          </amt>
+          <item>Grand Marnier</item>
+<!--2 1/2 tbls Grand Marnier-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 1/2 </qty>
+            <unit>tbls</unit>
+          </amt>
+          <item>Baileys Irish Cream</item>
+<!--2 1/2 tbls Baileys Irish Cream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 </qty>
+            <unit>tbls</unit>
+          </amt>
+          <item>white corn syrup</item>
+<!--2 tbls white corn syrup-->
+        </ing>
+        <ing>
+          <amt>
+			<range>
+			  <q1>10</q1>
+			  <q2>12</q2>
+			</range>
+          </amt>
+          <item>oz semi sweet chocolate</item>
+<!--10 - 12 oz semi sweet chocolate-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>finely crushed toasted almonds</item>
+<!--2 c finely crushed toasted almonds-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>In a bowl mix wafers, sugar, almond paste, liquers, syrup. make sure paste is well blended.</step>
+      <step>Press mix into pie plate, refrigerate til firm enough to form balls, approx. 20 mins.</step>
+      <step>Melt chocolate in double boiler over simmering water.</step>
+      <step>Roll mix into small balls, stick with toothpick, dip into melted chocolate coating evenly.</step>
+      <step>Roll gently in toasted almonds then place on large trays to harden.</step>
+      <step>Store in airtight containers in fridge. Serve at room temperature. Don't eat and drive ...</step>
+    </directions>
+  </recipe>
+</recipeml>

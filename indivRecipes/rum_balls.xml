@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  8, 2006" name="DC.Date"/>
+  <meta content="Mom" name="DC.Creator"/>
+  <recipe id="rum_balls">
+    <head>
+      <title>Rum Balls</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Baking teaches many things. These cookies, for example, taught me to ask every person about food allergies, after poisoning a friend who is allergic to nuts. He's fine, but had an unpleasant after-Christmas party.</xhtml:p>
+
+<xhtml:p>These are the most popular cookie every year, and are extremely simple, requiring no baking at all.</xhtml:p>
+
+<xhtml:p>Once you've mastered these, try the more sophisticated B-52 Balls.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>crushed vanilla wafers</item>
+<!--1 c. crushed vanilla wafers-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>c</unit>
+            </amt>
+            <item>ground pecans</item>
+<!--1 c. ground pecans-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>c</unit>
+            </amt>
+            <item>ground walnuts</item>
+<!--1 c. ground walnuts-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>confectioners sugar</item>
+<!--1 c. confectioners sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>cocoa</item>
+<!--2 Tb. cocoa-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>1 1/2</q1>
+              <q2>2 1/2</q2>
+            </range>
+            <unit>Tb</unit>
+          </amt>
+          <item>corn syrup</item>
+<!--1 1/2 to 2 1/2 Tb corn syrup-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/4</qty>
+              <unit>c</unit>
+            </amt>
+            <item>rum</item>
+<!--1/4 c. rum-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/4</qty>
+              <unit>c</unit>
+            </amt>
+            <item>bourbon</item>
+<!--1/4 c. bourbon-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <item>extra confectioners sugar </item>
+<!--extra confectioners sugar -->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Grind the nuts in a food processor until very finely chopped. This will take a minute or minute and a half.</step>
+      <step>Mix crushed (fine, but not to a powder!) cookies, nuts, sugar and cocoa. Add combined syrup and rum. Let sit for a few days in the refrigerator; the dough improves with age.</step>
+      <step>Shape into 3/4-inch diameter balls and roll in confectioners sugar.</step>
+    </directions>
+  </recipe>
+</recipeml>

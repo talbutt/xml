@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday January 18, 2006" name="DC.Date"/>
+  <meta content="Adelheid Deyke" name="DC.Creator"/>
+  <recipe id="Easy Zimtsterne">
+    <head>
+      <title>Easy Zimtsterne</title>
+      <subtitle>Cinnamon Stars</subtitle>
+      <source>Adelheid Deyke</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>I tried these for the first time this year, and they are every bit as delicious as I remember them from my childhood, when my mother made them the traditional way with the egg whites beaten stiff.</xhtml:p></description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>500</qty>
+            <unit>g</unit>
+          </amt>
+          <item>Almonds</item>
+          <prep>skin on, finely ground </prep>
+          <ing-note> (if you don't have a scale, estimate; this is a forgiving recipe)</ing-note>
+<!--500 g Almonds, skin on, finely ground (if you don't have a scale, estimate; this is a forgiving recipe)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>300</qty>
+            <unit>g</unit>
+          </amt>
+          <item>Powdered sugar</item>
+<!--300 g Powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>Cinnamon</item>
+<!--2 Tbs Cinnamon,-->
+          <ing-note> or to taste</ing-note>
+<!--to taste-->
+        </ing>
+        <ing>
+          <amt>
+		  	<range>
+              <q1>2-4</q1>
+              <q2>2-4</q2>
+		  	</range>
+          </amt>
+          <item>Egg whites</item>
+<!--2-4 Egg whites-->
+        </ing>
+        <ing>
+          <item>a little clover honey</item>
+<!--a little clover honey-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <item>Sugar</item>
+<!--Sugar-->
+          </alt-ing>
+          <alt-ing>
+            <item>baby cereal for rolling</item>
+<!--baby cereal for rolling-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Topping</title>
+<!--Topping-->
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>Powdered sugar</item>
+<!--100 g Powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg white</item>
+<!--1 egg white-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>lemon juice</item>
+<!--1 tsp lemon juice-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Simply mix everything (except topping, of course)together. If the dough is too dry and crumbly, add some more egg white or honey. Should it be too moist and sticky, add some more ground almonds. Roll out on sugar or baby cereal. Use a dry cookie cutter to cut out star shapes. It is still somewhat messy, but not too difficult since the dough consistency can easily be adjusted throughout the process. Put on cookie sheet lined with parchment paper.</step>
+      <step>Brush with topping, let dry at room temperature until topping looks dry.</step>
+      <step>Bake at <temp><qty>275</qty><tempunit unit="F" system="US">degrees</tempunit><!--275  degrees--></temp> until the cookies hold together while still moist, about 15 minutes.</step>
+    </directions>
+  </recipe>
+</recipeml>

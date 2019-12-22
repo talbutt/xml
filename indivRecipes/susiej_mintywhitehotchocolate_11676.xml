@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns:xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <meta content="Saturday September  8, 2007" name="DC.Date"/>
+  <recipe id="Minty White Hot Chocolate">
+    <head>
+      <title>Minty White Hot Chocolate</title>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Hot</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Egg-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+
+    <description>Last winter, the local branch of a national bakery chain sold mint white hot chocolate. As this was a new item, they offered free samples. I don't pass up free, but it was so watery yet cloyingly sweet that I wished I had. I knew I could do better, and I think I have. Without the bitterness of cocoa, white chocolate can be overly sweet, but the astringency of the mint provides balance.</description>
+
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2 1/2</qty>
+            <unit>oz</unit>
+          </amt>
+          <item>white chocolate</item>
+<!--2 1/2 oz. white chocolate-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>sugar</item>
+<!--2 Tb sugar-->
+        </ing>
+        <ing>
+          <amt><unit>pinch</unit>
+          </amt>
+          <item>salt</item>
+<!--pinch of salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>qt</unit>
+          </amt>
+          <item>milk</item>
+<!--1 qt milk-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>mint extract</item>
+<!--1/2 tsp mint extract-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>bag</unit>
+            </amt>
+            <item>herbal mint tea</item>
+<!--1 herbal mint tea bag-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>mint leaves</item>
+            <prep>crushed</prep>
+<!--1 Tb mint leaves, crushed-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Finely grate or chop the white chocolate. Grated white chocolate will melt almost instantaneously.</step>
+      <step>Heat the milk, sugar, salt and mint extract or leaves, but do not boil. If using crushed mint leaves, put the leaves in a large tea ball or a wrap securely in cheesecloth.</step>
+      <step>Add the white chocolate and stir until melted and the drink is sufficiently minty.</step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <meta content="Tuesday May 9, 2006" name="DC.Date"/>
+  <meta content="Monica" name="DC.Creator"/>
+  <recipe id="corn_pudding">
+    <head>
+      <title>Corn pudding</title>
+      <source>Monica Louk</source>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>My grand mother used to make this for us kids when we were youngsters and it was snowing out. This was a warm comfort food.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>Cans of Creamed corn</item>
+<!--2 Cans of Creamed corn-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs beaten lightly</item>
+<!--2 eggs beaten lightly-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>pepper</item>
+<!--1 tsp pepper-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1/2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+          </amt>
+          <item>package ritz crackers for topping.</item>
+<!--1/2 package ritz crackers for topping.-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>stick</unit>
+          </amt>
+          <item>butter</item>
+<!--1/2 stick butter-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Pour creamed corn in bowl, add eggs, baking powder, salt, pepper. Stir all ingreidents lightly. Crush crackers add butter till crumbly. Put corn mixture in caserole dish and sprinkle cracker mixture on top and bake at 350* for 20 min or until crumbs are golden brown. Cool for 20 mins. Then dig in.</step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Aunt Gertrude" name="DC.Creator"/>
+  <recipe id="Chocolate Roll">
+    <head>
+      <title>Chocolate Roll</title>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Each year, Aunt Gertrude hosts the entire family -- nearly 50 people -- for coffee, cake and egg nog after Christmas dinner. This is one of the few times we all see each other. The kids try out Christmas gifts while the adults catch up on everything. The evening ends with each child sitting on Santa's lap.</xhtml:p>
+
+<xhtml:p>The dessert buffet always includes this chocolate roll and a hazelnut torte.</xhtml:p>
+
+<xhtml:p>As it turns out, Aunt Gertrude's mother, Tante Marie, first made this cake for her oldest daughter's engagement party in the early 1950s. Aunt Gertrude still had the original recipe from The Bulletin for this "Melt-in-the-Mouth" cake.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>6</qty>
+          </amt>
+          <item>eggs</item>
+		  <prep>separated</prep>
+<!--6 egg yolks-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 cup sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>7</qty>
+			<unit>oz</unit>
+		  </amt>
+          <item>semi-sweet chocolate</item>
+<!--7 oz. semi-sweet chocolate-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/4</qty>
+              <unit>cup</unit>
+            </amt>
+            <item>brewed coffee</item>
+<!--1/4 cup brewed coffee-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/4</qty>
+              <unit>cup</unit>
+            </amt>
+            <item>brewed espresso</item>
+<!--espresso-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>heavy cream</item>
+<!--1 cup heavy cream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 tsp. vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>sugar </item>
+<!--2 Tbs. sugar -->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>.</step>
+      <step>Separate eggs. Beat 1 cup sugar in yolks until light. Add coffee to chocolate and melt over low heat, cool slightly. Stir chocolate until smooth and add to yolk mixture. Beat whites until very stiff. Fold whites into chocolate mixture.</step>
+      <step>Oil slightly a large jelly roll pan or cookie sheet with sides. Cover with wax or parchment paper, turn paper over so both sides are oiled. Pour in batter. Bake 15 minutes.</step>
+      <step>Lay damp (not wet) paper towels over entire cake. Set in refrigerator (or on counter) until cool.</step>
+      <step>When the cake is cool, whip heavy cream, vanilla and 2 Tbs sugar until stiff. Remove paper towels from cake and sprinkle with plain cocoa; a shaker or sieve works well. Cover with foil. Invert pan. Remove cake from pan and carefully peel off wax paper. Spread with sweetened whipped cream. Roll up by pulling on foil. Chill.</step>
+      <step>This cake will keep a day in the fridge or five days in the freezer. If freezing, allow to defrost for six hours in the refridgerator before serving.</step>
+      <note>Don't cover pan with foil after baking unless you do not plan to finish for a few hours (so it does not dry out).</note>
+    </directions>
+  </recipe>
+</recipeml>

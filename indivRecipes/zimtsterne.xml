@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday January 18, 2006" name="DC.Date"/>
+  <recipe id="Zimtsterne">
+    <head>
+      <title>Zimtsterne</title>
+      <subtitle>Cinnamon Stars</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Cinnamon stars are a classic German Christmas cookie. Light and crisp, they have a fabulous balance of nuts and cinnamon. This is probably one of the more difficult recipes, because the dough is very sticky.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>egg whites</item>
+<!--3 egg whites-->
+        </ing>
+        <ing>
+          <item>pinch of salt</item>
+<!--pinch of salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/8</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 1/8 c sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+            <unit>oz</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>ground</prep>
+<!--10 oz. almonds, ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+<!--1 tsp. cinnamon-->
+        </ing>
+        <ing>
+          <item>zest of 1/2 lemon</item>
+<!--zest of 1/2 lemon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>powdered sugar </item>
+          <ing-note> (for rolling)</ing-note>
+<!--2 c powdered sugar (for rolling)-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Beat whites and salt until stiff. Slowly add sugar, and beat until stiff but not dry. Reserve 3/4 c. of whites.</step>
+      <step>Fold in remaining ingredients into the egg whites. Chill for one hour.</step>
+      <step>Preheat oven to <temp><qty>300</qty><tempunit unit="F" system="US">degrees</tempunit><!--300  degrees--></temp>.</step>
+      <step>Remove a portion of the dough from the refrigerator, about 2 cups. On a work surface with a thick layer -- about 1/4 inch -- of sifted powdered sugar, gently roll the cookie dough until completely covered. It will look like a giant rum ball. Gently roll dough into a disk about 1/4 inch thick. The dough will be very sticky; be liberal with the powdered sugar. Cut with star-shaped cutters and place onto a parchment-lined cookie sheet. With a pastry brush, brush 1/4 to 1/2 teaspoon of the reserved egg white onto the top of each cookie. Bake 25 minutes.</step>
+    </directions>
+  </recipe>
+</recipeml>

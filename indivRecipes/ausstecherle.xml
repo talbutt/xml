@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Thursday October 13, 2005" name="DC.Date"/>
+  <meta content="Maria Mannherz" name="DC.Creator"/>
+  <recipe id="Ausstecherle">
+    <head>
+      <title>Ausstecherle</title>
+      <subtitle>Cut-outs</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany, Schwaben</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>The sour cream makes these wonderful. I usually make these in the evening. Afterwards I'll make a double batch of forgotten cookies with four of the leftover egg whites, pop two whites in the refrigerator in plastic container, and use one egg white to glaze the cookies. Or, make a batch of Haselnussbroetchen, using the extra egg yolk from the Haselnussbroetchen to glaze these cookies. Traditional shapes in our family include roosters, four-leaf clovers and fish.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>(1 lb</item>
+          <prep>4 sticks) butter</prep>
+<!--2 c. (1 lb, 4 sticks) butter
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>(1 lb.) sugar</item>
+<!--2 c. (1 lb.) sugar
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>7 </qty>
+          </amt>
+          <item>large egg yolks (reserve 1 white for glazing cookies)</item>
+<!--7 large egg yolks (reserve 1 white for glazing cookies)
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>sour cream (can substitute 2 whole eggs)</item>
+<!--1/2 c. sour cream (can substitute 2 whole eggs)
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>8 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>(2 lb.</item>
+          <prep>1 box) cake flour</prep>
+<!--8 c. (2 lb., 1 box) cake flour
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1/2 tsp. baking powder-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <note>Do not double this recipe.</note>
+      <step>Cream the butter until very light. Add sugar; cream butter and sugar until combined. Add egg yolks and sour cream and beat until combined.</step>
+      <step>Slowly add flour and baking powder (even with the pouring shield on my mixer, I still get flour all over the table if I add too quickly). Mix on low speed until dough is uniform. Refrigerate until cold (about one or two hours).</step>
+      <step>Preheat oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp>. Roll out some dough to about 3/8 of an inch thick. Refrigerate remaining dough. Cut cookies and place on ungreased cookie sheet. Brush with egg white or beaten whole egg. Bake 15 minutes until golden; watch carefully!</step>
+      <note>If you use jumbo eggs or are baking in a hot, humid (i.e. Florida) kitchen, reduce yolks to 6.</note>
+      <note>A stand mixer works best. Most hand mixers don't have the power to work with this much cookie dough. If using a hand mixer, add the last bit of flour by hand.</note>
+    </directions>
+  </recipe>
+</recipeml>

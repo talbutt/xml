@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xsl" type="text/xsl"?>
+<recipeml xmlns:x="http://www.w3.org/1999/xhtml"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+ version="0.5">
+  <recipe id="babka">
+    <meta content="Thursday February 15, 2007" name="DC.Date"/>
+    <meta content="Ronnie Johansen" name="DC.Creator"/>
+    <head>
+      <title>Babka</title>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="sub">Yeast</cat>
+        <cat class="region">Poland</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>A Polish bread that's a little sweet and usually baked for holidays.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>pkg</unit>
+          </amt>
+          <item>yeast</item>
+<!--2 pkg yeast-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>warm water</item>
+<!--1/2 c warm water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>warm milk</item>
+<!--2 c warm milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--3 1/2 c flour-->
+        </ing>
+        <ing>
+          <amt>
+		  	<range>
+            <qty1>2</qty1>
+            <qty2>3</qty2>
+		  	</range>
+          </amt>
+          <item>eggs</item>
+<!--2-3 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1/2 tsp vanilla-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>stick</unit>
+            </amt>
+            <item>butter</item>
+<!--1 stick butter-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>stick</unit>
+            </amt>
+            <item>margarine</item>
+<!--margarine-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 c sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>TB</unit>
+          </amt>
+          <item>salt (or less)</item>
+<!--1 TB salt (or less)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--4 1/2 c flour-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Dissolve 2 pkg yeast in 1/2 cup warm water. Let stand until creamy, about 10 minutes.</step>
+      <step>Add 2 cups luke warm milk cooled. Mix in 3 1/2 c flour.</step>
+      <step>This makes a loose dough. Cover and let rise for 1 hour in a warm place.&#13;
+Hint: You can put the covered dough in the microwave with a cup of hot water.&#13;
+Close the door to retain the heat - don't run the microwave.&#13;
+This will provide a warm place for the dough to rise.</step>
+      <step>Beat eggs, add vanilla, butter and salt and beat lightly.&#13;
+Add to loose dough. Mix in 4 1/2 c flour.</step>
+      <step>Turn the dough onto a lightly floured surface and knead 5-10 minutes.&#13;
+Lightly oil a large bowl. Place the dough in the bowl and turn to coat with oil.</step>
+      <note>You can add 1 cup raisins, chopped prunes, or chopped dried apricots if desired while kneading the dough.</note>
+      <step>Cut dough into 4 loaves. Put into lightly greased pans. Let rise uncovered for 10 minutes.</step>
+      <step>Then cover and let rise for 1 hour (third rise)</step>
+      <step>Bake at <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp> for 45-60 minutes.&#13;
+Bread is done when top of the loaves are golden and the bottom of the loaves sound hollow when tapped.&#13;
+If making half the recipe or 2 loaves, bake for 35 minutes.</step>
+      <step>I made a half recipe and accidently used a full cup of sugar instead of cutting it in half.&#13;
+It turned out sweeter than it should but was great toasted for breakfast with a cup of coffee.&#13;
+</step>
+    </directions>
+  </recipe>
+</recipeml>

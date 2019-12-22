@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="lemon_crisps">
+    <meta content="2010-01-24" name="DC.Date"/>
+    <head>
+      <title>Lemon crisps</title>
+      <subtitle>Orange crisps</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Spritz</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><x:p>Another recipe from the booklet that came with my grandmother's cookie press. The first plan was to test this at poker night (I bring the dough, the non-players spritz, the kids decorate, the poker players eat), but we were snowed out by the <x:a href="http://www.jorj.org/cgi-bin/potd-detail.cgi?EID=983">snowpacalypse of December, 2009</x:a>.</x:p>
+
+	<x:p>Like a traditional spritz, but a bit crisper.</x:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>shortening</item>
+          <!--1/2 cup shortening-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>butter</item>
+          <!--1/2 cup butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sugar</item>
+          <!--1/2 cup sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>brown sugar</item>
+          <!--1/2 cup brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>lemon juice (about half a lemon)</item>
+          <!--1 Tbs lemon juice (about half a lemon)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>lemon zest (about half a lemon)</item>
+          <!--1 tsp lemon zest (about half a lemon)-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>2 1/4</q1>
+              <q2>2 1/2</q2>
+            </range>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+          <!--2 1/4 to 2 1/2 cups flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+          <!--1/4 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking soda</item>
+          <!--1/4 tsp baking soda-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream the butter and shortening on high speed until blended. Add the sugars and juice, and cream for two more minutes.</step>
+      <step>Add egg and zest; cream another minute on high speed.</step>
+      <step>Scrape the bowl. Whisk together <ing><amt><qty>2 1/4</qty> <unit>cups</unit></amt><item>flour</item></ing>, salt and baking soda. Reserve <ing><amt><qty>1/4</qty> <unit>cups</unit></amt><item>flour</item></ing> to use if the dough is too soft. Mix into the creamed mixture a little at a time until all is incorporated.</step>
+      <step>The dough needs to be soft enough to go through the press easily and to stick to the cookie sheet, but not so soft that it will spread. If the dough seems too soft, gently mix in more flour a tablespoonful at a time, but no more than the reserved <ing><amt><qty>1/4</qty> <unit>cups</unit></amt><item>flour</item></ing>.</step>
+      <step>Preheat the oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>. Chill the dough for half an hour.</step>
+      <step>Fill the cookie press and return the remaining dough to the fridge. Press cookies onto cool, ungreased baking sheets. Decorate as desired.</step>
+      <step>Bake 10 to 12 minutes.</step>
+      <step>If the cookies spread too much in the oven:
+      <x:ul>
+		<x:li>chill the dough if you didn't return it to the refrigerator</x:li>
+		<x:li>cool the cookie sheets by running them under cold water (dry off before using, of course)</x:li>
+		<x:li>add reserved flour, if you haven't already; note how much flour you used total</x:li>
+		<x:li>use only shortening instead of a butter-shortening mixture, especially if the cookies are too hard to press</x:li>
+	  </x:ul></step>
+	  <note type="Variation">Substitute orange juice and orange zest for the lemon juice and zest.</note>
+    </directions>
+  </recipe>
+</recipeml>

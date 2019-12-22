@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Thursday December 29, 2005" name="DC.Date"/>
+  <recipe id="Vanillekipferln" system="metric">
+    <head>
+      <title>Vanillekipferln</title>
+      <subtitle>Vanilla nut crescents</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This is perhaps the easiest cookie I have ever made, requiring no special techniques, not even creaming butter (let alone beating whites until stiff and glossy). Anyone who can measure and use a mixer, can make these cookies. Proof that a great cookie can use simple techniques and ingredients.</xhtml:p>
+
+<xhtml:p>Kipferln are a rich and nutty, and not too sweet. In texture they are similar to Russian tea balls and Mexican wedding cakes, or a shortbread with nuts.</xhtml:p>
+
+<xhtml:p>And no, there is no baking powder or sugar in this cookie.</xhtml:p>
+
+<xhtml:p>Like many German cookies, Kipferln use ground nuts. You can either grind your own nuts in a food processor, or buy pre-ground nuts from specialty stores. In Philadelpia, The Spice Terminal sells pre-ground nuts.</xhtml:p></description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>180</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+
+<!--1 1/4 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>70</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>finely ground</prep>
+
+<!--3 oz. almonds, finely ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+
+<!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+
+<!--1/4 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla extract</item>
+
+<!--1 tsp. vanilla extract-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>pinch</unit>
+          </amt>
+          <item>salt</item>
+
+<!--1 pinch salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+
+<!--9 Tb. butter, softened-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Sugar coating</title>
+        <ing>
+          <amt>
+            <qty>70</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+
+<!--2/3 c. powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>30</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+
+<!--2 Tb. sugar-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>2</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>vanilla sugar </item>
+
+<!--2 Tb. vanilla sugar (optional)-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Sift flour into a bowl and stir in ground almonds. Create a well in the middle of the flour. Beat egg with vanilla and pour into the well of the flour mixture. Add sugar and salt. Cut butter into pieces of about a tablespoon, and add. Mix everything on low speed until a ball of smooth dough forms. (If mixing by hand, use your hands to knead together into a ball of dough.) Wrap in plastic wrap or wax paper and cool in refrigerator for an hour.</step>
+      <step>Preheat oven to <temp><qty>175</qty><tempunit system="metric" unit="C">degrees</tempunit><!--350  degrees--></temp>. Divide the dough into four pieces. Roll each piece into a log 1/2 to 3/4 inch thich. Cut the log into pieces about 2 inches long. Taper the ends of each piece, and bend into a crescent. Bake 12 to 15 minutes on a cookie sheet lined with parchment paper.</step>
+      <step>Stir sugars together in a small bowl for the coating.</step>
+      <step>When cookies are cool enough to handle -- two or three minutes after coming out of the oven -- dredge each cookie in the mixed sugars. Tap off any excess sugar and allow cookies to cool on a rack. (Wax paper or paper towels under the cooling rack will catch any powdered sugar that falls off.)</step>
+    </directions>
+  </recipe>
+</recipeml>

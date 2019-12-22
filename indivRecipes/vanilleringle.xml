@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday January 18, 2006" name="DC.Date"/>
+  <recipe id="Vanilleringle">
+    <head>
+      <title>Vanilleringle</title>
+      <subtitle>Vanilla wreaths</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Vanilleringle are one of the Grandma's dozen: the cookies that were in Grandma's cookie tin each year. They are great for dunking, even when stale. Although these cookies are very easy to make and require no hard-to-find ingredients, a good quality vanilla will give them a complex flavor. The lack of baking powder leaves the cookies dense and rich.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1 1/8</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+<!--1 1/8 c butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 1/4 c sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 Tb vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3 2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour </item>
+<!--3 2/3 c flour -->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream butter on high speead until light and fluffy. Add sugar and salt, and beat until sugar is incorporated. Add eggs one by one, then vanilla, and beat until incorporated. Scrape down sides. Slowly add flour while mixing on low speed. Scrape sides and bottom again, and continue to mix until incorporated. Cover and chill dough for half an hour.</step>
+      <step>Preheat oven to <temp><qty>400</qty><tempunit unit="F" system="US">degrees</tempunit><!--400  degrees--></temp>.</step>
+      <step>Fit the small star pattern into a cookie press -- but not a trigger cookie press -- and fill the cannister with a cylinder of dough about the size of a fist. The dough should be cool but not overly stiff; gently knead the dough in your hands until it is pliable. Squeeze the dough into long strips onto a sheet of wax or parchment paper. Cut the dough into pieces about as long as a finger, then form each piece into a ring and place onto a buttered or parchment-covered cookie sheet. Bake 10 to 12 minutes, until golden, with brown edges.</step>
+    </directions>
+  </recipe>
+</recipeml>

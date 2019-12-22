@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  1, 2006" name="DC.Date"/>
+  <meta content="Leta Harris" name="DC.Creator"/>
+  <recipe id="Peanut Butter Cookies">
+    <head>
+      <title>Peanut Butter Cookies</title>
+      <source>Leta Harris</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>For people who love peanut butter.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>cup</unit>
+            </amt>
+            <item>butter</item>
+            <prep>softened</prep>
+<!--1 cup butter-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty> 1</qty>
+              <unit>cup</unit>
+            </amt>
+            <item>margarine</item>
+            <prep>softened</prep>
+<!-- 1 cup margarine, softened-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>brown sugar</item>
+          <prep>packed</prep>
+<!--1 cup brown sugar, packed-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>granulated sugar</item>
+<!--1 cup granulated sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>smooth peanut butter</item>
+<!--1 cup smooth peanut butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+<!--3 cups flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit>
+          </amt>
+          <item>baking soda</item>
+<!--2 teaspoons baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>salt</item>
+<!--1/4 teaspoon salt-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream butter and both sugars together. Beat in eggs, one at a time. Mix in peanut butter. Stire in flour, baking soda and salt. Shape into small balls. Place on a greased cookie sheet allowing room for expansion. Press with fork. Bake at <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp> F. for 12-15 minutes. Makes 6 dozen. Enjoy!</step>
+    </directions>
+  </recipe>
+</recipeml>

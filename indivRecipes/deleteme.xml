@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?><recipeml version="0.5" xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml">
+  <recipe id="nerf_gun_m" system="metric">
+    <meta content="2019-11-15" name="DC.Date"/>
+    <head>
+      <title>Nerf gun</title>
+      <subtitle>Revolver variation</subtitle>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Cold</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Dairy-free</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Gluten-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>Winter means bourbon and whiskey cocktails like the revolver, a bourbon-coffee liqueur-orange bitters cocktail found in Robert Simonson's <x:i>Three-Ingredient Cocktails</x:i>. Having cold coffee but no coffee liqueur, this interpretation with classic proportions was very tasty. The name refers back to the inspiration, in a more pacifist way.</description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>45</qty>
+            <unit>mL</unit>
+          </amt>
+          <item>bourbon</item>
+        
+          <!--1 1/2 fl. oz. bourbon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>15</qty>
+            <unit>mL</unit>
+          </amt>
+          <item>cold</item>
+          <prep>strong coffee</prep>
+        
+          <!--1/2 fl. oz. cold, strong coffee-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>15</qty>
+            <unit>mL</unit>
+          </amt>
+          <item>almond liqueur </item>
+          <prep>e.g. Amaretto</prep>
+        
+          <!--1/2 fl. oz. almond liqueur (e.g. Amaretto)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>dashe</unit>
+          </amt>
+          <item>orange bitters</item>
+        
+          <!--2 dashes orange bitters-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Shake the bourbon, coffee, and almond liqueur over ice until chilled. Strain into a cocktail glass and add two dashes of orange bitters.</step>
+    </directions>
+  </recipe>
+</recipeml>

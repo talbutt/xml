@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  
+  <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+<dict>
+<key>AFFILIATE_ID</key>
+<integer>-1</integer>
+<key>DIRECTIONS</key>
+<string>
+      Sift flour into a bowl and stir in ground almonds. Create a well in the middle of the flour. Beat egg with vanilla and pour into the well of the flour mixture. Add sugar and salt. Cut butter into pieces of about a tablespoon, and add. Mix everything on low speed until a ball of smooth dough forms. (If mixing by hand, use your hands to knead together into a ball of dough.) Wrap in plastic wrap or wax paper and cool in refrigerator for an hour.		
+		
+      Preheat oven to 350degrees. Divide the dough into four pieces. Roll each piece into a log 1/2 to 3/4 inch thich. Cut the log into pieces about 2 inches long. Taper the ends of each piece, and bend into a crescent. Bake 12 to 15 minutes on a cookie sheet lined with parchment paper.		
+		
+      Stir sugars together in a small bowl for the coating.		
+		
+      When cookies are cool enough to handle -- two or three minutes after coming out of the oven -- dredge each cookie in the mixed sugars. Tap off any excess sugar and allow cookies to cool on a rack. (Wax paper or paper towels under the cooling rack will catch any powdered sugar that falls off.)		
+		
+    </string>
+<key>INGREDIENTS</key>
+<array>
+<dict>
+<key>DESCRIPTION</key>
+<string>flour</string>
+<key>DIRECTION</key>
+<string> </string>
+<key>MEASUREMENT</key>
+<string>c</string>
+<key>QUANTITY</key>
+<string>1 1/4</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>almonds</string>
+<key>DIRECTION</key>
+<string>finely ground </string>
+<key>MEASUREMENT</key>
+<string>oz</string>
+<key>QUANTITY</key>
+<string>3</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>egg</string>
+<key>DIRECTION</key>
+<string> </string>
+<key>MEASUREMENT</key>
+<string/>
+<key>QUANTITY</key>
+<string>1</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>sugar</string>
+<key>DIRECTION</key>
+<string> </string>
+<key>MEASUREMENT</key>
+<string>c</string>
+<key>QUANTITY</key>
+<string>1/4</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>vanilla extract</string>
+<key>DIRECTION</key>
+<string> </string>
+<key>MEASUREMENT</key>
+<string>tsp</string>
+<key>QUANTITY</key>
+<string>1</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>salt</string>
+<key>DIRECTION</key>
+<string> </string>
+<key>MEASUREMENT</key>
+<string>pinch</string>
+<key>QUANTITY</key>
+<string>1</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>butter</string>
+<key>DIRECTION</key>
+<string>softened </string>
+<key>MEASUREMENT</key>
+<string>Tb</string>
+<key>QUANTITY</key>
+<string>9</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>powdered sugar</string>
+<key>DIRECTION</key>
+<string> </string>
+<key>MEASUREMENT</key>
+<string>c</string>
+<key>QUANTITY</key>
+<string>2/3</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>sugar</string>
+<key>DIRECTION</key>
+<string> </string>
+<key>MEASUREMENT</key>
+<string>Tb</string>
+<key>QUANTITY</key>
+<string>2</string>
+</dict>
+<dict>
+<key>DESCRIPTION</key>
+<string>vanilla sugar </string>
+<key>DIRECTION</key>
+<string>  (optional)</string>
+<key>MEASUREMENT</key>
+<string>Tb</string>
+<key>QUANTITY</key>
+<string>2</string>
+</dict>
+</array>
+<key>KEYWORDS</key>
+<string>Vanilla nut crescents Cookies Germany 
+			Christmas
+		</string>
+<key>NAME</key>
+<string>Vanillekipferln</string>
+<key>NOTE</key>
+<string>This is perhaps the easiest cookie I have ever made, requiring no special techniques, not even creaming butter (let alone beating whites until stiff and glossy). Anyone who can measure and use a mixer, can make these cookies. Proof that a great cookie can use simple techniques and ingredients.</xhtml:p>
+
+<xhtml:p>Kipferln are a rich and nutty, and not too sweet. In texture they are similar to Russian tea balls and Mexican wedding cakes, or a shortbread with nuts.</xhtml:p>
+
+<xhtml:p>And no, there is no baking powder or sugar in this cookie.</xhtml:p>
+
+<xhtml:p>Like many German cookies, Kipferln use ground nuts. You can either grind your own nuts in a food processor, or buy pre-ground nuts from specialty stores. In Philadelpia, The Spice Terminal sells pre-ground nuts.</string>
+<key>NUTRITION</key>
+<string/>
+<key>PREP_TIMES</key>
+<array/>
+<key>SERVINGS</key>
+<integer>0</integer>
+<key>SOURCE</key>
+<string>Christmas Baking with SusieJ</string>
+<key>TYPE</key>
+<integer>102</integer>
+</dict>
+</array>
+</plist>

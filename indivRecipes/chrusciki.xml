@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Sandy Johansen" name="DC.Creator"/>
+  <recipe id="Chrusciki">
+    <head>
+      <title>Chrusciki</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Poland</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>"You'll need four hands for these cookies," Sandy said. One person rolls and cuts the dough while the other fries them.</xhtml:p>
+
+<xhtml:p>This version of the traditional Polish cookie is drawn from three recipes written down by Sandy's mother and her mother's friend. Sandy's mother makes these every year. When she visits at Christmas time, Sandy rolls and cuts the cookies while her mother makes the dough and watches the hot oil.</xhtml:p>
+
+<xhtml:p>Chrusciki will go stale within a few days, but will usually be eaten before then.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>eggs</item>
+<!--3 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>sugar</item>
+<!--3 Tbs. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sour cream</item>
+<!--1/2 c. sour cream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 tsp. vanilla-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>2</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>brandy</item>
+<!--brandy-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>2</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>rum</item>
+<!--2 Tbs. rum-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/4 tsp. salt-->
+        </ing>
+        <ing>
+          <amt>
+		  	<range>
+		      <q1>3</q1>
+		      <q2>3 1/4</q2>
+		  	</range>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+          <prep>sifted</prep>
+<!--3 to 3 1/4 c. flour, sifted-->
+        </ing>
+        <ing>
+          <item>vegetable oil for deep-frying</item>
+<!--vegetable oil for deep-frying-->
+        </ing>
+        <ing>
+          <item>confectioner's sugar for dusting the cookies</item>
+<!--confectioner's sugar for dusting the cookies-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Beat eggs and sugar together. Blend in sour cream, vanilla and rum or brandy.</step>
+      <step>Fold in sifted flour and salt.</step>
+      <step>Knead dough on floured surface until the dough is smooth.</step>
+      <step>Cut off a small portion of dough and roll out as thin as possible (almost paper thin). "If you think it's thin enough, it's not," Sandy's mother said. The dough will spring back as you roll it if you treat it like a pie crust. Be aggressive! Work that rolling pin!</step>
+      <step>Cut into 2-inch wide strips. Cut the strips diagonally every 4 inches. In the middle of each cookie cut a one inch slit. Pull one of the pointier corners through the slit. If you are making these alone, Sandy suggests rolling and cutting all the dough before frying, or in two batches. If two people are making the cookies, the roller/cutter should get a "stockpile" before frying begins.</step>
+      <step>Heat oil to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>. An electric frypan works well, especially if you are working alone. Slide about seven or eight cookies into the oil. They should pop up to the top of the oil after a second. Very shortly, the cookies should be a light brown (or very dark tan) on the bottom. Flip the cookies; a two-tined carving fork works well. When the second side is browned, remove from the oil with a slotted spoon and drain on paper towels. When the paper towel is filled with cookies, shake confectioner's sugar over the cookies and move the cookies, paper towels and all, to an old cookie sheet. You can keep piling layers of cookies and towels onto the cookie sheet.</step>
+    </directions>
+  </recipe>
+</recipeml>

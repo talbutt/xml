@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <recipe id="Dreispitze">
+    <head>
+      <title>Dreispitze</title>
+      <subtitle>Jelly Nut Triangles</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Literally, the name means "three points." Proof that not all cookie names have a romantic story!</xhtml:p>
+
+<xhtml:p>This is based on a recipe from my Grandmother's pre-war German cookbook.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+<!--3/4 c. butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1/2 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 1/4</qty>
+			<unit>oz</unit>
+          </amt>
+          <item>ground almonds</item>
+<!--2 1/4 oz. ground almonds-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--2 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/4 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>12</qty>
+			<unit>oz</unit>
+          </amt>
+          <item>jam</item>
+          <ing-note>, such as raspberry or apricot</ing-note>
+<!--12 oz. jam, such as raspberry-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Beat butter and sugar together on high speed until light and fluffy. Add eggs and continue to beat. Stir together flour, salt and ground nuts, and mix in on slow speed. Chill dough for one half to one hour.</step>
+      <step>Preheat oven to <temp><qty>400</qty><tempunit unit="F" system="US">degrees</tempunit><!--400  degrees--></temp>. Roll out dough to 1/8 inch thick. Using 2 1/2 inch round cookie cutter, cut rounds of dough and place onto parchment-lined baking sheets. Rounds can be placed close together, even touching. Stir jelly to make it spoonable, and spoon about 1/4 to 1/2 tsp onto each cookie. Fold up three sides of each cookie so that a triangle forms. If you've placed the circles touching, form the triangles so that each row faces in the opposite directon and the cookies won't touch. Pinch each point together so that the jelly doesn't run out when baked. I usually do one last pinch on each corner before putting the cookies in the oven.</step>
+      <step>Bake 12 to 15 minutes until jelly bubbles and cookies are golden brown.</step>
+    </directions>
+  </recipe>
+</recipeml>

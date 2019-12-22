@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="tele_happen" system="metric">
+    <meta content="2015-11-06" name="DC.Date"/>
+    <head>
+      <title>Tele-Happen</title>
+      <subtitle>Chocolate-ginger spice bars</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Bar</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>This comes from Dr. Oetker's Christmas Baking (Dr. Oetker being the Betty Crocker of Germany, with "his" own brands of mixes and decades of cookbooks), and appears in no other cookbook or form that I can find. Searching google.de returns no photos, and only this recipe. It's a type of Lebkuchen called <x:a href="/honigkuchen.html">Honigkuchen</x:a> that is almost a cookie category unto itself.</description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>honey</item>
+          <!--200g honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <!--100 g butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--125 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+          <!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>20</qty>
+            <unit>g</unit>
+          </amt>
+          <item>Dutched cocoa</item>
+          <!--20 g Dutched cocoa-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+          <!--1/2 tsp cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>ground cloves</item>
+          <!--1/4 tsp ground cloves-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>ground ginger</item>
+          <!--1 tsp ground ginger-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>350</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+          <!--350 g flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--3 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>60</qty>
+            <unit>g</unit>
+          </amt>
+          <item>candied ginger</item>
+          <prep>chopped</prep>
+          <!--60 g candied ginger, chopped-->
+        </ing>
+        <ing>
+            <amt>
+              <qty>50</qty>
+              <unit>g</unit>
+            </amt>
+            <item>bittersweet chocolate</item>
+            <prep>grated or finely ground</prep>
+            <!--50 g bittersweet chocolate, grated or finely ground-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Chocolate glaze</title>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <!--200 g powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>Dutched cocoa</item>
+          <!--3 Tbs Dutched cocoa-->
+        </ing>
+        <ing>
+          <amt>
+		    <range>
+			  <q1>3</q1>
+			  <q2>4</q2>
+		    </range>
+            <unit>Tbs</unit>
+          </amt>
+          <item>hot water</item>
+          <!--3-4 Tbs hot water-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven to <temp><qty>175</qty><tempunit unit="C" system="metric">degrees</tempunit><!--185  degrees--></temp>. Grease a small jellyroll pan, or line with baking paper.</step>
+      <step>In a small saucepan, heat the honey, butter and sugar until all have melted, but not to boiling. Melting the honey means you can use the oldest, most crystallized honey you find in the back of the cabinet. Remove from heat, pour into a large bowl (use a spatula to scrape out all the mixture) and allow to cool to warmer than body heat, but not hot.</step>
+      <step>Beat the two eggs in a small bowl. Add a small amount of honey-butter to temper the eggs. Add eggs, <ing><amt><qty>20</qty>v<unit>g</unit></amt> <item>Dutched cocoa</item><!--20 g Dutched cocoa--></ing>, and spices to the honey mixture, stir to combine. Whisk together flour and baking powder in a medium bowl, and fold into honey-butter-spice mixture with a spatula. The batter will almost be thick enough to be a dough. Fold in chopped candied ginger and grated chocolate. The chocolate should melt.</step>
+      <step>Spread as evenly as you can into the jellyroll pan.</step>
+      <step>Bake for 20 to 25 minutes.</step>
+      <step>Just before, or just after, removing the cookies from the oven, sift the powdered sugar and <ing><amt><qty>3</qty><unit>Tbs</unit></amt> <item>Dutched cocoa</item><!--20 g Dutched cocoa--></ing> into a medium bowl. Whisk in <ing><amt><qty>3</qty> <unit>Tbs</unit></amt> <item>hot tap water</item></ing>. If the glaze is thicker than you'd like, whisk in up to another <ing><amt><qty>1</qty> <unit>Tbs</unit></amt> <item>hot tap water</item></ing>, one teaspoon at a time. Pour and spread over the hot cookies. Allow to cool.</step>
+      <step>Cut with a sharp, serrated knife into triangles or bars.</step>
+    </directions>
+  </recipe>
+</recipeml>

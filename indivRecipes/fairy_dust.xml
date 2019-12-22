@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Saturday November 26, 2005" name="DC.Date"/>
+  <recipe id="Fairy Dust Cakes 4 Kids">
+    <head>
+      <title>Fairy Dust Cakes 4 Kids</title>
+      <source>Fran</source>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">Britain</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This recipe was given to me by my great grandmother, one of the best cooks I have ever met! It has been adapted by my mother and so on and is a great recipe that your children will love making and eating!</xhtml:p></description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+<!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>self raising flour</item>
+<!--200g self raising flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>margarine</item>
+<!--200g margarine-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>200</qty>
+              <unit>g</unit>
+            </amt>
+            <item>caster sugar</item>
+<!--200g caster sugar-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>200</qty>
+              <unit>g</unit>
+            </amt>
+            <item>demarara</item>
+            <ing-note>(to add chunchiness!)</ing-note>
+<!--demarara (to add chunchiness!)-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+			<unit>pack</unit>
+          </amt>
+          <item>coloured boiled sweets</item>
+          <ing-note> [Note from SusieJ: I think these are called "hard candies" in America; I don't know how large a pack is.]</ing-note>
+<!--1 pack coloured boiled sweets [Note from SusieJ: I think these are called "hard candies" in America, I don't know how large a pack is]-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step> Preheat the oven to <temp><qty>190</qty><tempunit unit="C" system="metric">degrees</tempunit><!--190 C--></temp>. Cream together the marg and the sugar. Add the egg and mix in the flour little by little. Cook in the oven for 15 mins. When cool, smash the boiled sweets into bits with a rolling pin and a tea towel gentlely sprinkle the bits over the cakes. Enjoy !</step>
+    </directions>
+  </recipe>
+</recipeml>

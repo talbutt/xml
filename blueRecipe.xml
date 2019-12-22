@@ -1,0 +1,387 @@
+<xsl:stylesheet
+	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:r="http://www.formatdata.com/recipeml/recipeml.dtd"
+	xmlns:x="http://www.w3.org/1999/xhtml"
+	exclude-result-prefixes="r x xs"
+	xmlns="http://www.w3.org/1999/xhtml"
+	version="2.0">
+	<xsl:output method="xhtml" 
+	            indent="yes" 
+	            doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
+	            doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" />
+
+<!--
+   - Create the an html page for each recipe node. Right now, we assume one
+   - recipe per file. With XSLT2, we'll be able to split multiple recipes
+   - out of one large file.
+   -
+   - There's a very basic structure:
+   - the html head, including title and meta tags
+   - the page header, the same for every page on www.christmas-baking.com
+   - the history (from the description)
+   - ingredients
+   - directions
+   - common footer
+  -->
+	<xsl:template match="/r:recipeml/r:recipe">
+	<xsl:result-document href="{@id}.html">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<xsl:call-template name="head" />
+</head>
+
+<body>
+	<xsl:call-template name="header" />
+	
+	<xsl:call-template name="meta-data" />
+
+	<xsl:apply-templates select="r:description" />
+	
+	<div class="main">
+	<xsl:apply-templates select="r:ingredients" />
+	
+	<xsl:apply-templates select="r:directions" />
+	</div>
+	
+	<xsl:call-template name="footer" />
+
+</body>
+</html>
+
+	</xsl:result-document>
+	</xsl:template>
+
+<!--
+   - HTML head: title, meta keywords, stylesheets, javascript
+   -
+   - This is very site-specific. The CSS will do the actual styling of the 
+   - pages.
+  -->
+	<xsl:template name="head">
+		<title>
+			<xsl:value-of select="r:head/r:title" />
+		</title>
+		
+		<!-- Create a meta tag for keywords, using the categories and
+			 subtitle. -->
+		<meta>
+			<xsl:attribute name="name">keywords</xsl:attribute>
+			<xsl:attribute name="content">
+				<xsl:for-each select="r:head/r:categories/r:cat">
+					<xsl:value-of select="." />
+					<xsl:text>, </xsl:text>
+				</xsl:for-each>
+	
+				<!-- if doesn't change the meaning of "." -->
+				<xsl:if test="r:head/r:subtitle">
+					<xsl:value-of select="r:head/r:subtitle" />
+					<xsl:text>, </xsl:text>
+				</xsl:if>
+				<!-- Standard keywords -->
+				<xsl:value-of select="normalize-space ('Christmas, baking, recipe')" />
+			</xsl:attribute>
+		</meta>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+		
+		<link rel="stylesheet" href="/christmas.css" type="text/css" title="white" />
+		<link rel="alternate stylesheet" href="/christmasBlue.css" type="text/css" title="blue" />
+	
+		<link rel="shortcut icon" href="/favicon.ico" />
+	
+		<script type="text/javascript" src="/scripts/styleswitcher.js"></script>
+		<script src="/scripts/cafe.js" type="text/javascript"></script>
+		<script type="text/javascript" src="/scripts/jquery.js"></script>
+		<script type="text/javascript" src="/scripts/socialLinks.js"></script>
+	</xsl:template>
+
+<!-- 
+   - Site-specific header.
+   -
+   - Header for every page on www.christmas-baking.com. CSS determines the 
+   - look and feel. This includes a page title and top-level site navigation.
+   -
+   - Some of the info is pulled from the meta tags. Unfortunately, the DTD 
+   - defines the meta tags for the file, but not for individual recipes.
+   - I use both a source (who entered the info into the web form) and creator
+   - (who came up with the recipe).
+   -
+   - I use the subtitle node as an alternate name, although this might be 
+   - better represented in meta tags.
+  -->
+	<xsl:template name="header">
+		<div class="header">
+			<h1><a href="/index.html"><img src="/images/christmas-baking.gif" 
+										   alt="Christmas Baking with SusieJ" /></a>
+			<xsl:if test="r:meta[@name='DC.Creator']">
+				<xsl:value-of select="r:meta[@name='DC.Creator']/@content" /><xsl:text>'s </xsl:text>
+			</xsl:if>
+			<xsl:value-of select="r:head/r:title" />
+			<xsl:if test="r:head/r:subtitle">
+				<xsl:text> (</xsl:text>
+				<xsl:value-of select="r:head/r:subtitle" />
+				<xsl:text>)</xsl:text>
+			</xsl:if>
+			</h1>
+	
+			<p class="menu2">
+				<span class="menu-item"><a href="/cgi-bin/advent.cgi">Advent calendar</a></span>
+				<span class="menu-item"><a href="/sources.html">Sources &amp; Resources</a></span> 
+				<span class="menu-item"><a href="/hints.html">Baking 101</a></span> 
+				<span class="menu-item"><a href="/guestbook.html">Baking Disasters</a></span> 
+				<span class="menu-item"><a href="/other.html">Christmas Links</a></span>
+				<span class="menu-item"><a href="itsAllAboutTheFood/">(Not a) Blog</a></span>
+				<span class="menu-item"><a href="http://twitter.com/ChristmasBaking">@ChristmasBaking</a></span>
+			</p>
+		</div>
+
+	</xsl:template>
+	
+	<xsl:template name="meta-data">
+		<p id="meta">		
+		
+		<xsl:if test="r:head/r:categories/r:cat[@class='main']">
+			<span id="category">
+			<a href="categories.html" class="label">Category:</a><xsl:text> </xsl:text>
+			<a href="categories.html#{r:head/r:categories/r:cat[@class='main']}"><xsl:value-of select="r:head/r:categories/r:cat[@class='main']" /></a>
+			<xsl:text> </xsl:text>
+			<!-- How deep can we get? Use a foreach and make them order-dependent?
+			   - What of rolled Lebkuchen? -->
+			<xsl:if test="r:head/r:categories/r:cat[@class='sub']">
+				<xsl:text>&gt; </xsl:text>
+				<xsl:value-of select="r:head/r:categories/r:cat[@class='sub']" />
+				<xsl:text> </xsl:text>
+			</xsl:if>
+			</span>
+		</xsl:if>
+		
+		<xsl:if test="r:head/r:categories/r:cat[@class='region']">
+			<span id="region">
+			<a href="regions.html" class="label">Region:</a><xsl:text> </xsl:text>
+			<xsl:for-each select="r:head/r:categories/r:cat[@class='region']">
+				<a href="regions.html#{.}"><xsl:value-of select="." /></a>
+				<xsl:text> </xsl:text>
+			</xsl:for-each>
+			</span>
+		</xsl:if>
+		
+		<xsl:if test="r:head/r:categories/r:cat[@class='diet']">
+			<span id="diet">
+			<a href="diets.html" class="label">Special diet:</a><xsl:text> </xsl:text>
+			<xsl:for-each select="r:head/r:categories/r:cat[@class='diet']">
+				<a href="diets.html#{.}"><xsl:value-of select="." /></a>
+				<xsl:text> </xsl:text>
+			</xsl:for-each>
+			</span>
+		</xsl:if>
+		
+		<xsl:if test="r:head/r:source">
+			<span id="#from">
+			<span class="label"><xsl:text>From: </xsl:text></span>
+			<xsl:value-of select="r:head/r:source" />
+			</span>
+		</xsl:if>
+		</p>
+	</xsl:template>
+
+<!--
+   - Standard footer
+   -
+   - Non-content links (about, contact)
+   - COPYRIGHT
+   - Cafe Press link
+   - The only data pulled from the XML file is the date from the meta tag
+  -->
+	<xsl:template name="footer">
+		<div class="footer">
+			<p class="menu2">
+				<span class="menu-item"><a href="mailto:webmistress@christmas-baking.com">Contact</a></span>
+				<span class="menu-item"><a href="/about.html">About</a></span>
+				<span class="menu-item"><a href="/submit.html">Share a Recipe</a></span>
+				<span class="menu-item"><a href="/index.xml">RSS</a></span>
+				<a href="http://www.cafepress.com/xmasbaking"><img src="/images/sticker.gif" style="float: right" alt="[Support the site!]" /></a>
+			</p>
+	
+			<p>Please remember that typing and testing these recipes is
+			a lot of work, as is creating and maintaining the web site.
+			Links are always welcome. Please bake up a storm and share
+			the results and the recipe with your friends! All other
+			rights reserved.
+			<br />
+			<!-- If a meta tag (on the recipe) is a DC.Date type, print out the contents of the content
+			     attribute, formatted as a human date. -->
+			<xsl:if test="r:meta[@name='DC.Date']">
+				<small>Last updated <xsl:value-of select="format-date (xs:date (r:meta[@name='DC.Date']/@content), '[MNn] [D], [Y]')" /></small>
+			</xsl:if>
+			</p>
+		</div>
+	</xsl:template>
+
+	<xsl:template match="r:ingredients">
+	<h2>Ingredients
+
+		<!-- Alternate measurements -->
+<!-- 
+		<xsl:value-of select="substring (@id, string-length(@id) - 1, 2)" />
+ -->
+		<xsl:choose>
+			<xsl:when test="../@system = 'US'">
+				<xsl:choose>
+					<xsl:when test="substring (../@id, string-length(../@id) - 1, 2) = '_a'">
+					<span id="alt_measure"><a href="{substring (../@id, 0, string-length(../@id) - 1)}.html">[metric]</a> </span>
+					</xsl:when>
+					<xsl:otherwise>
+					<span id="alt_measure"><a href="{../@id}_m.html">[metric]</a> </span>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:when>
+			<xsl:when test="../@system = 'metric'">
+				<xsl:choose>
+					<xsl:when test="substring (../@id, string-length(../@id) - 1, 2) = '_m'">
+					<span id="alt_measure"><a href="{substring (../@id, 0, string-length(../@id) - 1)}.html">[American]</a> </span>
+					</xsl:when>
+					<xsl:otherwise>
+					<span id="alt_measure"><a href="{../@id}_a.html">[American]</a> </span>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:choose>
+					<xsl:when test="substring (../@id, string-length(../@id) - 1, 2) = '_a'">
+					<span id="alt_measure"><a href="{substring (../@id, 0, string-length(../@id) - 1)}.html">[metric]</a> </span>
+					</xsl:when>
+					<xsl:otherwise>
+					<span id="alt_measure"><a href="{../@id}_m.html">[metric]</a> </span>
+					</xsl:otherwise>
+				</xsl:choose>
+			</xsl:otherwise>
+		</xsl:choose>
+
+	</h2>
+	<xsl:for-each select="r:ing-div">
+		<xsl:apply-templates select="r:title|r:note" />
+		<ul>
+			<xsl:apply-templates select="r:ing" />
+		</ul>
+	</xsl:for-each>
+	</xsl:template>
+	
+	<!-- Individual ingredients and alternate ingredients have the
+	     same format (just different levels). A more specific rule
+	     for ing/r:alt-ing will catch the beginning of an alternate
+	     ingredient list -->
+	<xsl:template match="r:ing|r:alt-ing">
+		<xsl:variable name="alternatives" as="xs:integer" select="count (r:alt-ing)" />
+		<xsl:choose>
+			<xsl:when test="r:alt-ing">
+				<li><xsl:choose>
+					<xsl:when test="$alternatives = 2"><xsl:text>Either</xsl:text></xsl:when>
+					<xsl:otherwise><xsl:text>One of</xsl:text></xsl:otherwise>
+					</xsl:choose><xsl:text>:</xsl:text>
+					<xsl:if test="@optional = 'yes'">
+						<xsl:text> (optional) </xsl:text>
+					</xsl:if>
+				</li>
+				<ul>
+					<xsl:apply-templates />
+				</ul>
+			</xsl:when>
+			<xsl:otherwise>
+				<li>
+					<xsl:apply-templates select="r:amt" />
+					<xsl:apply-templates select="r:item" />
+					<xsl:apply-templates select="r:prep" />
+					<xsl:if test="@optional = 'yes'">
+						<xsl:text> (optional) </xsl:text>
+					</xsl:if>
+					<xsl:value-of select="r:ing-note" />
+				</li>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+
+	<!-- Ingredients in directions. Ingredients get marked up in directions
+	     so that we can covert to metric. -->
+	<xsl:template match="r:step/r:ing">
+		<xsl:apply-templates select="r:amt" />
+		<xsl:apply-templates select="r:prep" />
+		<xsl:apply-templates select="r:item" />
+	</xsl:template>
+
+	<!-- Amounts -->
+	<xsl:template match="r:amt">
+		<xsl:if test="r:qty">
+			<xsl:value-of select="r:qty" /> 
+			<xsl:text> </xsl:text>
+		</xsl:if>
+		<xsl:if test="r:range">
+			<xsl:value-of select="r:range/r:q1" />
+			<xsl:text> to </xsl:text>
+			<xsl:value-of select="r:range/r:q2" />
+			<xsl:text> </xsl:text>
+		</xsl:if>
+		<xsl:if test="r:unit">
+			<xsl:value-of select="r:unit" /> 
+			<xsl:text> </xsl:text>
+		</xsl:if>
+	</xsl:template>
+
+	<xsl:template match="r:prep">
+		<xsl:text>, </xsl:text>
+		<xsl:value-of select="." />
+	</xsl:template> 
+
+	<!-- The History section -->
+	<xsl:template match="r:description">
+		<div class="sidebar">
+			<h2>History</h2>
+			<xsl:apply-templates />
+		</div>
+	</xsl:template>
+
+	<!-- The Directions section -->
+	<xsl:template match="r:directions">
+	<h2>Directions</h2>
+		<xsl:apply-templates />
+	</xsl:template>
+
+	<!-- Within steps there can be in-line elements -->
+	<xsl:template match="r:step">
+		<p><xsl:apply-templates /></p>
+	</xsl:template>
+
+	<!-- Block-level elements used in multiple places -->
+	<xsl:template match="r:note[@type='Variation']">
+		<p class="variation"><em><strong>Variation: </strong> <xsl:value-of select="."/></em></p>
+	</xsl:template>
+	
+	<xsl:template match="r:note">
+		<p class="note"><em><strong>Note: </strong> <xsl:value-of select="."/></em></p>
+	</xsl:template>
+	
+	<xsl:template match="r:title">
+		<h3><xsl:apply-templates /></h3>
+	</xsl:template>
+
+	<xsl:template match="r:tempunit">
+		<xsl:text> degrees </xsl:text><xsl:value-of select="@unit" />
+	</xsl:template>
+
+	<!--
+	     XHTML elements included in the recipeML file. The namespace prefix
+	     MUST be xhtml: Got that?
+
+	<xsl:template match="xhtml:img">
+	</xsl:template>
+	  -->
+
+	<xsl:template match="x:*"> 
+	  <xsl:element name="{local-name()}"> 
+		<xsl:copy-of select="@*"/> 
+		<xsl:apply-templates/> 
+	  </xsl:element>
+	</xsl:template>
+
+
+
+</xsl:stylesheet>

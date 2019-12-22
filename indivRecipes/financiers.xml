@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Chef Andre" name="DC.Creator"/>
+  <recipe id="Financiers">
+    <head>
+      <title>Financiers</title>
+      <source>Loni Hua</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Northern France</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>This type of cookies came from Northern France. My French Chef gave it to me, and I would to share this recipe to you.</xhtml:p></description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>300</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+<!--300 g.  sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>cake flour</item>
+<!--100 g.  cake flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almond powder</item>
+<!--150 g.  almond powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>270</qty>
+            <unit>g</unit>
+          </amt>
+          <item>Egg whites</item>
+<!--270 g.  Egg whites-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>25</qty>
+            <unit>g</unit>
+          </amt>
+          <item>honey</item>
+<!--25 g.  honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>Butter</item>
+<!--250 g Butter-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Mix together sugar, flour and almonds. Slowly add egg whites, then honey.</step>
+      <step>Cook the butter until golden brown and has the smell of almond flavor. Pour the cook butter into the batter and whisk it slow to moderate speed by hand. (You will need two people for this step.) Refrigerate the batter overnight for easy piping. Pipe in a FLEXIPAN #1117 3/4 to top. Bake right away @ <temp><qty>465</qty><tempunit unit="F" system="US">degrees</tempunit><!--465  F--></temp> or until golden brown. Remove from pan and set cool. Dip the cookies in melted chocolate and ready to serve.</step>
+    </directions>
+  </recipe>
+</recipeml>

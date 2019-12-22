@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml version="0.5">
+  <meta content="Thursday November 30, 2006" name="DC.Date"/>
+  <meta content="Heide" name="DC.Creator"/>
+  <recipe id="Krautkuchen">
+    <head>
+      <title>Krautkuchen</title>
+      <subtitle>Cabbage quiche</subtitle>
+      <categories>
+        <cat class="main">Savoury</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>Quiches of aromatic winter vegetables -- cabbage, leeks, onions -- are very popular in Germany when the weather gets chill. My family often makes onion quiche -- Zwiebelkuchen. As a child who hated onions, I stayed far away from that "delicacy," until served Zwiebelkuchen and Krautkuchen while visiting my cousin. As it turns out, both are pretty good, but I still prefer the one with less onion.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--2 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>milk</item>
+<!--1 c. milk-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>3</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>oil</item>
+<!--3 Tb. oil-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>3</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>melted bacon fat</item>
+<!--3 Tb. melted bacon fat-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <item>pinch salt</item>
+<!--pinch salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>pkg. yeast</item>
+<!--1 pkg. yeast-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>small head green cabbage</item>
+<!--1 small head green cabbage-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>onion</item>
+          <prep>finely chopped</prep>
+<!--1 onion, finely chopped-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>3</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>oil</item>
+<!--3 Tb. oil-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>3</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>melted bacon fat</item>
+<!--3 Tb. melted bacon fat-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/4 tsp. salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>ground pepper ("lots")</item>
+<!--1/2 tsp. ground pepper ("lots")-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>caraway seeds</item>
+          <prep>lightly crushed</prep>
+<!--1/2 tsp. caraway seeds, lightly crushed-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sour cream</item>
+<!--1 c. sour cream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>cream</item>
+<!--1/2 c. cream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>flour</item>
+<!--1 Tb. flour-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Mix together the 2 c. flour, 1 c. milk, 3 Tb. oil, pinch of salt and yeast. Dough will be sticky. Knead until smooth and elastic. Cover, set in a warm place, and allow to rise for half an hour.</step>
+      <step>Finely shred cabbage. Lightly saute cabbage and onion in 3 Tb. oil in a large pot. Add salt, pepper and caraway seeds. Cover, and allow to braise until cabbage and onions are softened, and cabbage is bright green, about 10 minutes. Remove from heat.</step>
+      <step>Preheat oven to <temp><qty>425</qty><tempunit unit="F" system="US">degrees</tempunit><!--425  degrees--></temp>.</step>
+      <step>Divide dough in half (I like a thin crispy crust; you can use the whole recipe of dough if you prefer). Wrap half in plastic wrap, then tin foil, and freeze. Roll the other half until large enough to line a 10 or 12-inch pie plate with a bit of overhang.</step>
+      <step>Off heat, stir in sour cream, cream and flour. Pour into dough-lined pie plate; fold overhanging dough edges over filling. Bake 30 to 40 minutes.</step>
+    </directions>
+  </recipe>
+</recipeml>

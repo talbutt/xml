@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <recipe id="Press a bag crispy cookies">
+    <head>
+      <title>Press a bag crispy cookies</title>
+      <source>Mdm June Chiang Yi Ling</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>I found this to be a simple cookie to make all year round.</xhtml:p>
+
+<xhtml:p>My 9 year old son, Wong Loong Wai, loves making this when he has some free time.</xhtml:p></description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>340</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+		  <ing-note> (cool salted cubes) </ing-note>
+<!--340g butter (cool salted cubes)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+<!--200g sugar (white)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>280</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+<!--280g plain flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>corn starch</item>
+<!--200g corn flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla essence</item>
+<!--2 tsp vanilla essence-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+<!--1 middle-size egg-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>emplex</item>
+		  <ing-note> makes the cookies taste crisp and last longer </ing-note>
+<!--2 tsp emplex (optional) make cookies taste crisp and last long-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Do not grease baking tray. Perheat oven before start <temp><qty>180</qty><tempunit unit="C" system="metric">degrees</tempunit><!--180  C--></temp></step>
+      <step>Steps:- a) butter, sugar, emplex, essence into mixer and beat at middle speed</step>
+      <step>b) add beaten egg bit by bit into mixer</step>
+      <step>c) add flour bit by bit into mixer (slow speed)</step>
+      <note>Scrape sides of mixer and beat a little more (creaming method)</note>
+      <step>d) scoop into pipping bag and pipe into a heart shape if possible.</step>
+      <step>or straight line or whatever you fancy.</step>
+      <step>e) bake at <temp><qty>180</qty><tempunit unit="C" system="metric">degrees</tempunit><!--180 C--></temp> for 20 mins.</step>
+      <step>Happy trying - Juneze</step>
+      <note>I did a web search for Emplex. It is an emulsifier, specifically sodium stearoyl lactylate, and is made by American Ingredients Company. It is used to give cookies extra crunch. --SJ</note>
+    </directions>
+  </recipe>
+</recipeml>

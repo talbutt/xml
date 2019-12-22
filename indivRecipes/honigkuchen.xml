@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="honigkuchen">
+    <meta content="2011-11-19" name="DC.Date"/>
+    <meta content="Renate Buchmann" name="DC.Creator"/>
+    <head>
+      <title>Honigkuchen</title>
+      <subtitle>Honeycake</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Bar</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Honigkuchen -- honey cake -- is an entire category of German Christmas baking. I'm never sure if it's a variation of Lebkuchen, or vice versa. This version is very much a cake, and is simple to make. It's also the only recipe with beer that I've found.</x:p>
+      <x:p>I've included the original German leavenings; baker's ammonia produces a crisper cookie.</x:p>
+      <x:p>Renate is the mother of Tobi, our first exchange student. We are fortunate to have become good friends with the entire Buchmann family as a result. In addition to graciously sharing her son with us for 10 months, she also sent a booklet of their family Christmas recipes. It was only on trying Honigkuchen a second time, eight years later, that the recipe really clicked.</x:p>
+      <x:p>My six-and-three-quarter-year-old son (and that three-quarters is very important) adored these from the first bite, despite an aversion to most spicy cookies. He ate three pieces the first day, and requested it for breakfast the next.</x:p>
+    </description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>500</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+          <!--500 g flour-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>baking powder</item>
+            <!--1/2 tsp baking powder-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>baker's ammonia</item>
+            <!--1/2 tsp baker's ammonia-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>ground cloves</item>
+          <!--1/2 tsp ground cloves-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>ground cinnamon</item>
+          <!--1 tsp ground cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>ground cardamom</item>
+          <!--3/4 tsp ground cardamom-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+          <!--1/4 tsp salt-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>baking soda</item>
+            <!--1/2 tsp baking soda-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>calcium carbonate</item>
+            <!--1/2 tsp calcium carbonate-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>dark rum</item>
+          <!--1 Tbs darm rum-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>honey</item>
+          <!--250 g honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--250 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>63</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <!--63 g butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>ml</unit>
+          </amt>
+          <item>dark beer</item>
+          <!--250 ml dark beer-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <!--100g powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>hot water</item>
+          <!--2 Tbs hot water-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven to <temp><qty>190</qty><tempunit unit="C" system="metric">degrees</tempunit><!--190  degrees--></temp>. Line a jelly roll pan with parchment paper.</step>
+      <step>In a large bowl, whisk together the flour, baking powder (or baker's ammonia), spices and salt. Set aside. Dissolve the baking soda (or calcium carbonate) in the rum and set aside.</step>
+      <step>In a medium saucepan, combine the honey and sugar, and heat over low heat. When the honey become fluid, turn the heat to medium or medium high and stir occasionally, until the sugar is dissolved. Add the butter and stir until it has completely melted.</step>
+      <step>Pour the honey-butter mixture over the dry ingredients and mix to combine. Add the beer and rum-baking soda, and quickly mix to a smooth batter. Pour into the prepared jelly roll pan and spread to an even thickness. The batter will look far to thin, but I guarantee it will puff nicely.</step>
+      <step>Bake about 20 minutes.</step>
+      <step>Just before (or just after) the cake is done, whisk the powdered sugar and hot water to a smooth, spreadable paste. Spread onto the cake as soon as the cake comes out of the oven.</step>
+      <step>Cool, and cut into 48 squares.</step>
+    </directions>
+  </recipe>
+</recipeml>

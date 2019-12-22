@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Monday January  9, 2006" name="DC.Date"/>
+  <meta content="Eric (Seattle)" name="DC.Creator"/>
+  <recipe id="springerle2">
+    <head>
+      <title>Springerle II</title>
+      <source>Eric (Seattle)</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany, Switzerland</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Our Family has been making them every year for as long as I can remember - sometimes with mixed results.</xhtml:p>
+
+<xhtml:p>I've read with interest the different recipes I've seen online. Some use butter, some use regular sugar, etc.</xhtml:p>
+
+<xhtml:p>The best part of this recipe is that it includes Fresh Grated Lemon Rind in the dough. Combined with the Light Licorice taste of the Anise seeds - This gives the cookies their distinct flavor</xhtml:p>
+
+<xhtml:p>Ours is slightly different, please read on.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>4 1/2</qty>
+            <unit>Cup</unit>
+          </amt>
+          <item>Flour</item>
+          <prep>Sifted</prep>
+<!--4 1/2 Cups Flour, Sifted-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>Baking Powder</item>
+<!--2 tsp Baking Powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Pound</unit>
+          </amt>
+          <item>Powdered Sugar</item>
+<!--1 Pound Powdered Sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>Eggs</item>
+<!--4 Eggs-->
+        </ing>
+        <ing>
+          <item>Anise Seeds</item>
+<!--Anise Seeds-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+			<unit>tsp</unit>
+          </amt>
+          <item>Fresh Grated Lemon Rind</item>
+<!--1 Tp Fresh Grated Lemon Rind-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Sift the Flour and Baking Powder together</step>
+      <step>Beat Eggs until light and fluffy, at least 5 minutes. Add Lemon Rind and beat some more.</step>
+      <step>Add powdered sugar to the beaten eggs and lemon Rind, and beat until light and fluffy and lemony colored.</step>
+      <step>Gradually add the flour until you develope a good stiff dough.</step>
+      <step>Place dough in bowl, cover, and sit in Refrigerator for at least one hour.</step>
+      <step>Grease Cookie sheets and sprinkle with Anise Seeds</step>
+      <step>Remove dough from frig, roll out on well floured board until dough is about 1/4 inch thick. Make sure dough is not sticky, if it is, add more flour and knead as necessary.</step>
+      <step>Press designs into dough, then cut cookies and place on sheet. And you can place them quite close together as they do not "spread"</step>
+      <step>Leave uncovered over night to dry.</step>
+      <step>Next morning bake at <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  Degrees--></temp> for about 20 or 25 minutes, do NOT brown.</step>
+      <step>Let cool, then place in airtight canister and store in cool place for two weeks.</step>
+    </directions>
+  </recipe>
+</recipeml>

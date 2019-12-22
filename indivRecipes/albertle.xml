@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Thursday October 13, 2005" name="DC.Date"/>
+  <recipe id="albertle">
+    <head>
+      <title>Albertle</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany, Schwaben</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Another old Schwaebisch cookie, "Albertle" translates as "little Albert."</xhtml:p>
+
+<xhtml:p>Two of my uncles are named Albert. Grandmother's stepbrother Albert came to America a few years after she did. Mom's cousin Albert (the older Albert's nephew) is still in the town where Grandmom grew up, and we see him every vist. He keeps bees who make the best honey.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+          <ing-note>(1 stick)</ing-note>
+<!--1/2 c. butter (1 stick)
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/4 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 1/4 c. sugar
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4 </qty>
+          </amt>
+          <item>eggs</item>
+<!--4 eggs
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 tsp vanilla
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>cream</item>
+<!--scant 1/4 c. cream
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3 1/3 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--3 1/3 c. flour
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 1/8</qty>
+            <unit>c</unit>
+          </amt>
+          <item>corn starch</item>
+<!--2 c. + 2 Tbs corn starch
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--2 tsp baking powder
+-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 tsp salt-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream together butter and sugar on high speed for about 3
+      minutes. Add eggs and vanilla and beat until combined. Add cream
+      and mix untill combined. Scrape down the sides of the bowl. Sift
+      together dry ingredients, and add slowly while mixing on low
+      speed.</step>
+      <step>Allow the dough to rest 1/2 to 1 hour. Refrigerate if the
+      room is particularly warm.</step>
+      <step>Preheat oven to <temp><qty>350</qty><tempunit unit="F"
+      system="US">degrees</tempunit><!--350  degrees--></temp>. Roll out
+      to 1/4 inch thickness or a bit less. Cut dough into traditional
+      fluted circles or your favorite shapes. Dimple the top with a
+      fork; for example, into a diamond pattern. Bake 12 to 15
+      minutes.</step>
+    </directions>
+  </recipe>
+</recipeml>

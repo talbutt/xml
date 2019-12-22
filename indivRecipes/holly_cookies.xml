@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Marsha" name="DC.Creator"/>
+  <recipe id="Holly Cookies">
+    <head>
+      <title>Holly Cookies</title>
+      <source>Marsha</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Holly cookies were a yearly event when I was growing up. My mom had to lock them away to prevent them from disappearing almost as soon as they were done. They're low-tech and low-cuisine (as is anything containing marshmallow), but held in high-esteem by anyone who loves pure Americana fake-food (especially at Christmas). The cookies are sort of a riff on rice krispie treats with an added dose of holiday cheer.</xhtml:p>
+
+<xhtml:p>[Marsha says this isn't actually her recipe: "It's a classic, so it's pretty unclear. I imagine a women's magazine put it out in the glory days of homekeeping (by this I mean the 50s)."]</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>30</qty>
+          </amt>
+          <item>large marshmallows</item>
+<!--30 large marshmallows-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tablespoons</unit>
+          </amt>
+          <item>butter </item>
+          <ing-note> (that's butter, not margarine, and not salted either)</ing-note>
+<!--4 tablespoons of butter (that's butter, not margarine, and not salted, either)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 teaspoon vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>cups</unit>
+          </amt>
+          <item>corn flakes</item>
+<!--4 cups corn flakes-->
+        </ing>
+        <ing>
+          <item>green food coloring </item>
+          <ing-note>(I recommend the liquid, not paste variety)</ing-note>
+<!--green food coloring (I recommend the liquid, not paste, variety)-->
+        </ing>
+        <ing>
+          <item>cinnamon red hots candy</item>
+<!--cinnamon red hots candy-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Line three or four cookie sheets with waxed paper. How many you'll need depends upon how large you make your cookies.</step>
+      <step>Spray a large saucepan with non-stick spray. Melt the marshmallows and butter together over low-medium heat in the saucepan. When melted, remove from heat and add vanilla and enough green coloring to make the whole mess Christmas-y looking. Stir well to incorporate the coloring and eliminate any marbled effect. Add corn flakes directly to the pan and stir well to cover every flake with marshmallow.</step>
+      <step>Spoon out portions of the flakes onto the wax paper lined cookie sheets. While the mixture is still warm, place three red hots atop each cookie to represent holly berries. Some people shape the mixture into wreath shapes or holly leaf shapes, but I can't be bothered and the clumps look just as pretty and taste just as good.</step>
+      <step>This recipe makes about 25 cookies, depending upon size.</step>
+    </directions>
+  </recipe>
+</recipeml>

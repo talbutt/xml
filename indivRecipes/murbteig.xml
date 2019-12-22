@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Sunday January  1, 2006" name="DC.Date"/>
+  <recipe id="Murbteigplatzchen 1-2-3">
+    <head>
+      <title>M&#252;rbteigpl&#228;tzchen 1-2-3</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>The recipe came to Renate from her mother, and are her daughter, Johanna's, favorite.</xhtml:p>
+
+<xhtml:p>M&#252;rbteig is a rich dough. It is used as the crust for many German pies and tarts. Unlike American pie dough, it is kneaded slightly and the butter is completely combined with the flour. The cookies are closer to a shortbread than a traditional sugar cookie.</xhtml:p>
+
+<xhtml:p>The measurments here are "for a normal family." The original recipe is tripled; Renate's note said this was "for an entire schoolclass, or for 25 co-workers." In German, the measurements are 1 pfund (500 g) sugar, 2 pfund butter, 3 pfund flour.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--3/4 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+<!--1 1/2 c. butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 tsp vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--4 1/4 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1 1/2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>milk</item>
+<!--2 Tb milk-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp>. Beat butter and sugar on medium high speed until fluffy. Add eggs and beat on medium speed. Scrape down the sides of the bowl, add vanilla, and continue to beat on medium speed until combined. Reduce speed to low and add flour and baking powder. Mix until combined.</step>
+      <step>Roll dough out to a thickness of 1/8 to 1/4 inch. If the dough is difficult to roll, chill for half an hour. Cut out shapes, small to mid-sized cutters work best. The dough is too soft for larger cutters.</step>
+      <step>Place shapes on parchment-lined cookie sheets. Brush with milk and sprinkle with colored sugar, non-pariels, and dragees. Bake 10 to 20 minutes until golden brown or light brown. Large, thick cookies will take 20 minutes to bake; small, thin cookies only 10 minutes.</step>
+    </directions>
+  </recipe>
+</recipeml>

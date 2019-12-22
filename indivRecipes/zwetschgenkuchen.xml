@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns:xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <meta content="Tuesday September 23, 2008" name="DC.Date"/>
+  <meta content="Heide" name="DC.Creator"/>
+  <recipe id="zwetschgenkuchen" system="metric">
+    <head>
+      <title>Zwetschgenkuchen mit Mandelnguss</title>
+      <subtitle>Plum tart with almonds</subtitle>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="sub">Pie</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><x:p>Zwetschgen are what the old Germans call Pflaumen (plums). They are in season only at the very end of summer, when bakeries and home bakers produce an explosion of plum cakes and tarts. Although the recipe is quite simple, the scarcity of the main ingredient keeps it a special treat.  There are as many recipes for Zwetschgenkuchen as there are bakers in Germany. Some have a yeast cake base and the plums are left bare on top. This one has a sweet, pastry-like crust and covers the plums with an egg-sugar-almond mixture before baking.</x:p>
+<x:p>Plums used for baking are much firmer than eating plums. In America, these are sold as Italian or prune plums. Whole Foods carries them; my aunt said she saw them all over NYC after I asked her to keep an eye out.</x:p></description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item><x:a href="murbteig.html">M&#252;rbteig</x:a></item>
+<!--1 M&uuml;rbteig-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Kg</unit>
+          </amt>
+          <item>Italian prune plums (not eating plums)</item>
+<!--1 Kg Italian prune plums (not eating plums)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+<!--200 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <prep>melted and cooled</prep>
+<!--150 g butter, melted and cooled-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>30</qty>
+            <unit>g</unit>
+          </amt>
+          <item>breadcrumbs</item>
+<!--30 g breadcrumbs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>finely ground</prep>
+<!--150 g almonds, finely ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+<!--1/4 tsp cinnamon-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven to <temp><qty>190</qty><tempunit unit="C" system="metric">degrees</tempunit><!--375  degrees--></temp>.</step>
+      <step>Remove the stones from the plums and cut into quarters.</step>
+      <step>Roll out the M&#252;rbteig into a rectangle, and fit it into a rectangular baking dish (9 1/2 x 13 1/2 inch). It should come up the sides about 3/4 inch. Arrange the cut plums skin side down; you'll need to really pack them in.</step>
+      <step>Beat the eggs and sugar together until thick. Mix in the melted butter, then the breadcrumbs, almonds and cinnamon. Pour over the plums.</step>
+      <step>Bake 60 minutes, until the plums are bubbling and the Guss is golden brown. Serve warm.</step>
+    </directions>
+  </recipe>
+</recipeml>

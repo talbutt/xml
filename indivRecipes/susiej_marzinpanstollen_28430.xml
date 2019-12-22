@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="marzinpanstollen" system="metric">
+    <meta content="2010-08-07" name="DC.Date"/>
+    <head>
+      <title>Marzinpanstollen</title>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="sub">Quick</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Originally from <x:i>Das grosse Buch der Weinachtsbaekerei</x:i>, published by the German food magazine <x:i>essen und trinken</x:i> (food and drinks).</x:p>
+      <x:p>Be sure the marzipan is soft and fresh. You should be able to squeeze it gently. If it isn't soft and fresh, I've had some luck slicing the marzipan and letting it soak in the liqueur overnight. Strangely enough my freshest marzipan came from my grocery store that usually carries absolutely nothing.</x:p>
+      <x:p>The dough is delicious even without the filling.</x:p>
+      <x:p>Quark is a fresh German cheese; in America, you can find it under the brand name Apple, sometimes at Whole Foods. It's hard to describe; so much so that my German aunt always answered my mother by saying, "Quark ist Quark." It's about the consistency of drained yogurt, but not as tangy. The closest substitute would be farmer's cheese. In America, it's sold in 454 gram (1 pound) containers, leaving you with not quite half the container. You can either reduce the quark in the recipe to about 225 grams and bake two batches, or just eat the remainder like yogurt, mixing in honey or good fruit jam.</x:p>
+    </description>
+    <ingredients>
+      <ing-div>
+        <title>Filling</title>
+        <!--Filling-->
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>vanilla</item>
+            <!--1 tsp vanilla-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+            </amt>
+            <item>vanilla bean</item>
+            <!--1 vanilla bean-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>marzipan</item>
+          <!--150 g marzipan-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--50 g sugar-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+            </amt>
+            <item>egg yolk</item>
+            <!--1 egg yolk-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+            </amt>
+            <item>egg white</item>
+            <!--1 egg white-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>40</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>chopped</prep>
+          <!--40 g almonds, chopped-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>almond liqueur</item>
+            <!--1 Tb almond liqueur-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>Tb</unit>
+            </amt>
+            <item>dark rum</item>
+            <!--dark rum-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Quark dough</title>
+        <!--Quark dough-->
+        <ing>
+          <amt>
+            <qty>500</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+          <!--500 g flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cardamom</item>
+          <!--1/2 tsp cardamom-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+          <!--200 g butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--125 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+          <!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>10</qty>
+          </amt>
+          <item>drops bitter almond extract</item>
+          <!--10 drops bitter almond extract-->
+        </ing>
+        <ing>
+          <item>zest of 1 lemon</item>
+          <!--zest of 1 lemon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>fat free quark</item>
+          <prep>drained</prep>
+          <!--250 g fat free quark, drained-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Topping</title>
+        <!--Topping-->
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <!--50 g butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <!--50 g powdered sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>If using a vanilla bean, slit open and scrape out the seeds. In the mixer, combine the filling ingredients, then cover and allow to mellow for one hour or overnight. If the marzipan is particularly hard, use a food processor.</step>
+      <step>Butter a <size><qty>36</qty> <unit>cm</unit></size> stollen form. Line a baking sheet with parchment paper. Preheat the oven to <temp><qty>200</qty><tempunit unit="C" system="metric">degrees</tempunit><!--200  degrees--></temp>.</step>
+      <step>To make the dough, whisk together the flour, baking powder and cardamom. Beat the butter and sugar together on high speed until light, about three minutes. Add the eggs one at a time and beat on medium speed. Beat in the almond extract and lemon zest. Reduce the mixer to low speed, and add the flour, mixing until just combined. Add the quark and mix until combined.</step>
+      <step>Turn the dough out onto a lightly floured surface and knead quickly but gently, until the dough is smooth. It will not be elastic and springy like yeast dough.</step>
+      <step>Flour the surface again and roll the dough out until it is <size><qty>36</qty> <unit>cm</unit></size> by <size><qty>30</qty> <unit>cm</unit></size>.</step>
+      <step>Put the filling between two sheets of wax paper or parchment paper cut to the size of the rolled out dough. Roll the filling between the papers, leaving <size><qty>3</qty> <unit>cm</unit></size> around the edge. Carefully peel one of papers from the rolled filling, flip the filling onto the dough, and peel the other paper off. Scrape any filling stuck to the papers off and press onto the dough.</step>
+      <step>Roll the dough around the filling starting from the long side. Pinch the ends and the top seam.</step>
+      <step>Lay the rolled dough onto the baking sheet, seam side up. Press the stollen form on top of the dough. Bake 45 minutes to an hour.</step>
+      <step>When the bread comes out f the oven, melt the butter over gentle, low heat, and brush on the bread. Sift powdered sugar over the loaf. Slice about <size><qty>1</qty> <unit>cm</unit></size> thick.</step>
+    </directions>
+  </recipe>
+</recipeml>

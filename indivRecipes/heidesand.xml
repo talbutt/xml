@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="browned_butter_cinnamon_sandies" system="metric">
+    <meta content="2013-12-15" name="DC.Date"/>
+    <head>
+      <title>Cinnamon sandies</title>
+      <subtitle>Heidesand-Zimt-Plaetzchen</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Refrigerator</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>"Heidesand" is a traditional German cookie that is sometimes translated as shortbread, but is really closer to a pecan sandy. As someone who could eat half a bag of pecan sandies in one sitting as a child, reveling as each cookie crumbled into my mouth, these have become a new favorite recipe.</x:p>
+      <x:p>It's important to brown the butter, which has a very different flavor from simply melted butter.</x:p>
+    </description>
+    <ingredients system="metric">
+      <ing-div>
+        <title>For the cookie</title>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <!--250 g butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--200 g Sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+          <!--1 tsp cinnamon-->
+        </ing>
+        <ing>
+          <item>pinch salt</item>
+          <!--pinch salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>300</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+          <!--300 g flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>g</unit>
+          </amt>
+          <item>starch</item>
+          <!--50 g starch-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>For the sugar crust</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg white</item>
+          <prep>optional</prep>
+          <!--1 egg white, optional-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>75</qty>
+            <unit>g</unit>
+          </amt>
+          <item>turbinado sugar</item>
+          <!--75 g turbinado sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step><x:img src="/images/Heidesand123.jpg" alt="[Important steps in making the Heidesand: whipping the butter and sugar; forming the dough log; rolling in sugar; cutting. Copyright 2015 Susan J. Talbutt, all rights reserved.]" style="width: 50%" class="photo no-border left" />Melt the butter over medium-low heat until it is brown, keeping an eye on it and stirring occasionally. This will take some time, and you should not let yourself become distracted lest you burn the butter. First the butter will foam and spit as the water boils off. The foam (milk solids) will sink, and then quickly brown. A wider pot, giving you a shallower layer of butter, may brown faster. Once the butter is brown, remove from the heat and allow to cool.</step>
+      <step>Mix the white sugar with the cinnamon and salt. Beat the cooled, melted butter with the sugar mixture until creamy and light, and more than doubled in volume. If the butter is still warm, it will not increase in volume; keep beating. Whisk together the flour and starch, reduce the mixer to low speed, and slowly add the flour. Mix until combined. You will have a very soft dough or very thick batter.</step>
+      <step>Drop one-third of the dough (batter) onto a piece of wax paper, in a rough line from uncut side to uncut side. Fold the wax paper over the batter and form into a rough cylinder. Use a bench scraper or other straight-edged tool to tighten the wax paper and gently push the dough back until it nearly reaches each side of the wax paper, making a roll <size><qty>30</qty> <unit>cm</unit></size> long. Flatten the ends. Wrap each roll with the remaining paper, and refrigerate for another two hours.</step>
+      <step>Preheat the oven to <temp><qty>175</qty><tempunit unit="C" system="metric">degrees</tempunit><!--175 C--></temp>.</step>
+      <step>Spread the turibinado sugar onto a small, rimmed baking sheet, serving platter, or anything that can hold the sugar and allow you to roll the dough log in it. Brush the first dough log with water. The water will bead, but should stick after three or four strokes</step>
+      <step>Roll the log in the sugar. Press firmly to pick up as much sugar as possible. If the sugar does not stick, whisk the egg white and brush onto the log and roll in the sugar again.</step>
+      <step>Cut into <size><qty>1</qty> <unit>cm</unit></size> thick pieces with a sharp knife, lay flat on the baking sheet, and bake 15 minutes. Repeat for each log. The cookies will be very hot when they come out of the oven!</step>
+      <step>Cool until <x:em>stone cold</x:em> before removing from the sheet. If the cookies are the least bit warm, they will crumble when you move them. Store in an airtight container.</step>
+    </directions>
+  </recipe>
+</recipeml>

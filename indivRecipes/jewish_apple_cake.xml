@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:x="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Friday May 26, 2006" name="DC.Date"/>
+  <meta content="Grandma" name="DC.Creator"/>
+  <recipe id="Jewish apple cake">
+    <head>
+      <title>Jewish apple cake</title>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><x:p>The lack of dairy could be why this is <x:i>Jewish</x:i> apple cake, but that's only my guess.</x:p>
+
+<x:p>My grandma kept a Jewish apple cake on top of the fridge (covered) for visitors and afternoon coffee. She would always send me back to college with a big slice, knowing it's my favorite. When stale, spread a slice with some butter and pop it in a toaster oven for a few minutes.</x:p>
+
+<x:p>I use Penzey's cinnamon for the best cinnamon flavor. Because Penzey's spices are so fresh, you can use less, especially if you use the Vietnamese cinnamon.</x:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <range>
+              <q1>3</q1>
+              <q2>4</q2>
+            </range>
+          </amt>
+          <item>medium apples</item>
+<!--3 to 4 medium apples-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>3</q1>
+              <q2>5</q2>
+            </range>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+<!--3 to 5 tsp cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--3 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--2 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs</item>
+<!--4 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>oil (not olive oil)</item>
+<!--1 c. oil (not olive oil)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>orange juice</item>
+<!--1/4 c. orange juice-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--2 tsp. vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+<!--4 tsp. baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 tsp. salt-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Peel, quarter, core and slice apples about 1/8 inch thick. Slicing the quarters the short way yields more apple pieces. Mix with cinnamon.</step>
+      <step>Preheat oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>. Grease and flour a tube pan. Combine rest of ingredients and mix well on low spead. Alternate layers of apples and batter in the tube pan, ending with apples. (Or gently mix the apples in directly, reserving a handful for the top.)</step>
+      <step>If the tube pan is especially dark, put a piece of tin foil under the pan and poke a hole for the tube.</step>
+      <step>Bake 1 to 1 1/4 hours until a pick inserted comes out clean.</step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Uschi Bux" name="DC.Creator"/>
+  <recipe id="Kipferln">
+    <head>
+      <title>Kipferln</title>
+      <subtitle>Nut Crescents</subtitle>
+      <source>Uschi Bux</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Austria</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Shortly after arriving in Canada, having tasted these cookies at an office party, an Austrian lady gave me this recipe.</xhtml:p>
+
+<xhtml:p>The first time I tried the recipe, I ate all of the cookies within one day and immediately had to make two more batches.</xhtml:p>
+
+<xhtml:p>Since then, I cannot help myself, I have baked these Kipferln every Christmas. But they're not typically for Christmas, they are right for every occasion.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <title>Dough</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--1 1/2 c flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+<!--1 c butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+<!--1 egg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit>
+          </amt>
+          <item>baking powder</item>
+<!--2 level teaspoons baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tablespoon</unit>
+          </amt>
+          <item>sourcream</item>
+<!--1 tablespoon sourcream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>dash salt</item>
+<!--1 dash salt-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Filling</title>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>oz</unit>
+          </amt>
+          <item>ground hazelnuts</item>
+<!--4 oz ground hazelnuts-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit>
+          </amt>
+          <item>sugar</item>
+<!--2 tablespoons sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tablespoons</unit>
+          </amt>
+          <item>cocoa</item>
+<!--2 tablespoons cocoa-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+			<unit>shot</unit>
+          </amt>
+          <item>rum </item>
+<!--1 shot rum -->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Work the dough ingredients into a ball and put in fridge for 1/2 hour.</step>
+      <step>All filling ingredients to be mixed with just enough milk, so that you have a firm but spreadable consistency.</step>
+      <step>Then roll out the dough (from the fridge), very thin, and cut it in approx. 2-1/2"-3" squares. Place filling on each square and close up the dough around it [ you can make little rolls or pockets, etc.).</step>
+      <step>Place on a greased sheet and bake at <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp> about 25 minutes until light brown.</step>
+      <step>Immediately roll in confectioner's sugar (which you can mix beforehand with 2 little pouches of vanillin sugar).</step>
+      <step>The hazelnuts can be substituted with almonds or other ground nuts.</step>
+      <step>Enjoy!</step>
+    </directions>
+  </recipe>
+</recipeml>

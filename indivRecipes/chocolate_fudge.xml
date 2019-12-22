@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <recipe id="Chocolate Fudge Cookies">
+    <head>
+      <title>Chocolate Fudge Cookies</title>
+      <source>Karen Tedesco</source>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>These are delicious, fudgy chocolate cookies! I first tasted them at a friend's house during a holiday gathering of teachers. We always eat well when we get together and often have recipes available for anyone who is interested.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>vegetable oil</item>
+<!--1/2 cup vegetable oil-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+            <unit>ounces</unit>
+          </amt>
+          <item>chocolate, melted</item>
+<!--4 squares melted chocolate(12 tablespoons cocoa+ 4 tablespoons butter)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>granulated sugar</item>
+<!--2 cups granulated sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>eggs</item>
+<!--4 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons</unit>
+          </amt>
+          <item>vanilla</item>
+<!--2 teaspoons vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 teaspoon salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+<!--2 cups flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>teaspoons baking</unit>
+          </amt>
+          <item>powder</item>
+<!--2 teaspoons baking powder-->
+        </ing>
+        <ing>
+          <item>chocolate nonpariel candies</item>
+<!--chocolate nonpariel candies-->
+        </ing>
+        <ing>
+          <item>powdered sugar</item>
+<!--powdered sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Mix the oil, chocolate and sugar until well blended. Add one egg at a time to this mixture. Mix well and add the vanilla. Sift the flour, salt and baking powder and add to the chocolate mixture.</step>
+      <step>Chill the dough for several hours or overnight. Drop 1 teaspoon of the dough into the powdered sugar. Roll it around and form a ball. Place these rounded shapes on a greased cookie sheet and bake for about 10 minutes at <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>.</step>
+      <step>Remove cookie sheet from the oven, and place a nonpariel candy into the center of each of the hot cookies. Remove them from the cookie sheet and cool completely on a rack.</step>
+    </directions>
+  </recipe>
+</recipeml>

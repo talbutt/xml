@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="mutzenmandeln" system="metric">
+    <meta content="2018-02-17" name="DC.Date"/>
+    <head>
+      <title>Mutzenmandeln</title>
+      <subtitle>Fried almond cookies</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">Fried</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description>A "Mutze" is the pointed stocking cap worn mostly by children in Germany (or Santa's elves in fairy tales), and a Mandel is an almond. The usual shape for these almond cookies is a tear drop, which, when deep fried, makes them look like someone wearing a pointed cap. <x:a href="https://www.fantes.com/thermohauser-mutzenmandel-cutter-12-in">Fante's sells a Mutzenmandel cutter.</x:a></description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>500</qty>
+            <unit>g</unit>
+          </amt>
+          <item>flour</item>
+          <!--500 g flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--150 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>almond extract</item>
+          <!--2 tsp almond extract-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>eggs</item>
+          <!--3 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <prep>cold, cut into small pieces</prep>
+          <!--150 g butter, cold-->
+        </ing>
+        <ing>
+          <item>oil</item>
+          <prep>for frying</prep>
+          <!--oil, for frying-->
+        </ing>
+        <ing>
+          <item>sugar for dipping or shaking</item>
+            <!--sugar for dipping or shaking-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Whisk the flour and baking powder together. Either with the mixer on low speed, or your hands, slowly work in the sugar, extract and eggs until you have a crumbly dough. Then work and knead in the cold butter until you have a lump of smooth cookie dough. As you first start working the butter in, it will look like ait won't come together, but it will. If working by hand, kneading makes the process go quicker.</step>
+      <step>Heat the oil to <temp><qty>190</qty><tempunit unit="C" system="metric">degrees</tempunit><!--375  degrees--></temp>.</step>
+      <step>Roll the dough out to <size><qty>1</qty> <unit>cm</unit></size> thick or less. Thinner is better than thicker, as thicker cookies can be too thick to cook through fully before the outside is brown. Cut out in the <x:a href="https://www.fantes.com/thermohauser-mutzenmandel-cutter-12-in">traditional shape</x:a>, or in <size><qty>2.5</qty> <unit>cm</unit></size> circles. Re-roll and cut out scraps until all the cookies have been cut out; the cookies cook quickly once the frying starts.</step>
+      <step>Fry about a half dozen at a time, turning once, until golden brown. Drain on paper towels. When just cool, dip into sugar or sift powdered sugar over.</step>
+    </directions>
+  </recipe>
+</recipeml>

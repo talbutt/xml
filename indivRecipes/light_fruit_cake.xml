@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Elisabeth Stoll" name="DC.Creator"/>
+  <recipe id="Light Fruit Cake">
+    <head>
+      <title>Light Fruit Cake</title>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">England</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>A fruit cake that is, we hope, not as bad as the others. At least it doesn't have citron!</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>pound</unit>
+          </amt>
+          <item>figs</item>
+          <prep>cut into small pieces</prep>
+<!--1/4 pound figs, cut into small pieces-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>raisins</item>
+<!--1 cup raisins-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>water</item>
+<!--1 cup water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>baking soda</item>
+<!--1 teaspoon baking soda-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>brown sugar</item>
+<!--1 cup brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>butter</item>
+<!--1/2 cup butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+<!--1 1/2 cup flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>teaspoon</unit>
+          </amt>
+          <item>baking powder</item>
+<!--1 teaspoon baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>nuts</item>
+<!--1 cup nuts-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Bring water to a boil. Add figs and raisins and allow to cook for a few minutes. Let cool and add baking soda.</step>
+      <step>Cream butter and brown sugar. Add eggs while continuing to beat on high speed.</step>
+      <step>Sift together flour and baking powder, add to butter-sugar-egg mixture on medium speed.</step>
+      <step>Drain fruit. Fold in fruit and nuts by hand.</step>
+      <step>Pour into tin or pan. Bake first in a hot oven (400-425), then reduce heat and bake for 1/2 to 3/4 hour.</step>
+    </directions>
+  </recipe>
+</recipeml>

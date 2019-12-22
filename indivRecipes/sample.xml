@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN"
+  "http://www.formatdata.com/recipeml/recipeml.dtd">
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+<recipe>
+	<head>
+		<title></title>
+		<source></source>
+		<categories>
+			<cat></cat>
+		</categories>
+		<yield>
+			<qty></qty>
+			<unit></unit>
+		</yield>
+	</head>
+	
+	<description></description>
+	
+	<ingredients>
+		<ing-div>
+			<title></title>
+			<note></note>
+			<ing>
+				<amt>
+					<qty></qty>
+					<unit></unit>
+				</amt>
+				<item></item>
+				<prep></prep>
+			</ing>
+			<ing>
+				<amt>
+					<range>
+						<q1></q1>
+						<q2></q2>
+					</range>
+					<unit></unit>
+				</amt>
+				<item></item>
+				<prep></prep>
+			</ing>
+		</ing-div>
+	</ingredients>
+	
+	<directions>
+		<dir-div>
+			<title></title>
+			<note></note>
+			<step></step>
+		</dir-div>
+	</directions>
+</recipe>
+</recipeml>

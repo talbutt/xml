@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="chocolate_orange_lebkuchen" system="metric">
+    <meta content="2009-10-18" name="DC.Date"/>
+    <head>
+      <title>Chocolate-orange Lebkuchen</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Dairy-free</cat>
+        <cat class="diet">Gluten-free</cat>
+      </categories>
+    </head>
+    <description><x:p>It always distresses me that there could be a German cookie I don't like, such as traditional Nuremberg-style Lebkuchen. So, I work at recipes until I've baked something I like, but is true to the spirit of the original. This one has been particularly hard, and most of Christmas 2008 was spent with Sarah, our exchange student, trying variations of this recipe. We cut back the sugar, added cocoa and varied the spices. She will still think this is too sweet, but whenever I make these, I will remember baking with her.</x:p>
+
+<x:p>There are lots of types of Lebkuchen. The Nuremberg style is made on round oblaten (rice paper circles) with nuts, citron, orangeat, and spices. Other styles are rolled out and cut, or are bar cookies baked in a sheet and cut apart. It's the citron and orangeat &amp;#8212; most often seen in fruitcake &amp;#8212; that does me in. This cookie uses candied orange peel instead, for a fresher, true orange taste. It starts with a strong chocolate taste, but finishes with a lingering of orange.</x:p>
+
+<x:p>The original recipe called for 5 eggs. I reduced the recipe to 2 eggs, which seemed a more manageable yield. These keep and ship very well, and taste even better a few days later.</x:p></description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+          <!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>180</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--180 g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>40</qty>
+            <unit>g</unit>
+          </amt>
+          <item>candied orange peel</item>
+          <!--40 g candied orange peel-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+          <!--200 g almonds-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>40</qty>
+            <unit>g</unit>
+          </amt>
+          <item>natural cocoa</item>
+          <!--400 g cocoa (natural)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--1/4 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cinnamon</item>
+          <!--1/2 tsp cinnamon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cloves</item>
+          <!--1/4 tsp cloves-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>allspice</item>
+          <!--1/4 tsp allspice-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/8</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>nutmeg</item>
+          <!--1/8 tsp nutmeg-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>50</qty>
+          </amt>
+          <item>50 mm oblaten </item>
+          <!--50 mm oblaten (optional)-->
+        </ing>
+      	<note>If you don't keeps lots of spices on hand, you can substitute a rounded teaspoon of pumpkin pie spice, Penzey's baking spice, German Lebkuchen spice mix, or any other baking spice mixture that contains cloves. It's important that it have cloves.</note>
+      </ing-div>
+      <ing-div>
+  	    <title>Glaze</title>
+  	    <note>If you are concerned about the egg white not cooking completely, or what to do with the leftover yolk, use pasteurized whites or meringue powder.</note>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg white</item>
+          <!--1 egg white-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>40</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <!--40 g powdered sugar-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>40</qty>
+              <unit>g</unit>
+            </amt>
+            <item>bittersweet chocolate</item>
+            <prep>melted</prep>
+            <!--40 g bittersweet-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>40</qty>
+              <unit>g</unit>
+            </amt>
+            <item>unsweetened chocolate</item>
+            <prep>melted</prep>
+            <!--unsweetened chocolate, melted-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <dir-div>
+      <title>Day one:</title>
+      <step>Whip the eggs and sugar together for 15 minutes; the mixture will be nearly white.</step>
+      <step>Grind the nuts and candied peel together in a food processor. Add cocoa, baking powder and spices to the nuts, and pulse a few times to mix everything together.</step>
+      <step>If using a stand mixer, switch to the paddle attachment. Mixing on low speed, add the nut mixture to the eggs. You should have a stiff batter.</step>
+      <step>Traditionally, these are baked on oblaten because the batter is very very sticky. However, they can also be baked on a Silpat or other reusable "parchment" with minimal sticking. They do stick to disposable parchment paper more readily. I like to pipe the cookies using a large (<size><qty>14</qty> <unit>inch</unit></size>) piping bag and a medium sized pastry tip (Ateco #805, but up to #807 should work well.) to about <size><qty>5</qty> <unit>cm</unit></size> in diameter. Alternately, you can drop a dollop of dough onto an oblate (oh-blaht-eh) and use a knife dipped in water to smooth it out.</step>
+      <step>Cover with wax paper and let sit overnight.</step>
+      </dir-div>
+      <dir-div>
+      <title>Day two:</title>
+      <step>Preheat the oven to <temp><qty>165</qty><tempunit unit="C" system="metric">degrees</tempunit><!--165  C--></temp>.</step>
+      <step>Whip egg white and powdered sugar together on high speed until thick and white, about 5 to 8 minutes. Add the melted chocolate and stir together.</step>
+      <step>Bake the cookies 18 to 23 minutes.</step>
+      <step>Allow to cool no more than five minutes and brush with glaze. You will have glaze left over.</step>
+      </dir-div>
+    </directions>
+  </recipe>
+</recipeml>

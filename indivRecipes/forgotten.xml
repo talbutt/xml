@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Mom" name="DC.Creator"/>
+  <recipe id="Forgotten Cookies">
+    <head>
+      <title>Forgotten Cookies</title>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">America</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>So-called because they are left in the oven overnight. My best friend always wondered how anyone could forget abut these, and they are my favorite too. Mom says the recipe comes from her friend Eileen Schaivo.</xhtml:p>
+
+<xhtml:p>This is a very easy cookie. The only way to ruin these cookies is to add the sugar too quickly and make mereingue puddles. They taste the same, but are chewier.</xhtml:p>
+
+<xhtml:p>If you substitute the pecans for the chocolate chips, these are called Kisses.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>egg whites</item>
+<!--2 egg whites-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--2/3 c. sugar-->
+        </ing>
+        <ing>
+          <item>pinch of salt</item>
+<!--pinch of salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1/2 tsp vanilla-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>6</qty>
+              <unit>ounce</unit>
+            </amt>
+            <item>chocolate chips</item>
+<!--6 ounce package chocolate chips-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>c</unit>
+            </amt>
+            <item>chopped pecans</item>
+<!--1/2 c. chopped pecans-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>This recipe can easily be doubled.</step>
+      <step>Preheat oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>. Beat egg whites slowly at first with salt, until whites begin to foam. Increase mixer speed to high, and beat until soft peaks form.</step>
+      <step>Gradually add sugar by tablespoonsful until a stiff mereingue forms. Stir in vanilla. Fold in chocolate chips or pecans.</step>
+      <step>Drop by teaspoonsful onto a greased or parchment-paper-lined cookie sheet. Place in oven, turn off oven, go to bed.</step>
+      <step>The next morning: Remove from cookie sheets and store in air-tight containers.</step>
+    </directions>
+  </recipe>
+</recipeml>

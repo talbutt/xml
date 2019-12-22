@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:x="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Thursday January 12, 2006" name="DC.Date"/>
+  <recipe id="Stollen">
+    <head>
+      <title>Stollen</title>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="sub">Yeast</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><x:p>The city of Dresden produces the most famous stollen, but
+	this sweet yeast bread is baked and eaten all over Germany. This is the
+	most common stollen, made with dried fruits. Other variations include with
+	poppy-seed, marzipan or farmer's cheese filling. Traditional Dresden
+	stollen has candied fruits like citron and orangeat, but frankly, I hate
+	that stuff.</xhtml:p>
+
+<x:p>We have stollen for breakfast Christmas morning. I stuggle hard to not eat
+half a loaf at once, and it's often a close call. One of the features of this
+recipe is to let the fruit sit overnight to soak up all that nice rum and
+remain plump and moist.</xhtml:p>
+
+<x:p>Many thanks go to Nancy Smith and others for catching steps I had missed --
+like the eggs.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>c</unit>
+            </amt>
+            <item>rum</item>
+<!--1/2 c. rum-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1/2</qty>
+              <unit>c</unit>
+            </amt>
+            <item>near-boiling water</item>
+<!--1/2 c. near-boiling water-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>golden raisins</item>
+<!--1 c. golden raisins-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>currants</item>
+<!--1 c. currants-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>"normal" raisins</item>
+<!--1 c. "normal" raisins-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>milk</item>
+<!--2 c. milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+<!--1 c. butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1/2 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>packages yeast</item>
+<!--2 packages yeast-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>6</q1>
+              <q2>7</q2>
+            </range>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+          <ing-note> (plus extra for dredging dried fruits and kneading)</ing-note>
+<!--6 to 7 c. flour (plus extra for dredging dried fruits and kneading)-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>c</unit>
+            </amt>
+            <item>sliced almonds</item>
+<!--1 c. sliced almonds-->
+          </alt-ing>
+          <alt-ing>
+            <item>other nuts</item>
+<!--other nuts-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>cardamom</item>
+<!--1/2 tsp. cardamom-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>butter</item>
+<!--3 Tb. butter-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>powdered sugar</item>
+<!--1/2 c. powdered sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+	  <dir-div>
+      <step><x:img src="/images/Stollen_2015.jpg" class="photo" alt="[Three loaves of stollen fresh out of the oven. Copyright 2015 Susan J. Talbutt]" />Yield, three loaves. Can be doubled but most mixers can't handle that much dough.</step>
+	  <title>The night before</title>
+      <step>The night before (or at least one hour): combine raisins and currants in a non-reactive two-quart bowl (glass works well). Cover with rum, adding more if need be. Stir, cover with plastic wrap and set aside.</step>
+	  </dir-div>
+	  <dir-div>
+	  <title>The next day</title>
+      <step>The next day: Scald milk over low heat to
+	  <temp><qty>160</qty><tempunit unit="F"
+	  system="US">degrees</tempunit><!--160  degrees--></temp>, and allow to
+	  cool to <temp><qty>105</qty><tempunit unit="F" system="US">degrees</tempunit><!--110  degrees--></temp>. Allow butter to come to room temprature while the milk cools, so that it is soft.</step>
+      <step>Combine 1/2 c. milk, 2 TB sugar and yeast; stir. Let sit for 10 minutes, and check that yeast is foaming. This is the sponge.</step>
+      <step>While the yeast is proofing, measure 5 1/2 c. flour into a large bowl. Stir the cardamom into the flour. Add butter in roughly tablespoon-sized pieces. Using the paddle beater on a stand mixer, mix on low spead until butter is combined. Or cut the butter in by hand using your favorite method (two knives, pastry cutter). You should not see lumps of butter, but the flour should stick to itself in small crumbs. The butter will coat the flour, delaying gluten formation, and making a richer and softer bread.</step>
+      <step>Combine remaining sugar, remaining milk, and eggs; stir until sugar dissolves.</step>
+      <step>After the yeast has proofed, make a well in the flour. Pour milk-egg mixture and proofed yeast into the well in the flour.</step>
+	  </dir-div>
+	  <dir-div>
+      <title>Hand kneading</title>
+      <step>Stir flour and liquid together until a ball of (fairly wet) dough forms.</step>
+      <step>Dust your kneading surface with 1/2 c. of the remaining flour. Drop the dough ball onto the kneading surface, and dust with another 1/4 c. Keep additional flour on hand for dusting while you knead. Knead doughuntil it is a springy but still soft and fairly sticky ball. Use as little additional flour as possible.</step>
+      <step>Knead in nuts and drained fruits a handful at a time until evenly distributed.</step>
+	  </dir-div>
+	  <dir-div>
+      <title>Machine kneading</title>
+      <step>Change from the paddle to the dough hook, and mix liquid and flour together. When flour and liquid seem combined, scrape the bowl with a spatula, then continue kneading until the flour is incorporated. Add an additional 1/2 c. flour and knead until incorporated. If the dough looks (or is) wet, rather than just sticky, add a bit more flour and knead. When the dough starts to climb the dough hook, knead for a minute. Not all will climb the hook; some dough will stick to the sides of the bowl.</step>
+      <step>Add nuts and drained fruits, and continue kneading just until combined.</step>
+      <step>Punch down dough. (This is fun.) Divide dough in three parts (a scale is helpful, dough for each loaf should weigh about 650 to 700 grams). Knead just until dough is pringing again, two or three pushes. Roll out and shape into an oval not quite as long as the width of the baking sheet. Fold over, not quite in half. Place on ungreased cookie sheet. Repeat for remaining dough. Three loaves should fit on one large sheet.</step>
+      <step>Allow dough to rise for another hour.</step>
+	  </dir-div>
+	  <dir-div>
+      <title>Baking</title>
+      <step>Preheat oven to <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp>, and bake for 45 minutes to an hour. Bread will sound hollow when tapped. Brush with melted butter. Cool on racks.</step>
+      <step>When ready to eat, sprinkle the buttered loaf with a liberal amount (nearly 1/4 inch) of powdered sugar. If you are giving these as gifts, you can skip this step and include shaker of powdered sugar (unscrew top, fill with sugar, place a piece of plastic wrap over opening, replace top) tied on to the top of the loaf.</step>
+      <step>Notes: You aren't limited to the fruits I suggest, or the ratios I suggest. Other recipes include walnuts, Citron, fruitcake mix and lemon rind. I don't include them because I hate walnuts, citron and fruitcake mix. The cardamom is optional too. (Store that in the freezer when you are finished.)</step>
+      <step>If you want a lighter loaf, you can increase the sugar by two to three tablespoons (one of my "mistakes") or leave out the eggs (another "mistake"). You can also add some salt to the dough -- no more than one teaspoon.</step>
+	  </dir-div>
+    </directions>
+  </recipe>
+</recipeml>

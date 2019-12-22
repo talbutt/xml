@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Thursday December 29, 2005" name="DC.Date"/>
+  <meta content="Jim" name="DC.Creator"/>
+  <recipe id="Mocha Torte">
+    <head>
+      <title>Mocha Torte</title>
+      <source>Jim</source>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Jim and I attended high school and college together; he had a major even geekier than mine: physics. He now works with really tiny particles in California, and is another hobbyist baker. Like many techies I know, he's a bit of a stickler for detail; note the recommended temperature for the butter. When I visited him in California, he had a great time showing off the good wine to be found in even the most run-of-the-mill stores. Next time wineries Jim!</xhtml:p>
+
+<xhtml:p>I believe he serves this every year for Boxing Day (Dec. 26), when his extended family gets together, and it has become a favorite of the whole clan.</xhtml:p>
+
+<xhtml:p>Jim's comment was, "I came up with it when another dessert died horribly and I needed something fast." He uses Guittard chocolate chips.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <title>Torte</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>box Duncan Hines Devils Food Cake</item>
+<!--1 box Duncan Hines Devils Food Cake-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+          </amt>
+          <item>eggs</item>
+<!--3 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>oil</item>
+<!--1/2 cup oil-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/3</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>espresso</item>
+<!--1 1/3 cup espresso-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>pound</unit>
+          </amt>
+          <item>mini chocolate chips</item>
+<!--3/4 pound mini chocolate chips-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Kaluha Buttercream</title>
+        <ing>
+          <item>bittersweet chocolate bar for grating</item>
+<!--bittersweet chocolate bar for grating-->
+        </ing>
+        <ing>
+          <item>Buttercream</item>
+<!--Buttercream-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>lb</unit>
+          </amt>
+          <item>10x sugar</item>
+<!--1 lb 10x sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>stick</unit>
+          </amt>
+          <item>of butter</item>
+          <prep>65 degrees</prep>
+<!--3/4 stick of butter, 65 degrees-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>t</unit>
+          </amt>
+          <item>vanilla</item>
+<!--1 t vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>T</unit>
+          </amt>
+          <item>Kaluha</item>
+<!--2 T Kaluha-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+	  <dir-div>
+        <title>Torte</title>
+        <step>Mix cake according to package directions, substituting espresso for water. Add lots of mini chocolate chips. Pour into a parchment lined jelly-roll pan (11x17x1 or so), spreading evenly. Bake at <temp><qty>350</qty><tempunit unit="F" system="US">degrees</tempunit><!--350  degrees--></temp> for 30-40 minutes or until skewer picks clean. Cool in pan for 2-3 minutes and invert on rack. When cool, trim edges to remove crust. Slice once lengthwise and once crosswise for four 9x5 slices.</step>
+        <step>Spread half the buttercream on top of three of the cake slices. Stack. Spread remaining buttercream on top of the last slice. Stack. (Don't spread any on the cut sides of the slices.) For true chocoholics, grate some good quality bittersweet chocolate on top.</step>
+	  </dir-div>
+	  <dir-div>
+        <title>Butter cream</title>
+        <step>Cream together all ingredients till fluffy, adding some milk or more Kaluha if needed. </step>
+	  </dir-div>
+    </directions>
+  </recipe>
+</recipeml>

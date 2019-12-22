@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="schokolademandeln_staebchen" system="metric">
+    <meta content="2015-11-08" name="DC.Date"/>
+    <head>
+      <title>Schokolademandeln Staebchen</title>
+      <subtitle>Chocolate-almond sticks</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+        <cat class="diet">Gluten-free</cat>
+        <cat class="diet">Dairy-free</cat>
+      </categories>
+    </head>
+    <description>Light and crunchy, these cookies come from <x:i>Dr. Oetker's Christmas Baking</x:i>, a trove of delicious German Christmas specialties.</description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <!--1 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg yolk</item>
+          <!--1 egg yolk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--125 g sugar-->
+        </ing>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>coffee powder</item>
+            <!--1 tsp coffee-->
+          </alt-ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>tsp</unit>
+            </amt>
+            <item>espresso powder</item>
+            <!--espresso powder-->
+          </alt-ing>
+        </ing>
+        <ing>
+          <amt>
+            <qty>60</qty>
+            <unit>g</unit>
+          </amt>
+          <item>bittersweet chocolate</item>
+          <prep>melted and cooled</prep>
+          <!--60 g bittersweet chocolate, melted and cooled-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>200</qty>
+            <unit>g</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>finely ground</prep>
+          <!--200 g almonds, finely ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--1/4 tsp baking powder-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Glaze</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg white</item>
+          <!--1 egg white-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>60</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <!--60 g powdered sugar-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Beat the eggs, sugar, and coffee powder until thick and nearly white, about 5 to 10 minutes with a stand mixer. Beat in the melted chocolate. Fold in the ground almonds and baking powder. The batter will be very thick, but not quite a dough. Chill for half an hour to an hour.</step>
+      <step>Preheat the oven to <temp><qty>175</qty><tempunit unit="C" system="metric">degrees</tempunit><!--175 C--></temp>.</step>
+      <step>Between two sheets of wax paper, parchment paper, or foil, roll the dough into a <size><qty>15</qty> <unit>cm</unit></size> by <size><qty>40</qty> <unit>cm</unit></size> rectangle. I found myself rolling out, measuring, cutting, patching back, re-rolling, and repeating. Remove the top piece of wax paper. Replace the top piece, flip over, and peel off the other piece of wax paper. This will make it easer to remove the cut dough from the paper.</step>
+      <step>Whip the egg white until soft peaks form. Slowly add the powdered sugar and whip to a meringue. With an offset spatula, spread over the dough rectangle, getting the meringue as close to the dough edges as possble.</step>
+      <step>Ideally with a pastry cutter or pizza roller, cut the dough with meringue into <size><qty>1</qty> <unit>cm</unit></size> by <size><qty>6</qty> <unit>cm</unit></size> sticks: Cut the dough rectangle in half lengthwise. Cut in half widthwise; you now have four quarters, one in each corner. Cut the widthwise halves in half, those quarters into eighths, and those into four or five skinny pieces each. You will have 64 to 80 pieces.</step>
+      <step>Transfer half the pieces to a parchment paper-lined cookie sheet; this will be messy and the dough will stick. A thin knife or small angled spatula dipped in hot water will lift the dough pieces as cleanly as possible. Gently push the dough from the knife onto the lined cookie sheet. The cookies will puff more than you think; leave about <size><qty>1</qty> <unit>cm</unit></size> between cookies. Transfer the remaining dough pieces to a second lined cookie sheet. Bake 12 to 15 minutes.</step>
+      <step>The cookies will be soft when removed from the oven, but will crisp up as they cool.</step>
+    </directions>
+  </recipe>
+</recipeml>

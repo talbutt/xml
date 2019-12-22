@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Wednesday December 28, 2005" name="DC.Date"/>
+  <meta content="Grandma" name="DC.Creator"/>
+  <recipe id="Hefekrantz">
+    <head>
+      <title>Hefekrantz</title>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="region">Germany</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Another German tradition, Hefekrantz literally means "yeast wreath," and is a sweet yeast bread braided and formed in the shape of a ring, or braid. This is an easy recipe to for anyone starting to bake yeast breads.</xhtml:p>
+
+<xhtml:p>Cousin Lori -- and now her sons -- make a delicious, rich Hefekrantz every year for my stepfather's Christmas present. My stepfather has often remarked he could indeed live on bread alone. Well, maybe with some butter. Hefekrantz is his usual present for other occasions, including birthdays.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>milk</item>
+<!--1 1/2 c. milk-->
+        </ing>
+        <ing>
+          <amt>
+		  	<range>
+		      <q1>5</q1>
+		      <q2>6</q2>
+		  	</range>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--5 to 6 c. flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1/2 c. sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+			<unit>package</unit>
+          </amt>
+          <item>yeast</item>
+<!--1 package yeast-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+<!--3/4 c. butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+          </amt>
+          <item>eggs</item>
+<!--2 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 tsp. salt-->
+        </ing>
+        <ing>
+          <item>zest of 1 lemon</item>
+<!--zest of 1 lemon-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>butter</item>
+<!--1 Tb butter-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg yolk </item>
+<!--1 egg yolk (optional)-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sliced almonds </item>
+<!--1/4 c sliced almonds (optional)-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+	  <dir-div>
+        <step>Scald milk and allow to cool to <temp><qty>105</qty><tempunit unit="F" system="US">degrees</tempunit><!--105  degrees--></temp>. If you haven't already, allow butter to soften on the counter.</step>
+        <step>In a 1 qt. bowl, combine 1/2 c. of the milk, 2 Tb of the sugar and 1/2 c. of the flour. Mix until smooth; the mixture should resemble pancake batter. Add the yeast. Cover and allow to sit in a warm place to proof for 10 to 15 minutes. Mixture will foam and resemble a dough.</step>
+        <step>While the yeast is proofing, measure 4 1/2 c. flour into a large bowl. Add butter in roughly tablespoon-sized pieces. Using the paddle beater on a stand mixer, mix on low spead until butter is combined. Or cut the butter in by hand using your favorite method (two knives, pastry cutter). You should not see lumps of butter, but the flour should stick to itself in small crumbs. The butter will coat the flour, delaying gluten formation, and making a richer and softer bread.</step>
+        <step>Combine remaining sugar, remaining milk, eggs, salt and lemon zest; stir until sugar dissolves.</step>
+        <step>After the yeast has proofed, make a well in the flour. Pour milk-egg mixture and proofed yeast into the well in the flour.</step>
+	  </dir-div>
+	  <dir-div>
+        <title>Hand kneading</title>
+        <step>Stir flour and liquid together until a ball of (fairly wet) dough forms.</step>
+        <step>Dust your kneading surface with 1/2 c. of the remaining flour. Drop the dough ball onto the kneading surface, and dust with another 1/4 c. Keep additional flour on hand for dusting while you knead. Knead dough until it is a springy but still soft and fairly sticky ball. Use as little additional flour as possible.</step>
+	  </dir-div>
+	  <dir-div>
+        <title>Machine kneading</title>
+        <step>Change from the paddle to the dough hook, and mix liquid and flour together. When flour and liquid seem combined, scrape the bowl with a spatula, then continue kneading until the flour is incorporated. Add an additional 1/2 c. flour and knead until incorporated. If the dough looks (or is) wet, rather than just sticky, add a bit more flour and knead. When the dough starts to climb the dough hook, knead for a minute. Not all will climb the hook; some dough will stick to the sides of the bowl.</step>
+	  </dir-div>
+	  <dir-div>
+        <title>Rising</title>
+        <step>Use 1 Tb butter or oil to grease a medium to large bowl. Drop dough in bowl and turn to coat with the fat. Cover with a clean dishcloth, place somewhere warm, and allow to rise until doubled in size, about an hour.</step>
+        <step>When the dough has doubled in size, punch down.</step>
+	  </dir-div>
+	  <dir-div>
+        <title>Form the wreath</title>
+        <step>Divide into three even pieces. Roll each piece into a rope about 25 to 30 inches long. Lay the ropes side by side; beginning from the middle, braid loosely first to one end of the ropes, then to the other. When the second half of the loaf is braided, you will have to braid backwards. Move braid to a buttered cookie sheet and form into a circle. If the circle has little room in the center, place an inverted, buttered, oven-save tea cup or small ramekin in the center. If the braid is tight, it will pull apart while rising and baking, and not look as nice.</step>
+        <step>Alternately: Form dough into two straight braids. Divide dough in half; divide each half into thirds. Roll each third into 12 to 15 inch ropes, and loosely braid three ropes together, starting in the center. Place braids onto a buttered cookie sheet, with about 4 to 5 inches of space between them.</step>
+        <step>Cover the shaped dough, place in a warm, draft-free spot, and allow to rise until nearly doubled, about 45 minutes.</step>
+	  </dir-div>
+	  <dir-div>
+		<title>Baking</title>
+        <step>Preheat oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>.</step>
+        <step>In a small bowl or ramekin, combine egg yolk with 1 Tb or less of water; beat smooth. Brush dough with egg wash, being sure to cover sides of the braid. Press sliced almonds onto each loaf.</step>
+        <step>Place cookie sheet onto the middle rack, and bake for 45 to 50 minutes.</step>
+	  </dir-div>
+    </directions>
+  </recipe>
+</recipeml>

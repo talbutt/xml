@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="cream_cheese_icing" system="metric">
+    <meta name="DC.Date" content="2019-10-01"/>
+    <head>
+      <title>Cream cheese icing</title>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>A soft, not-so-sweet icing that works well with any spice cakes.</description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>225</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <prep>sifted</prep>
+          <!--225 g powdered sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>225</qty>
+            <unit>g</unit>
+          </amt>
+          <item>cream cheese </item>
+          <ing-note>full fat</ing-note>
+          <!--225 g cream cheese (full fat)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>110</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter </item>
+          <ing-note>1 stick</ing-note>
+          <!--110 g butter (1 stick)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla extract</item>
+          <!--1/2 tsp vanilla extract-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Sift the powdered sugar into a large bowl.</step>
+      <step>On high speed, cream the cream cheese and butter together until light and fluffy. Beat in the vanilla.</step>
+      <step>On low speed, mix in the powdered sugar one large spoonful at a time. Do this patiently so the sugar doesn't fly everywhere.</step>
+      <step>When all of the sugar is incorporated, beat on high speed until smooth and fluffy. If it's a warm day, chill before using.</step>
+    </directions>
+  </recipe>
+</recipeml>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <recipe id="christmas_cake">
+  <meta content="2005-10-30" name="DC.Date"/>
+    <head>
+      <title>Christmas cake</title>
+      <subtitle>Fruitcake</subtitle>
+      <source>Susiej</source>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="sub">Fruitcake</cat>
+        <cat class="region">Ireland</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Fruitcake is an excuse and a method for eating fruit plump with whiskey, rum or brandy. In a traditional Irish or British fruitcake like this one, the fruit outweighs and outshines the minimal amount of cake that holds everything together. The cake is baked weeks before Christmas so that it can be "watered" with spirits. A finished 10-inch cake, covered with almond paste and royal icing, will weigh over 10 pounds.</xhtml:p>
+
+		<xhtml:p>In Ireland and Britain, different recipes of fruitcake are baked and eaten throughout the year. There's the lighter Dundee Cake, and Halloween's Barm Brack, which is more of a yeast bread. Fruitcake in its current form dates back to the late 1700s, although its ancestors stretch back to the late Middle Ages. Then, as now, lighter, less fruity cakes were for everyday, and richer cakes for special occassions.</xhtml:p>
+		
+		<xhtml:p>This recipe makes an excellent Irish wedding cake. It was for Anne's wedding that I first made this cake. In Ireland, a friend bakes the couple's wedding cake. Her mother (her "mam") mailed me her own recipe, based on one by theodora Fitzgibbon. Anne brought the hard-to-find ingredients like mixed peel and sultanas from Ireland. The cake received the stamp of approval from her native Irish family and the groom's native Philadelphian family.</xhtml:p>
+		
+		<xhtml:p>One secret is that Anne makes her own candied fruit peel. The fruitcake mix sold in American groceries horrifies her (as it does me). Rather than the stale, unearthly flavor of fruitcake mix, the home-candied peel has a strong, fresh citrus aroma and flavor. Genuine Irish "mixed peel" is an acceptable substitute (but homemade is best). The homemade peel made me a fruitcake devotee.</xhtml:p>
+		
+		<xhtml:p>Fruitcake should be served in small pieces.</xhtml:p>
+	</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>4 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>dried apricots</item>
+<!--4 oz dried apricots-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>6 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>glace cherries</item>
+          <prep>rinsed and chopped</prep>
+<!--6 oz glace cherries, rinsed and chopped-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>lb</unit>
+          </amt>
+          <item>raisins</item>
+<!--1 lb raisins-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>6 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>candied citrus peel ("mixed peel")</item>
+          <prep>chopped</prep>
+<!--6 oz candied citrus peel ("mixed peel"), chopped-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>candied ginger</item>
+          <prep>chopped</prep>
+<!--2 oz candied ginger, chopped-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+<!--1 1/2 c butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 1/2 c sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>brown sugar</item>
+<!--3/4 c brown sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>6 </qty>
+          </amt>
+          <item>eggs</item>
+<!--6 eggs-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3 1/4 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>flour</item>
+<!--3 1/4 c flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>ground</prep>
+<!--4 oz almonds, ground-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>nutmeg</item>
+<!--1/2 tsp nutmeg-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+<!--1/2 tsp salt-->
+        </ing>
+        <ing>
+          <item>rind of 1 orange</item>
+          <prep>grated</prep>
+<!--rind of 1 orange, grated-->
+        </ing>
+        <ing>
+          <item>rind of 1 lemon</item>
+          <prep>grated</prep>
+<!--rind of 1 lemon, grated-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+          </amt>
+          <item>apple</item>
+          <prep>cored and grated coarsely</prep>
+<!--1 apple, cored and grated coarsely-->
+        </ing>
+      </ing-div>
+      <ing>
+        <alt-ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>lb</unit>
+          </amt>
+          <item>sultanas</item>
+<!--1 lb sultanas-->
+        </alt-ing>
+        <alt-ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>lb</unit>
+          </amt>
+          <item>golden raisins</item>
+<!--1 lb golden raisins-->
+        </alt-ing>
+      </ing>
+      <ing>
+        <alt-ing>
+          <amt>
+            <qty>8 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>currants</item>
+<!--8 oz currants-->
+        </alt-ing>
+        <alt-ing>
+          <amt>
+            <qty>8 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>raisins</item>
+<!--8 oz raisins-->
+        </alt-ing>
+      </ing>
+      <ing>
+        <alt-ing>
+          <amt>
+            <qty>4 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>walnuts</item>
+          <prep>coarsely chopped</prep>
+<!--4 oz walnuts, coarsely chopped-->
+        </alt-ing>
+        <alt-ing>
+          <amt>
+            <qty>4 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>almonds</item>
+          <prep>coarsely chopped</prep>
+<!--4 oz almonds, coarsely chopped-->
+        </alt-ing>
+      </ing>
+      <ing>
+        <alt-ing>
+          <amt>
+            <qty>3/4 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>rum</item>
+          <prep>whiskey</prep>
+<!--3/4 c rum, whiskey-->
+        </alt-ing>
+        <alt-ing>
+          <item>brandy (optional)</item>
+<!--brandy (optional)-->
+        </alt-ing>
+      </ing>
+      <ing>
+        <alt-ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>"mixed spice"</item>
+<!--1 tsp "mixed spice"-->
+        </alt-ing>
+        <alt-ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>pumpkin pie spice</item>
+<!--1 tsp pumpkin pie spice-->
+        </alt-ing>
+        <alt-ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>Penzey's baking spice</item>
+<!--1 tsp Penzey's baking spice-->
+        </alt-ing>
+      </ing>
+    </ingredients>
+    <directions>
+    
+    	<dir-div>
+
+			<note>Bake fruitcake in early November to give the cake's flavors time to
+			develop and meld. This recipe will make one 3x10-inch cake, two 2x9-inch cakes,
+			three 3x6-inch cakes, or 18 mini-cakes made in tins for "giant" muffins.</note>
+			
+			</dir-div>
+			
+			<dir-div>
+			
+			<title>Prepare the dried fruit</title>
+			
+			<step>Soak the apricots in water to cover for three hours, or bring to simmer in a
+			saucepan for fifteen minutes, and soak for an additional 30 to 45 minutes.
+			Remove fruit from water and chop coarsely. Reserve water if making a non- or
+			low-alcohol cake.</step>
+			
+			<step>Preheat oven to 300 degrees.</step>
+			
+			<step>In a roasting pan, combine soaked appricots, chopped cherries, sultanas,
+			raisins, currants, walnuts and chopped candied peel. Pour half the spirits (6
+			tablespoons), strong hot tea, or the reserved soaking water over the fruits.
+			Stir the fruits and cover the pan with tinfoil or parchment paper. Heat in oven
+			for about 20 minutes, stirring occasionally, until fruits are plump and sticky.
+			Remove from oven and allow to cool.</step>
+			
+			<note>This is a good stopping point for making the cake over two days. Cover
+			the fruits and place in a cool, dry area, or the refrigerator.</note>
+			
+			</dir-div>
+			
+			<dir-div>
+			
+			<title>Prepare the pans</title>
+			
+			<step>A second person can prepare the pans while the baker makes the cakes.
+			Traditionally, pans are lined with brown paper (paper grocery bags work well)
+			and parchment paper. The brown paper prevents the exterior of the cake from
+			burning; the parchment paper prevents the cake from sticking. It may be easier
+			to line the pan with parchment, and wrap the exterior of the pan in brown paper
+			(although you will smell the paper cooking). For mini-cakes, the paper must be
+			outside the cups.</step>
+			
+			<step>To wrap a pan in brown paper, cut two circles from a paper bag. The circles
+			should be large enough to cover the botton of the pan and come up the sides of
+			the pan. Center the pan in the paper circle. Cut ten or twelve slits around the
+			edge of the paper towards the center, as if you were cutting petals for a
+			flower. Pull up the outside "petals," and staple them together where they
+			overlap, or tie with a string around the sides of the pan. Repeat for a second
+			layer of paper.</step>
+			
+			<step>If making mini-fruitcakes, cut a rectangle of paper as large as the outer
+			edge of the cupcake pan plus the height of the cupcakes. Make a diagonal slit at
+			each corder of the paper. Center the pan, pull up the sides of the paper and
+			staple together (much easier than tying with string).</step>
+			
+			</dir-div>
+			
+			<dir-div>
+			
+			<title><xhtml:img src   = "/images/fruitcake.jpg" 
+					 class = "photo left" 
+					 alt   = "[Mini- and half-size Christmas cakes.]"/>Mixing the cake</title>
+			
+			<step>Cream together the butter and sugars until light and fluffy. Add eggs one at
+			a time with a tablespoon or so of flour, beating well between each egg. The
+			flour will prevent the mixture from "curdling." Stir together flour, spices,
+			salt and ground almonds. Fold flour mixture into butter-egg mixture.</step>
+			
+			<step>Fold in fruits, grated apple and grated rind; a very large mixing bowl will
+			be needed, or use a large stockpot. Gently mix in remaining spirits (if
+			desired).</step>
+			
+			<step>Spoon batter into pan(s) and smooth tops of cakes. For mini-cakes, an ice
+			cream scooper makes portioning quick and clean. Pans can be filled almost to the
+			top with batter. Without leavening, the cake will rise very little.</step>
+			
+			<note>Cakes can be baked the next day if desired. Cover the cakes with a
+			clean towel, foil or parchment paper and store in a cool, dry place.</note>
+			
+			</dir-div>
+			
+			<dir-div>
+			
+			<title>Baking the cakes</title>
+			
+			<step>A full, 9 or 10-inch cake will require 5 1/2 hours to bake; smaller 5 or
+			6-inch cakes 4 1/2 hours; mini-cakes 2 3/4 hours.</step>
+			
+			<step>Preheat the oven to 325 degrees. Cover cakes with foil or parchment;
+			mini-cakes should be left uncovered. Multiple cakes can (and should) be baked
+			together. Bake 30 minutes.</step>
+			
+			<step>Reduce heat to 275 degrees and bake an additional 2 hours.</step>
+			
+			<step>Remove foil or parchment, give cakes a quarter or half turn, and bake 3 hours
+			for a large cake, 2 hours for a small cake, or 15 minutes for mini-cakes. A
+			finished cake will be firm to the touch. a tester inserted into the center will
+			come out clean and the cake will not "sing" from escaping steam.</step>
+			
+			<step>Allow cakes to cool thoroughly. Wash and dry the baking tins. Return the
+			cakes to the tins for storage. Cover tin in parchment, then foil or plastic
+			wrap. Alternately, wrap each cake in parchment paper and foil. "Watering" the
+			cakes</step>
+			
+			<step>The cakes should be allowed to sit a couple weeks or months to meld flavors.
+			If desired, two tablespoons of spirits should be poured or brushed onto the
+			cakes each week until Christmas.</step>
+			
+			<step>Cover with almond paste and frost with royal icing.</step>
+    	</dir-div>
+    </directions>
+  </recipe>
+</recipeml>

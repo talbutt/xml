@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
+<recipeml version="0.5"
+          xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
+          xmlns:xhtml="http://www.w3.org/1999/xhtml"
+		  >
+  <meta content="Saturday October 15, 2005" name="DC.Date"/>
+  <recipe id="Macaroons">
+    <head>
+      <title>Macaroons</title>
+      <subtitle>Makronen</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="region">Germany</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description><xhtml:p>Macaroons are the final of the eight cookies my Granma always made for Christmas. (The others were Springerle, Ausstecherle, Anisplaetzchen, Spritz, vanilla wreathes, forgotten cookies, chocolate chip.) Her recipe has never turned up in her recipe collection. This version is from one of my favorite German cookbooks.</xhtml:p></description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>3 </qty>
+          </amt>
+          <item>egg whites</item>
+<!--3 egg whites-->
+        </ing>
+        <ing>
+          <item>pinch of salt</item>
+<!--pinch of salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 </qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+<!--1 c sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>8 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>coconut</item>
+<!--8 oz coconut-->
+        </ing>
+        <ing optional="yes">
+          <amt>
+            <qty>4 </qty>
+			<unit>oz</unit>
+          </amt>
+          <item>chocolate</item>
+<!--4 oz chocolate (optional)-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp>. Line two baking sheets with parchment paper.</step>
+      <step>Beat the whites until stiff. Continue beating while slowly adding salt and sugar. Fold in the coconut. Drop onto baking sheets by the teaspoonful; cookies should be about 1 inch in diameter. Bake sheets one at a time 15 to 20 minutes until cookies are golden brown.</step>
+      <step>Melt chocolate in a double boiler. Allow to cool. Re-heat chocolate until it just melts (it should be fairly thick). Drizzel over macaroons.</step>
+    </directions>
+  </recipe>
+</recipeml>
