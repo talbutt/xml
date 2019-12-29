@@ -8694,17 +8694,17 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
   </recipe>
 
   <recipe id="champagne_aperol">
-	<meta content="2008-11-12" name="DC.Date"/>
+    <meta  content="2008-11-12" name="DC.Date"/>
     <head>
-      <title>Champagne Aperol cocktail</title>
-      <subtitle>Aperol sprizz</subtitle>
+      <title>Aperol spritz champagne cocktail</title>
       <categories>
         <cat class="main">Drinks</cat>
         <cat class="sub">Cold</cat>
-        <cat class="diet">Gluten-free</cat>
-        <cat class="diet">Egg-free</cat>
-        <cat class="diet">Dairy-free</cat>
-        <cat class="diet">Nut-free</cat>
+        <cat class="region">America</cat>
+				<cat class="diet">Dairy-free</cat>
+				<cat class="diet">Egg-free</cat>
+				<cat class="diet">Gluten-free</cat>
+				<cat class="diet">Nut-free</cat>
       </categories>
     </head>
     <description><x:p>This was the drink of choice for my cousin's 30th
@@ -8720,43 +8720,22 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
     <ingredients system="US">
       <ing-div>
         <ing>
-          <alt-ing>
             <amt>
               <qty>1</qty>
-              <unit>oz</unit>
+              <unit>fl oz</unit>
             </amt>
             <item>Aperol</item>
-          </alt-ing>
-          <alt-ing>
-            <amt>
-              <qty>1</qty>
-              <unit>oz</unit>
-            </amt>
-            <item>Campari</item>
-<!--1 fl. oz. Aperol, Campari-->
-          </alt-ing>
-          <alt-ing>
-            <item>similar</item>
-<!--similar-->
-          </alt-ing>
         </ing>
         <ing>
-          <alt-ing>
-            <item>Champagne</item>
-<!--Champagne-->
-          </alt-ing>
-          <alt-ing>
             <item>sparkling wine</item>
 <!--sparkling wine-->
-          </alt-ing>
         </ing>
       </ing-div>
     </ingredients>
     <directions>
-      <step>Pour bitters into champagne flute, top with sparkling wine.</step>
+      <step>Pour Aperol into champagne flute, top with sparkling wine.</step>
     </directions>
   </recipe>
-
 
   <recipe id="chocolate_orange_lebkuchen_a" system="US">
     <meta content="2009-10-18" name="DC.Date"/>

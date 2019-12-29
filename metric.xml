@@ -9282,16 +9282,16 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
   </recipe>
 
   <recipe id="champagne_aperol_m" system="metric">
-    <meta content="2008-11-12" name="DC.Date"/>
+    <meta  content="2008-11-12" name="DC.Date"/>
     <head>
-      <title>Champagne Aperol cocktail</title>
-      <subtitle>Aperol sprizz</subtitle>
+      <title>Aperol spritz champagne cocktail</title>
       <categories>
         <cat class="main">Drinks</cat>
         <cat class="sub">Cold</cat>
-        <cat class="diet">Gluten-free</cat>
+        <cat class="region">America</cat>
         <cat class="diet">Dairy-free</cat>
         <cat class="diet">Egg-free</cat>
+        <cat class="diet">Gluten-free</cat>
         <cat class="diet">Nut-free</cat>
       </categories>
     </head>
@@ -9306,47 +9306,24 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
     was more true than he realized; like Pepsi, Aperol is a bit sweeter than
     its competition.</x:p>
     </description>
-    <ingredients system="US">
+    <ingredients system="metric">
       <ing-div>
         <ing>
-          <alt-ing>
-            <amt>
-              <qty>30</qty>
-              <unit>g</unit>
-            </amt>
-            <item>Aperol</item>
-          </alt-ing>
-          <alt-ing>
-            <amt>
-              <qty>30</qty>
-              <unit>g</unit>
-            </amt>
-            <item>Campari</item>
-
-<!--1 fl. oz. Aperol, Campari-->
-          </alt-ing>
-          <alt-ing>
-            <item>similar</item>
-
-<!--similar-->
-          </alt-ing>
+          <amt>
+            <qty>30</qty>
+            <unit>mL</unit>
+          </amt>
+          <item>Aperol</item>
         </ing>
         <ing>
-          <alt-ing>
-            <item>Champagne</item>
-
-<!--Champagne-->
-          </alt-ing>
-          <alt-ing>
-            <item>sparkling wine</item>
+          <item>sparkling wine</item>
 
 <!--sparkling wine-->
-          </alt-ing>
         </ing>
       </ing-div>
     </ingredients>
     <directions>
-      <step>Pour bitters into champagne flute, top with sparkling wine.</step>
+      <step>Pour Aperol into champagne flute, top with sparkling wine.</step>
     </directions>
   </recipe>
 
