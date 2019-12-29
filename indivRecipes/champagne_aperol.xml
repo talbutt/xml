@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
 <?xml-stylesheet href="recipe.xml" type="text/xsl"?>
-<recipeml xmlns:xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
   <meta content="Wednesday November 12, 2008" name="DC.Date"/>
   <recipe id="champagne_aperol">
     <head>
@@ -31,7 +31,7 @@
         <ing>
             <amt>
               <qty>1</qty>
-              <unit>oz</unit>
+              <unit>fl oz</unit>
             </amt>
             <item>Aperol</item>
         </ing>

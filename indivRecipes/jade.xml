@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="jade">
+    <meta content="2019-12-29" name="DC.Date"/>
+    <head>
+      <title>Jade champagne cocktail</title>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Cold</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Dairy-free</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Gluten-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>Another recommendation from my friend Jack, the cocktail master. This one came from a brilliant card he printed for a party: inside, dozens of brief cocktail recipes; on the back, an inspired "if you like ... try ..." rubric. The Jade, along with other champagne cocktails, was recommended if you like white wine but wanted something less dry.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>fl oz</unit>
+          </amt>
+          <item>blue curacao</item>
+          <!--1/4 oz blue curacao-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>fl oz</unit>
+          </amt>
+          <item>midori</item>
+          <!--1/4 oz midori-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>fl oz</unit>
+          </amt>
+          <item>lime</item>
+          <!--1/4 oz lime-->
+        </ing>
+        <ing>
+          <item>dash Angustora bitters</item>
+          <!--dash Angustora bitters-->
+        </ing>
+        <ing>
+          <item>bubbly to top it off</item>
+          <!--bubbly to top it off-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Shake everything but the bubbly with ice, pour into flute, top with bubbles, garnish with lime slice.</step>
+      <step><x:img id="jadePhoto" class="photo" src="/image/800w/jade.jpg" alt="Bubbly, light green cocktail in a champagn flute against a dark red background." /></step>
+    </directions>
+  </recipe>
+</recipeml>

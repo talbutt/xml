@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns:x="http://www.w3.org/1999/xhtml" xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" version="0.5">
+  <recipe id="poinsettia">
+    <meta content="2019-12-29" name="DC.Date"/>
+    <head>
+      <title>Poinsettia champagne cocktail</title>
+      <categories>
+        <cat class="main">Drinks</cat>
+        <cat class="sub">Cold</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Dairy-free</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Gluten-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>No other cocktail has quite so deliberately tied itself to Christmas. The Poinesettia is a tasty, refreshing drink that will not knock your socks off; the cranberry balances the Cointreu.</description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>fl oz</unit>
+          </amt>
+          <item>Cointreu</item>
+          <!--1/2 fl oz Cointreu-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>fl oz</unit>
+          </amt>
+          <item>cranberry juice cocktail</item>
+          <!--1 1/2 fl oz cranberry juice cocktail-->
+        </ing>
+        <ing>
+          <item>Bubbly</item>
+          <!--Bubbly-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Shake cointreu and cranberry over ice, strain into a flute, top with bubbly.</step>
+      <step>Pre-make the base with <ing> <amt> <qty>1/2</qty> <unit>c</unit> </amt> <item>Cointreu</item> </ing>, <ing> <amt> <qty>1 1/2</qty> <unit>c</unit> </amt> <item>cranberry juice cocktail</item> </ing>, and <ing> <amt> <qty>1/2</qty> <unit>c</unit> </amt> <item>water</item> </ing>, and chill. Pour <ing><amt> <qty>2 1/2</qty> <unit>fl oz</unit> </amt> <item>base</item></ing> into a flute and top with bubbly.</step>
+      <step><x:img id="poinsettiaPhoto" class="photo" src="/image/800w/poinsettia.jpg" alt="Middle-aged woman holding a red-orange cocktail in a champagne flute, throwing her head back and laughing" /></step>
+    </directions>
+  </recipe>
+</recipeml>
