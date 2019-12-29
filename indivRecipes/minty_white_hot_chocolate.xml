@@ -3,7 +3,7 @@
 <?xml-stylesheet href="recipe.xml" type="text/xsl"?>
 <recipeml xmlns:xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
   <meta content="Saturday September  8, 2007" name="DC.Date"/>
-  <recipe id="Minty White Hot Chocolate">
+  <recipe id="minty_white_hot_chocolate">
     <head>
       <title>Minty White Hot Chocolate</title>
       <categories>
