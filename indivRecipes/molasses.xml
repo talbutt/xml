@@ -5,18 +5,18 @@
           xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
           xmlns:xhtml="http://www.w3.org/1999/xhtml"
 		  >
-  <meta content="Sunday January  1, 2006" name="DC.Date"/>
-  <recipe id="Molasses spice spritz cookies">
+  <recipe id="molasses">
+  <meta content="2002-12-01" name="DC.Date"/>
     <head>
-      <title>Molasses spice spritz cookies</title>
+      <title>Molasses spice spritz</title>
       <categories>
         <cat class="main">Cookies</cat>
         <cat class="region">America</cat>
-				<cat class="diet">Nut-free</cat>
+        <cat class="diet">Nut-free</cat>
       </categories>
     </head>
-    <description><xhtml:p>This is adapted from the booklet of recipes for my cookie press, which lists many wonderful things to do with a cookie press, like eclairs and garnishing with mashed potatoes. Probably an American cookie, but this spritz variation is has the spiciness of many German Christmas cookies.</xhtml:p></description>
-    <ingredients system="US">
+    <description><x:p>This is adapted from the booklet of recipes for my cookie press, which lists many wonderful things to do with a cookie press, like eclairs and garnishing with mashed potatoes. Probably an American cookie, but this spritz variation is has the spiciness of many German Christmas cookies.</x:p></description>
+    <ingredients>
       <ing-div>
         <ing>
           <amt>
@@ -67,7 +67,7 @@
         </ing>
         <ing>
           <amt>
-            <qty>1 5/8</qty>
+            <qty>2</qty>
             <unit>c</unit>
           </amt>
           <item>flour</item>
@@ -126,7 +126,7 @@
     <directions>
       <step>Preheat oven to <temp><qty>375</qty><tempunit unit="F" system="US">degrees</tempunit><!--375  degrees--></temp>. Cream the butter and shortening together on high speed, three to five minutes, until light and fluffy. Add sugar gradually, then the egg, continuing to beat on high speed. Scrape sides and beat another five or ten seconds to combine thoroughly. Add baking soda to molasses, and add to creamed butter. Sift flour with salt and spices, and slowly add to creamed butter on low speed. Scrape sides and bottom, and mix until combined. If dough is particularly soft, chill for half an hour; do not chill overnight or the cookies will be flat. Fill a cookie press and form cookies onto an ungreased cookie sheet. Bake 10 minutes for soft cookies, 12 minutes for crisp.</step>
       <step>Store in an air-tight container. These cookies will pick up moisture from the air; on a damp day it takes only six hours to turn crisp cookies into soft cookies.</step>
-			<x:p><x:img src="images/800w/MolassesSpiceSpritz.jpg" class="photo" alt="Class plate with brown spritz cookies shaped like butterflies" /></x:p>
+      <step><x:img src="/images/800w/MolassesSpiceSpritz.jpg" class="photo" alt="Class plate with brown spritz cookies shaped like butterflies" /></step>
     </directions>
   </recipe>
 </recipeml>

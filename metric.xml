@@ -4821,9 +4821,9 @@ of the milk and heat until steaming. Pour into mugs and serve.</step>
     </directions>
   </recipe>
   <recipe id="molasses_m" system="metric">
-    <meta content="2006-01-01" name="DC.Date"/>
+    <meta content="2002-12-01" name="DC.Date"/>
     <head>
-      <title>Molasses spice spritz cookies</title>
+      <title>Molasses spice spritz</title>
       <categories>
         <cat class="main">Cookies</cat>
         <cat class="region">America</cat>
@@ -4956,6 +4956,7 @@ of the milk and heat until steaming. Pour into mugs and serve.</step>
     <directions>
       <step>Preheat oven to <temp><qty>190</qty><tempunit system="metric" unit="C">degrees</tempunit><!--375  degrees--></temp>. Cream the butter and shortening together on high speed, three to five minutes, until light and fluffy. Add sugar gradually, then the egg, continuing to beat on high speed. Scrape sides and beat another five or ten seconds to combine thoroughly. Add baking soda to molasses, and add to creamed butter. Sift flour with salt and spices, and slowly add to creamed butter on low speed. Scrape sides and bottom, and mix until combined. If dough is particularly soft, chill for half an hour; do not chill overnight or the cookies will be flat. Fill a cookie press and form cookies onto an ungreased cookie sheet. Bake 10 minutes for soft cookies, 12 minutes for crisp.</step>
       <step>Store in an air-tight container. These cookies will pick up moisture from the air; on a damp day it takes only six hours to turn crisp cookies into soft cookies.</step>
+      <step><x:img src="/images/800w/MolassesSpiceSpritz.jpg" class="photo" alt="Class plate with brown spritz cookies shaped like butterflies" /></step>
     </directions>
   </recipe>
   <recipe id="mulled_cider_m" system="metric">
