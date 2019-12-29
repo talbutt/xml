@@ -5,7 +5,7 @@
   <meta content="Wednesday November 12, 2008" name="DC.Date"/>
   <recipe id="champagne_aperol">
     <head>
-      <title>Champagne Aperol cocktail</title>
+      <title>Aperol spritz champagne cocktail</title>
       <categories>
         <cat class="main">Drinks</cat>
         <cat class="sub">Cold</cat>
@@ -16,40 +16,33 @@
 				<cat class="diet">Nut-free</cat>
       </categories>
     </head>
-    <description>This was the drink of choice for my cousin's 30th birthday party. As guests arrived, each was handed a cocktail. My cousin, aunt and I spent the rest of my visit drinking a champagne bottle's worth of these each night while we hashed over family gossip. (Only two glasses each.) By the time I left, the bottle Aperol bitters was finished.&#13;
-&#13;
-I'd never heard of Aperol before; it's a bitter like Campari. "Aperol is Pepsi; Campari is Coke," explained one birthday reveler. The analogy was more true than he realized; like Pepsi, Aperol is a bit sweeter than its competition.</description>
+    <description><x:p>This was the drink of choice for my cousin's 30th
+    birthday party. As guests arrived, each was handed a cocktail. My cousin,
+    aunt and I spent the rest of my visit drinking a champagne bottle's worth
+    of these each night while we hashed over family gossip. (Only two glasses
+    each.) By the time I left, the bottle Aperol bitters was finished.</x:p>
+
+    <x:p>I'd never heard of Aperol before; it's a bitter like Campari. "Aperol
+    is Pepsi; Campari is Coke," explained one birthday reveler. The analogy
+    was more true than he realized; like Pepsi, Aperol is a bit sweeter than
+    its competition.</x:p></description>
     <ingredients system="US">
       <ing-div>
         <ing>
-          <alt-ing>
             <amt>
               <qty>1</qty>
               <unit>oz</unit>
             </amt>
             <item>Aperol</item>
-            <prep>Campari</prep>
-<!--1 fl. oz. Aperol, Campari-->
-          </alt-ing>
-          <alt-ing>
-            <item>similar</item>
-<!--similar-->
-          </alt-ing>
         </ing>
         <ing>
-          <alt-ing>
-            <item>Champagne</item>
-<!--Champagne-->
-          </alt-ing>
-          <alt-ing>
             <item>sparkling wine</item>
 <!--sparkling wine-->
-          </alt-ing>
         </ing>
       </ing-div>
     </ingredients>
     <directions>
-      <step>Pour bitters into champagne flute, top with sparkling wine.</step>
+      <step>Pour Aperol into champagne flute, top with sparkling wine.</step>
     </directions>
   </recipe>
 </recipeml>
