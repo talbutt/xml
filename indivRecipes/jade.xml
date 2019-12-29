@@ -55,7 +55,7 @@
     </ingredients>
     <directions>
       <step>Shake everything but the bubbly with ice, pour into flute, top with bubbles, garnish with lime slice.</step>
-      <step><x:img id="jadePhoto" class="photo" src="/image/800w/jade.jpg" alt="Bubbly, light green cocktail in a champagn flute against a dark red background." /></step>
+      <step><x:img id="jadePhoto" class="photo" src="/images/800w/jade.jpg" alt="Bubbly, light green cocktail in a champagn flute against a dark red background." /></step>
     </directions>
   </recipe>
 </recipeml>
