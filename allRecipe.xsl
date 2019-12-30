@@ -41,27 +41,23 @@
 <body>
 	<xsl:call-template name="header" />
 
-    <main>
+  <main>
 
-    <article id="recipePage" class="container-fluid">
-
-    <div class="row-fluid">
+  <article id="recipePage" class="container-fluid">
 
 	<xsl:apply-templates select="r:ingredients" />
 
-    <section id="recipe" class="span6">
-    	<xsl:apply-templates select="r:directions" />
+  <section id="recipe">
+    <xsl:apply-templates select="r:directions" />
 
-        <xsl:call-template name="meta-data" />
-    </section>
+    <xsl:call-template name="meta-data" />
+  </section>
 
 	<xsl:apply-templates select="r:description" />
 
-    </div>
+  </article>
 
-    </article>
-
-    </main>
+  </main>
 
 	<xsl:call-template name="footer" />
 
@@ -81,7 +77,7 @@
 		<title>
 			<xsl:value-of select="r:head/r:title" />: <xsl:value-of select="r:head/r:categories/r:cat[@class='main']" />: Christmas Baking with SusieJ
 		</title>
-	    <meta charset="utf-8" />
+    <meta charset="utf-8" />
 
 		<!-- Create a meta tag for keywords, using the categories and
 			 subtitle. -->
@@ -102,26 +98,22 @@
 				<xsl:value-of select="normalize-space ('Christmas, baking, recipe')" />
 			</xsl:attribute>
 		</meta>
-        <meta name="viewport" content="initial-scale=1" />
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
     <!--[if IE]>
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-        <link rel="stylesheet" href="/styles/bootstrap.css" type="text/css" />
-        <link rel="stylesheet" href="/styles/bootstrap-responsive.css" type="text/css" />
-        <link rel="stylesheet" href="/styles/christmas.css" type="text/css" />
+    <link rel="stylesheet" href="../../public_html/styles/advent.css" type="text/css" />
 
-        <script src="/scripts/jquery.js"></script>
-        <script src="/scripts/socialLinks.js"></script>
-        <script src="/scripts/bootstrap.js"></script>
-        <script src="/scripts/less.js"></script>
+    <script src="/scripts/jquery.js"></script>
+    <script src="/scripts/socialLinks.js"></script>
 
-        <link rel="shortcut icon" href="/images/favicon.ico" />
-        <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
-        <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png" />
-        <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png" />
+    <link rel="shortcut icon" href="/images/favicon.ico" />
+    <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png" />
 
 	</xsl:template>
 
@@ -141,36 +133,30 @@
   -->
 	<xsl:template name="header">
     <header>
-        <h1><xsl:if test="r:meta[@name='DC.Creator']">
-            <xsl:value-of select="r:meta[@name='DC.Creator']/@content" /><xsl:text>'s </xsl:text>
-        </xsl:if>
-        <xsl:value-of select="r:head/r:title" />
-        <xsl:if test="r:head/r:subtitle">
-            <xsl:text> </xsl:text><span class="nowrap">(<xsl:value-of select="r:head/r:subtitle" />)</span><xsl:text> </xsl:text>
-        </xsl:if>
-        <span class="subtitle">Christmas Baking with SusieJ</span></h1>
-        <div class="navbar static-top">
-            <div class="navbar-inner">
-            <div class="container-fluid">
-                <ul class="nav" role="navigation">
-                <li><a href="/cgi-bin/advent.cgi">Advent calendar</a></li>
-                <li><a href="/sources.html">Sources &amp; Resources</a></li>
-                <li class="dropdown" id="baking101"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Baking 101</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="/baking101/hints.html">Beginning</a></li>
-                        <li><a href="/baking101/hints2.html">Intermediate</a></li>
-                        <li><a href="/baking101/allergies.html">Allergies</a></li>
-                        <li><a href="/baking101/bakingBig.html">Going big</a></li>
-                        <li><a href="/baking101/parchmentCircles.html">Parchment circles</a></li>
-                    </ul>
-                </li>
-                <li><a href="/guestbook.html">Disasters</a></li>
-                <li><a href="/other.html">Christmas</a></li>
-                <li><a href="/itsAllAboutTheFood/">Essays</a></li>
-                </ul>
-            </div>
-            </div>
-        </div>
+      <h1><xsl:if test="r:meta[@name='DC.Creator']">
+          <xsl:value-of select="r:meta[@name='DC.Creator']/@content" /><xsl:text>'s </xsl:text>
+      </xsl:if>
+      <xsl:value-of select="r:head/r:title" />
+      <xsl:if test="r:head/r:subtitle">
+          <xsl:text> </xsl:text><span class="nowrap">(<xsl:value-of select="r:head/r:subtitle" />)</span><xsl:text> </xsl:text>
+      </xsl:if>
+      <span class="subtitle">Christmas Baking with SusieJ</span></h1>
+      <ul class="nav" role="navigation">
+        <li><a href="/cgi-bin/advent.cgi">Advent calendar</a></li>
+        <li><a href="/sources.html">Sources &amp; Resources</a></li>
+        <li class="dropdown" id="baking101"><a class="dropdown-toggle" data-toggle="dropdown" href="/baking101/">Baking 101</a>
+            <ul class="dropdown-menu">
+                <li><a href="/baking101/hints.html">Beginning</a></li>
+                <li><a href="/baking101/hints2.html">Intermediate</a></li>
+                <li><a href="/baking101/allergies.html">Allergies</a></li>
+                <li><a href="/baking101/bakingBig.html">Going big</a></li>
+                <li><a href="/baking101/parchmentCircles.html">Parchment circles</a></li>
+            </ul>
+        </li>
+        <li><a href="/guestbook.html">Disasters</a></li>
+        <li><a href="/other.html">Christmas</a></li>
+        <li><a href="/itsAllAboutTheFood/">Essays</a></li>
+      </ul>
     </header>
 	</xsl:template>
 
@@ -212,35 +198,28 @@
    - The only data pulled from the XML file is the date from the meta tag
   -->
 	<xsl:template name="footer">
-        <footer>
-            <ul id="bottomNav" role="navigation">
-            <li><a href="/about.html">About</a></li>
-            <li class="menu-item"><a href="/submit.html">Share a Recipe</a></li>
-            <li class="menu-item"><a href="/index.xml">RSS</a></li>
-            <li><a href="http://twitter.com/ChristmasBaking">@ChristmasBaking</a></li>
-            <li><a href="http://www.cafepress.com/xmasbaking">Stuff</a></li>
-            <li><a href="http://www.cafepress.com/xmsbkgspritz">More stuff</a></li>
+    <footer>
+      <ul id="bottomNav" role="navigation">
+        <li><a href="/about.html">About</a></li>
+        <li><a href="/submit.html">Share a Recipe</a></li>
+        <li><a href="/index.xml">RSS</a></li>
+        <li><a href="http://twitter.com/ChristmasBaking">@ChristmasBaking</a></li>
+        <li><a href="http://www.cafepress.com/xmasbaking">Stuff</a></li>
+        <li><a href="http://www.cafepress.com/xmsbkgspritz">More stuff</a></li>
 
-            <li id="linksToShareParent"></li>
-            </ul>
-            <p style="clear: both" id="copyright">Please remember that typing and testing these recipes is a lot of work, as is creating and maintaining the web site. Links are always welcome. Please bake up a storm and share the results and the recipe with your friends! All other rights reserved.
-            <!-- If a meta tag (on the recipe) is a DC.Date type, print out the contents of the content
-                 attribute, formatted as a human date. -->
-            <xsl:if test="r:meta[@name='DC.Date']">
-            <br />
-            <small>Recipe last updated <xsl:value-of select="format-date (xs:date (r:meta[@name='DC.Date']/@content), '[FNn] [MNn] [D], [Y]')" /></small>
-            </xsl:if></p>
-        </footer>
+        <li id="linksToShareParent"></li>
+      </ul>
+      <p id="copyright">Copyright 1995-<xsl:value-of select="format-date (current-date(), '[Y]')" /> Susan J. Talbutt, all rights reserved. Please remember that typing and testing these recipes is a lot of work, as is creating and maintaining the web site. Links are always welcome. Please bake up a storm and share the results and the recipe with your friends! All other rights reserved.
+      <!-- If a meta tag (on the recipe) is a DC.Date type, print out the contents of the content
+           attribute, formatted as a human date. -->
+      <xsl:if test="r:meta[@name='DC.Date']">Last updated <xsl:value-of select="format-date (xs:date (r:meta[@name='DC.Date']/@content), '[FNn] [MNn] [D], [Y]')" /></xsl:if>
+      </p>
+    </footer>
 	</xsl:template>
 
 	<xsl:template match="r:ingredients">
-	<section id="ingredientsAndEquipment" class ="span3">
-        <h2>Measurements
-
-		<!-- Alternate measurements -->
-<!--
-		<xsl:value-of select="substring (@id, string-length(@id) - 1, 2)" />
- -->
+	<section id="ingredientsAndEquipment">
+    <h2>Measurements
 		<xsl:choose>
 			<xsl:when test="../@system = 'US'">
 				<xsl:choose>
@@ -355,7 +334,7 @@
 
 	<!-- The History section -->
 	<xsl:template match="r:description">
-        <sidebar id="history" class="span3 hidden-phone">
+        <sidebar id="history">
 			<xsl:apply-templates />
         </sidebar>
 	</xsl:template>
