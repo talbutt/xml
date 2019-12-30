@@ -351,11 +351,11 @@
 
 	<!-- Block-level elements used in multiple places -->
 	<xsl:template match="r:note[@type='variation']">
-		<p class="variation"><strong><xsl:value-of select="@title" />:</strong> <xsl:apply-templates /></p>
+		<p class="variation"><strong><xsl:value-of select="@title" />: </strong> <xsl:apply-templates /></p>
 	</xsl:template>
 
 	<xsl:template match="r:note">
-		<p class="note"><strong>Note:</strong> <xsl:value-of select="."/></p>
+		<p class="note"><strong>Note: </strong> <xsl:value-of select="."/></p>
 	</xsl:template>
 
 	<xsl:template match="r:title">
