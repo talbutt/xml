@@ -22,18 +22,19 @@
 
 	<!--
 		Main Category grouping: breads, cakes, etc.
+		Not sure why this doesn't use the indexPage template other than categorIEs.html
 	 -->
 	<xsl:template match="r:recipeml" mode="category">
 	<xsl:result-document href="categories.html" >
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 		<xsl:call-template name="htmlHead" />
-<body>
+<body class="listing">
   <xsl:call-template name="header">
     <xsl:with-param name="category" select="'main'" as="xs:string" />
   </xsl:call-template>
 
 	<main>
-	<article class="container-fluid">
+	<article id="categoryListing">
     <xsl:call-template name="categoryListing">
       <xsl:with-param name="category" select="'main'" as="xs:string" />
     </xsl:call-template>
@@ -138,15 +139,15 @@
     <xsl:result-document href="{$category}s.html" >
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 		<xsl:call-template name="htmlHead" />
-<body>
-		<xsl:call-template name="header">
-      <xsl:with-param name="category" select="$category" as="xs:string" />
-    </xsl:call-template>
+<body class="listing">
+  <xsl:call-template name="header">
+    <xsl:with-param name="category" select="$category" as="xs:string" />
+  </xsl:call-template>
 
 	<main>
-	<article class="container-fluid">
+	<article id="categoryListing">
     <xsl:call-template name="categoryListing">
-        <xsl:with-param name="category" select="$category" as="xs:string" />
+      <xsl:with-param name="category" select="$category" as="xs:string" />
     </xsl:call-template>
 	</article>
 	</main>
@@ -157,36 +158,32 @@
 	</xsl:result-document>
   </xsl:template>
 
-
-    <xsl:template name="categoryListing">
-        <xsl:param name="category" as="xs:string" required="yes" />
-	    <xsl:variable name="oneYearAgo" select="current-date() - xdt:yearMonthDuration('P1Y1M')" />
-        <xsl:for-each-group select="r:recipe" group-by="r:head/r:categories/r:cat[@class=$category]">
-            <xsl:sort select="current-grouping-key()" />
-
-            <h2><a name="{current-grouping-key()}"></a><xsl:value-of select="current-grouping-key()" /></h2>
-
-            <ul>
-            <!--
-            Title/subtitle sort
-             -->
-            <xsl:for-each select="current-group()" >
-                <xsl:sort select="r:head/r:title" />
-                <xsl:variable name="listItemClass">
-                  <xsl:choose>
-                    <xsl:when test="xs:date (r:meta[@name='DC.Date']/@content) >= $oneYearAgo">new</xsl:when>
-                    <xsl:otherwise>old</xsl:otherwise>
-                  </xsl:choose>
-                </xsl:variable>
-                <li class="{$listItemClass}"><a href="{@id}.html"><xsl:value-of select="r:head/r:title" /></a>
-                <xsl:if test="r:head/r:source">
-                    from <xsl:value-of select="r:head/r:source" />
-                </xsl:if>
-                </li>
-            </xsl:for-each>
-            </ul>
-        </xsl:for-each-group>
-    </xsl:template>
+  <xsl:template name="categoryListing">
+    <xsl:param name="category" as="xs:string" required="yes" />
+    <xsl:variable name="oneYearAgo" select="current-date() - xdt:yearMonthDuration('P1Y1M')" />
+    <xsl:for-each-group select="r:recipe" group-by="r:head/r:categories/r:cat[@class=$category]">
+      <xsl:sort select="current-grouping-key()" />
+      <section id="{current-grouping-key()}">
+        <h2><a name="{current-grouping-key()}"></a><xsl:value-of select="current-grouping-key()" /></h2>
+        <ul>
+        <xsl:for-each select="current-group()" >
+          <xsl:sort select="r:head/r:title" />
+          <xsl:variable name="listItemClass">
+          <xsl:choose>
+            <xsl:when test="xs:date (r:meta[@name='DC.Date']/@content) >= $oneYearAgo">new</xsl:when>
+            <xsl:otherwise>old</xsl:otherwise>
+          </xsl:choose>
+          </xsl:variable>
+          <li class="{$listItemClass}"><a href="{@id}.html"><xsl:value-of select="r:head/r:title" /></a>
+          <xsl:if test="r:head/r:source">
+            from <xsl:value-of select="r:head/r:source" />
+          </xsl:if>
+          </li>
+        </xsl:for-each>
+        </ul>
+      </section>
+    </xsl:for-each-group>
+  </xsl:template>
 
 <!--
    - Standard footer
