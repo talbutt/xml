@@ -13265,4 +13265,93 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
       </step>
     </directions>
   </recipe>
+
+  <recipe id="buttercream_m" system="metric">
+    <meta content="2020-01-04" name="DC.Date"/>
+    <head>
+      <title>American Buttercream</title>
+      <categories>
+        <cat class="main">Cakes</cat>
+        <cat class="region">America</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Gluten-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>A variation on the basic decorator's icing. The butter improves the flavor, and the shortening keeps it stable at higher temperatures. There are many ways to change up this recipes; a few are listed below.</x:p>
+      <x:p>This should be enough for a two-layer cake, or two dozen cupcakes.</x:p>
+    </description>
+    <ingredients system="metric">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>110</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+
+          <!--1/2 c butter (1 stick), softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>100</qty>
+            <unit>g</unit>
+          </amt>
+          <item>shortening</item>
+
+          <!--1/2 c shortening-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+
+          <!--1/4 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla extract</item>
+
+          <!--1 tsp vanilla extract-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3</qty>
+            <unit>Tb</unit>
+          </amt>
+          <item>warm water</item>
+
+          <!--3 Tbs warm water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>460</qty>
+            <unit>g</unit>
+          </amt>
+          <item>powdered sugar</item>
+          <prep>sifted</prep>
+
+          <!--4 c powdered sugar, sifted-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream together the butter and shortening on high speed, until light and fluffy. It should be a consistent texture, with no flecks of butter or shortening. Scrape down the bowl.</step>
+      <step>In a small bowl or tea cup, mix together the salt, vanilla extract, and water until the salt dissolves. While beating on high speed, dd the liquid to the butter a teaspoon at a time, waiting until the liquid is completely absorbed before adding the next teaspoon. Scrape down the sides of the bowl.</step>
+      <step>On the lowest mixer speed, and using a pouring shield if you have one, add the sifted powdered sugar a tablespoon at a time, beating until incorporated. After a few additions of powdered sugar, the mixture will have lost all volume be clumped in the bottom of the bowl. When the sugar is incorporated, briefly increase the mixer speed to medium or medium high and beat again to a light and fluffy stage, about 30 seconds.</step>
+      <step>Once all the sugar is incorporated, scrape down the bowl again, and beat on high until fluffy and tripled in volume. This is an important step to make sure you have enough icing to cover everything.</step>
+      <step>If the texture is too firm to spread, beat in up to an extra tablespoon of water, one teaspoonful at a time.</step>
+      <note title="Chocolate" type="variation">Sift together <ing><amt><qty>350</qty> <unit>g</unit></amt> <item>powdered sugar</item></ing> and <ing><amt><qty>90</qty> <unit>g</unit> </amt><item>cocoa</item></ing>, and increase the liquid to 6 Tablespoons. Using coffee instead of water is even tastier.</note>
+      <note title="Coffee" type="variation">Substitute cooled, strong coffee or espresso for the water. Using decaf ensures any children eating the icing will only be on a sugar high.</note>
+      <note title="Lemon" type="variation">Substitute lemon juice for the water, and lemon extract for the vanilla extract.</note>
+      <note title="Raspberry" type="variation">Substitute raspberry Italian syrup (e.g. Torani), for the water.</note>
+    </directions>
+  </recipe>
 </recipeml>
