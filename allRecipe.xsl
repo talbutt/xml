@@ -105,7 +105,7 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" href="../../public_html/styles/advent.css" type="text/css" />
+    <link rel="stylesheet" href="/styles/advent.css" type="text/css" />
 
     <script src="/scripts/jquery.js"></script>
     <script src="/scripts/socialLinks.js"></script>
@@ -271,7 +271,7 @@
 		<xsl:apply-templates select="r:item" />
 		<xsl:text> </xsl:text>
 		<xsl:if test="@optional = 'yes'">
-			<xsl:text> (optional) </xsl:text>
+			<xsl:text> (optionally) </xsl:text>
 		</xsl:if>
 	</xsl:template>
 
