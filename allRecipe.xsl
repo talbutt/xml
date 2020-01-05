@@ -43,7 +43,7 @@
 
   <main>
 
-  <article id="recipePage" class="container-fluid">
+  <article id="recipePage">
 
 	<xsl:apply-templates select="r:ingredients" />
 
@@ -140,7 +140,7 @@
       <xsl:if test="r:head/r:subtitle">
           <xsl:text> </xsl:text><span class="nowrap">(<xsl:value-of select="r:head/r:subtitle" />)</span><xsl:text> </xsl:text>
       </xsl:if>
-      <span class="subtitle">Christmas Baking with SusieJ</span></h1>
+      <span class="subtitle"> Christmas Baking with SusieJ</span></h1>
       <ul class="nav" role="navigation">
         <li><a href="/cgi-bin/advent.cgi">Advent calendar</a></li>
         <li><a href="/sources.html">Sources &amp; Resources</a></li>
@@ -212,7 +212,7 @@
       <p id="copyright">Copyright 1995-<xsl:value-of select="format-date (current-date(), '[Y]')" /> Susan J. Talbutt, all rights reserved. Please remember that typing and testing these recipes is a lot of work, as is creating and maintaining the web site. Links are always welcome. Please bake up a storm and share the results and the recipe with your friends! All other rights reserved.
       <!-- If a meta tag (on the recipe) is a DC.Date type, print out the contents of the content
            attribute, formatted as a human date. -->
-      <xsl:if test="r:meta[@name='DC.Date']">Last updated <xsl:value-of select="format-date (xs:date (r:meta[@name='DC.Date']/@content), '[FNn] [MNn] [D], [Y]')" /></xsl:if>
+      <xsl:if test="r:meta[@name='DC.Date']">Last updated <xsl:value-of select="format-date (xs:date (r:meta[@name='DC.Date']/@content), '[FNn], [MNn] [D], [Y]')" /></xsl:if>
       </p>
     </footer>
 	</xsl:template>

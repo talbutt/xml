@@ -114,7 +114,7 @@
       <xsl:if test="$category != 'main'">
       by <xsl:value-of select="$category" />
       </xsl:if>
-      <span class="subtitle">Christmas Baking with SusieJ</span></h1>
+      <span class="subtitle"> Christmas Baking with SusieJ</span></h1>
       <ul class="nav" role="navigation">
         <li><a href="/cgi-bin/advent.cgi">Advent calendar</a></li>
         <li><a href="/sources.html">Sources &amp; Resources</a></li>
@@ -205,7 +205,7 @@
 
         <li id="linksToShareParent"></li>
       </ul>
-      <p id="copyright">Copyright 1995-<xsl:value-of select="format-date (current-date(), '[Y]')" /> Susan J. Talbutt, all rights reserved. Please remember that typing and testing these recipes is a lot of work, as is creating and maintaining the web site. Links are always welcome. Please bake up a storm and share the results and the recipe with your friends! All other rights reserved. Last updated <xsl:value-of select="format-date (current-date(), '[FNn] [MNn] [D], [Y]')" /></p>
+      <p id="copyright">Copyright 1995-<xsl:value-of select="format-date (current-date(), '[Y]')" /> Susan J. Talbutt, all rights reserved. Please remember that typing and testing these recipes is a lot of work, as is creating and maintaining the web site. Links are always welcome. Please bake up a storm and share the results and the recipe with your friends! All other rights reserved. Last updated <xsl:value-of select="format-date (current-date(), '[FNn], [MNn] [D], [Y]')" /></p>
     </footer>
 	</xsl:template>
 
