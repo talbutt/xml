@@ -109,13 +109,9 @@
       <step>Bake the cakes for about half an hour, and cool.</step>
       <step>Fill and cover with <x:a href="cream_cheese_icing.html">cream cheese icing</x:a>.</step>
 
-      <note type="variation" title="Plain spice cake">Instead of pumpkin puree, increase the<ing>
-          <item>milk</item> to
-          <amt>
-            <qty>250</qty>
-            <unit>ml</unit>
-          </amt>
-        </ing>.</note>
+      <note type="variation" title="Pumpkin spice latte cake">Fill and cover with <x:a href="buttercream.html">coffee buttercream icing</x:a>, and dust with a bit of cinnamon.</note>
+
+      <note type="variation" title="Plain spice cake">Instead of pumpkin puree, increase the <ing><item>milk</item> to <amt><qty>250</qty> <unit>ml</unit></amt></ing>.</note>
     </directions>
   </recipe>
 </recipeml>

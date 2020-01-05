@@ -1,5 +1,8 @@
 # Output
-
 html
-
 *.html
+
+# MacGourmet
+recipeml.dtd
+recipeml2macgourmet.xsl
+

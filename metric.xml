@@ -12953,6 +12953,10 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
       <step>Divide the batter between the two pans.</step>
       <step>Bake the cakes for about half an hour, and cool.</step>
       <step>Fill and cover with <x:a href="cream_cheese_icing_a.html">cream cheese icing</x:a>.</step>
+
+      <note type="variation" title="Pumpkin spice latte cake">Fill and cover with <x:a href="buttercream.html">coffee buttercream icing</x:a>, and dust with a bit of cinnamon.</note>
+
+      <note type="variation" title="Plain spice cake">Instead of pumpkin puree, increase to <ing><item>milk</item> <amt><qty>1</qty> <unit>c</unit></amt></ing>.</note>
     </directions>
   </recipe>
 
