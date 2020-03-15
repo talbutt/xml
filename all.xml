@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.christmas-baking.com/recipeml.dtd">
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://chocolate.christmas-baking.com/recipeml.dtd">
 <?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
 <recipeml version="0.5"
           xmlns="http://www.christmas-baking.com/recipeml.dtd"
@@ -12497,4 +12497,111 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
       <note type="variation" title="Raspberry">Substitute raspberry Italian syrup (e.g. Torani), for the water.</note>
     </directions>
   </recipe>
+
+  <recipe id="muffin">
+    <meta content="2020-03-01" name="DC.Date"/>
+    <head>
+      <title>Muffins, with variations</title>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="sub">Quick</cat>
+        <cat class="region">America</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Simple and tasty recipes with near-infinite variations are one of my favorites. This recipe relies on ingredients always in the pantry, and can be changed up with whatever extras you have on hand. Making muffin batter requires only knowing how to measure, and to mix. The recipe is easily doubled.</x:p>
+      <x:p>If your muffins tend to burn on the bottom before the muffins have completely baked, aluminum liners will protect the bottoms. Because I hate waste, I also use the paper liners between the aluminum ones. When baking for company, I use all aluminum to prevent burning. The aluminum are also easier to peel off fresh-from-the-oven, still-hot muffins, and won't have big pieces of muffin stuck to them.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>flour</item>
+          <!--2 cups flour-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>sugar</item>
+          <!--3/4 cup sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>baking powder</item>
+          <!--2 tsp baking powder-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>salt</item>
+          <!--1/2 tsp salt-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <prep>lightly beaten</prep>
+          <!--1 egg, lightly beaten-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>3/4</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>milk</item>
+          <!--3/4 cup milk-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+          <!--1 tsp vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/2</qty>
+            <unit>cup</unit>
+          </amt>
+          <item>butter</item>
+          <prep>melted and slightly cooled</prep>
+          <!--1/2 cup of butter, melted and slightly cooled-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Preheat the oven to <temp><qty>400</qty><tempunit system="US" unit="F">degrees</tempunit><!--400  degrees--></temp>. Line a muffin tin with muffin liners.</step>
+
+      <step>Whisk together the flour, sugar, baking powder, salt, and any other dry ingredients in a bowl. In a measuring cup or small bowl, whisk together the egg, milk, vanilla, melted butter, and any other liquid ingredients. Pour the liquid ingredients into the dry, and quickly mix just until the dry ingredients are incorporated. Lumps are okay. Quickly but carefully, fold in any large ingredients, like chips or fruit.</step>
+
+      <step>Bake 20 to 25 minutes.</step>
+
+      <note type="variation" title="Corn">Substitute <ing><amt><qty>1</qty> <unit>cup</unit></amt> <item>corn meal</item></ing> for <ing><amt><qty>1</qty> <unit>cup</unit></amt> <item>flour</item></ing>, and omit the vanilla extract.</note>
+
+      <note type="variation" title="Blueberry">Fold <ing><amt><qty>1 1/2</qty> <unit>cups</unit></amt> <item>blueberries</item></ing> (fresh or defrosted) into the batter. Each muffin cup will have a little extra batter in it.</note>
+
+      <note type="variation" title="Lemon poppy seed">Whisk in <ing><amt><qty>2</qty> <unit>Tbs</unit></amt> <item>poppy seeds</item></ing> with the flour. Substitute <ing><amt><qty>2</qty> <unit>tsp</unit></amt> <item>lemon extract</item></ing> for the vanilla, or add the zest of <ing><amt><qty>2</qty></amt> <item>lemons</item></ing> to the flour.</note>
+
+      <note type="variation" title="Chocolate chip">Substitute an equal amount of brown sugar for the sugar. Fold <ing><amt><qty>1</qty> <unit>cup</unit></amt> <item>chocolate chips</item></ing> into the batter.</note>
+
+      <note type="variation" title="Cranberry orange">Add an additional <ing><amt><qty>1/4</qty> <unit>cup</unit></amt> <item>sugar</item></ing> to the dry ingredients. Substitute <ing><amt><qty>2</qty> <unit>tsp</unit></amt> <item>orange extract</item></ing> for the vanilla, or add the zest of <ing><amt><qty>1</qty></amt> <item>orange</item></ing> to the dry ingredients. Fold <ing><amt><qty>1 1/2</qty> <unit>cups</unit></amt> <item>cranberries</item></ing> (fresh or defrosted) into the batter. Each muffin cup will have a little extra batter in it.</note>
+
+      <note type="variation" title="Savory cheesy-corn">Reduce to <ing><amt><qty>1/4</qty> <unit>cup</unit></amt> <item>sugar</item></ing>. Substitute <ing><amt><qty>1</qty> <unit>cup</unit></amt> <item>corn meal</item></ing> for <ing><amt><qty>1</qty> <unit>cup</unit></amt> <item>flour</item></ing>, and omit the vanilla extract. Fold <ing><amt><qty>2</qty> <unit>oz</unit></amt> <item>grated cheddar cheese</item></ing> and <ing><amt><qty>2</qty> <unit>oz</unit></amt> <item>grated Monterey Jack cheese</item></ing> into the batter. Each muffin cup will have a little extra batter in it.</note>
+
+      <note type="variation" title="Giant muffins">Use a tin for six double-size muffins, and bake 25 to 30 minutes.</note>
+    </directions>
+  </recipe>
+
 </recipeml>

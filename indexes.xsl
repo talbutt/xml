@@ -1,81 +1,81 @@
 <xsl:stylesheet
-	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-	xmlns:r="http://www.christmas-baking.com/recipeml.dtd"
-	xmlns:x="http://www.w3.org/1999/xhtml"
-	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	xmlns:xdt="http://www.w3.org/2005/04/xpath-datatypes"
-	exclude-result-prefixes="r x xs"
-	xmlns="http://www.w3.org/1999/xhtml"
-	version="2.0">
-	<xsl:output method="xhtml"
-	            indent="yes"
-	            doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
-	            doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" />
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:r="http://www.christmas-baking.com/recipeml.dtd"
+  xmlns:x="http://www.w3.org/1999/xhtml"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:xdt="http://www.w3.org/2005/04/xpath-datatypes"
+  exclude-result-prefixes="r x xs"
+  xmlns="http://www.w3.org/1999/xhtml"
+  version="2.0">
+  <xsl:output method="xhtml"
+              indent="yes"
+              doctype-public="-//W3C//DTD XHTML 1.0 Strict//EN"
+              doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd" />
 
-	<xsl:template match="/" >
-	<xsl:apply-templates mode="category" />
-	<xsl:apply-templates mode="region" />
-	<xsl:apply-templates mode="diet" />
-	<!-- Use variables for the types of node to find, and the filename & header
-	-->
-	</xsl:template>
+  <xsl:template match="/" >
+  <xsl:apply-templates mode="category" />
+  <xsl:apply-templates mode="region" />
+  <xsl:apply-templates mode="diet" />
+  <!-- Use variables for the types of node to find, and the filename & header
+  -->
+  </xsl:template>
 
-	<!--
-		Main Category grouping: breads, cakes, etc.
-		Not sure why this doesn't use the indexPage template other than categorIEs.html
-	 -->
-	<xsl:template match="r:recipeml" mode="category">
-	<xsl:result-document href="categories.html" >
+  <!--
+    Main Category grouping: breads, cakes, etc.
+    Not sure why this doesn't use the indexPage template other than categorIEs.html
+   -->
+  <xsl:template match="r:recipeml" mode="category">
+  <xsl:result-document href="categories.html" >
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-		<xsl:call-template name="htmlHead" />
+    <xsl:call-template name="htmlHead" />
 <body class="listing">
   <xsl:call-template name="header">
     <xsl:with-param name="category" select="'main'" as="xs:string" />
   </xsl:call-template>
 
-	<main>
-	<article id="categoryListing">
+  <main>
+  <article id="categoryListing">
     <xsl:call-template name="categoryListing">
       <xsl:with-param name="category" select="'main'" as="xs:string" />
     </xsl:call-template>
-	</article>
-	</main>
+  </article>
+  </main>
 
-	<xsl:call-template name="footer" />
+  <xsl:call-template name="footer" />
 
 </body>
 </html>
 
-	</xsl:result-document>
-	</xsl:template>
+  </xsl:result-document>
+  </xsl:template>
 
 
-	<!--
-		Region grouping
-	 -->
-	<xsl:template match="r:recipeml" mode="region">
-		<xsl:call-template name="indexPage">
+  <!--
+    Region grouping
+   -->
+  <xsl:template match="r:recipeml" mode="region">
+    <xsl:call-template name="indexPage">
       <xsl:with-param name="category" select="'region'" as="xs:string" />
     </xsl:call-template>
-	</xsl:template>
+  </xsl:template>
 
 
-	<!--
-		Special diets: egg-free, dairy-free
-	 -->
-	<xsl:template match="r:recipeml" mode="diet">
-		<xsl:call-template name="indexPage">
+  <!--
+    Special diets: egg-free, dairy-free
+   -->
+  <xsl:template match="r:recipeml" mode="diet">
+    <xsl:call-template name="indexPage">
       <xsl:with-param name="category" select="'diet'" as="xs:string" />
     </xsl:call-template>
-	</xsl:template>
+  </xsl:template>
 
 
 
-	<!--
-	Head section of the html file
-	 -->
-	<xsl:template name="htmlHead">
-		<title>Christmas Baking with SusieJ: Recipes</title>
+  <!--
+  Head section of the html file
+   -->
+  <xsl:template name="htmlHead">
+    <title>Christmas Baking with SusieJ: Recipes</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="initial-scale=1" />
 
@@ -91,7 +91,7 @@
     <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-72x72.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-114x114.png" />
-	</xsl:template>
+  </xsl:template>
 
 <!--
    - Site-specific header.
@@ -107,7 +107,7 @@
    - I use the subtitle node as an alternate name, although this might be
    - better represented in meta tags.
   -->
-	<xsl:template name="header">
+  <xsl:template name="header">
     <xsl:param name="category" as="xs:string" required="no" />
     <header>
       <h1>Recipes
@@ -132,30 +132,30 @@
         <li><a href="/itsAllAboutTheFood/">Essays</a></li>
       </ul>
     </header>
-	</xsl:template>
+  </xsl:template>
 
   <xsl:template name="indexPage">
     <xsl:param name="category" as="xs:string" required="yes" />
     <xsl:result-document href="{$category}s.html" >
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
-		<xsl:call-template name="htmlHead" />
+    <xsl:call-template name="htmlHead" />
 <body class="listing">
   <xsl:call-template name="header">
     <xsl:with-param name="category" select="$category" as="xs:string" />
   </xsl:call-template>
 
-	<main>
-	<article id="categoryListing">
+  <main>
+  <article id="categoryListing">
     <xsl:call-template name="categoryListing">
       <xsl:with-param name="category" select="$category" as="xs:string" />
     </xsl:call-template>
-	</article>
-	</main>
+  </article>
+  </main>
 
-	<xsl:call-template name="footer" />
+  <xsl:call-template name="footer" />
 </body>
 </html>
-	</xsl:result-document>
+  </xsl:result-document>
   </xsl:template>
 
   <xsl:template name="categoryListing">
@@ -193,7 +193,7 @@
    - Cafe Press link
    - Last updated date
   -->
-	<xsl:template name="footer">
+  <xsl:template name="footer">
     <footer>
       <ul id="bottomNav" role="navigation">
         <li><a href="/about.html">About</a></li>
@@ -207,12 +207,12 @@
       </ul>
       <p id="copyright">Copyright 1995-<xsl:value-of select="format-date (current-date(), '[Y]')" /> Susan J. Talbutt, all rights reserved. Please remember that typing and testing these recipes is a lot of work, as is creating and maintaining the web site. Links are always welcome. Please bake up a storm and share the results and the recipe with your friends! All other rights reserved. Last updated <xsl:value-of select="format-date (current-date(), '[FNn], [MNn] [D], [Y]')" /></p>
     </footer>
-	</xsl:template>
+  </xsl:template>
 
-	<xsl:template match="r:head/r:title|r:head/r:subtitle">
-		<li>
-		<xsl:value-of select="." />
-		</li>
-	</xsl:template>
+  <xsl:template match="r:head/r:title|r:head/r:subtitle">
+    <li>
+    <xsl:value-of select="." />
+    </li>
+  </xsl:template>
 
 </xsl:stylesheet>
