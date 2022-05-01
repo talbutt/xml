@@ -3811,6 +3811,7 @@ of the milk and heat until steaming. Pour into mugs and serve.</step>
       <categories>
         <cat class="main">Cookies</cat>
         <cat class="region">Germany</cat>
+        <cat class="diet">Dairy-free</cat>
       </categories>
     </head>
     <description><x:p>Translations often call Lebkuchen gingerbread, although some recipes, like this one, have no ginger. These are an easy, chewy, spicy bar cookie. (I've made Marth Stewart's gingerbread, and trust me, this is easier!). Modern Lebkuchen are baked on Backoblaten (which remind me of nothing so much as large communion wafers), and traditional Lebkuchen in molds with inedible paper cutouts (such as St. Nicolaus) applied to the top.</x:p>
@@ -5997,7 +5998,7 @@ the desired consistency. Mix in twigs, leaves, worms or grass if desired.</step>
     </directions>
   </recipe>
   <recipe id="rum_balls">
-  <meta content="1998-12-01" name="DC.Date"/>
+  <meta content="2006-01-08" name="DC.Date"/>
   <meta content="Mom" name="DC.Creator"/>
     <head>
       <title>Rum Balls</title>
@@ -6009,36 +6010,28 @@ the desired consistency. Mix in twigs, leaves, worms or grass if desired.</step>
     </head>
     <description><x:p>Baking teaches many things. These cookies, for example, taught me to ask every person about food allergies, after poisoning a friend who is allergic to nuts. He's fine, but had an unpleasant after-Christmas party.</x:p>
 
-<x:p>These are the most popular cookie every year, and are extremely simple, requiring no baking at all.</x:p>
+    <x:p>These are the most popular cookie every year, and are extremely simple, requiring no baking at all.</x:p>
 
-<x:p>Once you've mastered these, try the more sophisticated B-52 Balls.</x:p></description>
-    <ingredients>
+    <x:p>Once you've mastered these, try the more sophisticated B-52 Balls.</x:p></description>
+    <ingredients system="US">
       <ing-div>
+	  	<title>Dough</title>
+        <ing>
+<!--1 c. ground pecans-->
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>walnuts</item>
+<!--1 c. ground walnuts-->
+        </ing>
         <ing>
           <amt>
             <qty>1</qty>
             <unit>c</unit>
           </amt>
-          <item>crushed vanilla wafers</item>
+          <item>vanilla wafers</item>
 <!--1 c. crushed vanilla wafers-->
-        </ing>
-        <ing>
-          <alt-ing>
-            <amt>
-              <qty>1</qty>
-              <unit>c</unit>
-            </amt>
-            <item>ground pecans</item>
-<!--1 c. ground pecans-->
-          </alt-ing>
-          <alt-ing>
-            <amt>
-              <qty>1</qty>
-              <unit>c</unit>
-            </amt>
-            <item>ground walnuts</item>
-<!--1 c. ground walnuts-->
-          </alt-ing>
         </ing>
         <ing>
           <amt>
@@ -6068,33 +6061,34 @@ the desired consistency. Mix in twigs, leaves, worms or grass if desired.</step>
 <!--1 1/2 to 2 1/2 Tb corn syrup-->
         </ing>
         <ing>
-          <alt-ing>
-            <amt>
-              <qty>1/4</qty>
-              <unit>c</unit>
-            </amt>
-            <item>rum</item>
+          <amt>
+            <qty>1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>rum</item>
 <!--1/4 c. rum-->
-          </alt-ing>
-          <alt-ing>
-            <amt>
-              <qty>1/4</qty>
-              <unit>c</unit>
-            </amt>
-            <item>bourbon</item>
 <!--1/4 c. bourbon-->
-          </alt-ing>
         </ing>
+      </ing-div>
+      <ing-div>
+	  	<title>Sugar for dusting</title>
         <ing>
-          <item>extra confectioners sugar </item>
+          <amt>
+            <qty>1</qty>
+            <unit>c</unit>
+          </amt>
+          <item>confectioners sugar</item>
 <!--extra confectioners sugar -->
         </ing>
       </ing-div>
     </ingredients>
     <directions>
-      <step>Grind the nuts in a food processor until very finely chopped. This will take a minute or minute and a half.</step>
-      <step>Mix crushed (fine, but not to a powder!) cookies, nuts, sugar and cocoa. Add combined syrup and rum. Let sit for a few days in the refrigerator; the dough improves with age.</step>
-      <step>Shape into 3/4-inch diameter balls and roll in confectioners sugar.</step>
+      <step>Grind the nuts in a food processor until very finely chopped. This will take a minute or minute and a half. Mix crushed (fine, but not to a powder!) cookies, nuts, <ing><amt><qty>1</qty> <unit>c</unit></amt> <item>confectioners sugar</item></ing> and cocoa. Add combined syrup and rum. Mix together with your hands until it can be compressed into a ball. If the dough is too crumbly, add more corn syrup a teaspoon at a time.</step>
+      <step>The dough can be made completely in the food processor. Start by grinding the nuts, then add the wafers and pulse to break them up. Add the cocoa and <ing><amt><qty>1</qty> <unit>c</unit></amt> <item>confectioners sugar</item></ing>, sifted if desired, and pulse until the cocoa is evenly distributed. Add the rum and corn syrup, and process on low speed until the mixture comes together. If the misture doesn't come together, add more corn syrup one teaspoon at a time.</step>
+      <step>Smush the mixture together tightly into a ball or disk, and wrap in plastic wrap or store in an airtight container. Let sit for a few days in the refrigerator; the dough improves with age.</step>
+      <step>Pinch off a piece of dough, and compact it into a rough ball shape, about <size><qty>3/4</qty> <unit>inch</unit></size> in diameter. The dough will want to stick to your hands more than itself. Roll between your palms to smooth out. Roll in confectioners sugar. Store in an airtight container.</step>
+
+      <note type="variation" title="Bourbon balls">Substitute pecans for the walnuts, and bourbon for the rum..</note>
     </directions>
   </recipe>
   <recipe id="scones">
@@ -12562,7 +12556,7 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
           <item>milk</item>
           <!--3/4 cup milk-->
         </ing>
-        <ing>
+        <ing optional="yes">
           <amt>
             <qty>1</qty>
             <unit>tsp</unit>
@@ -12598,10 +12592,164 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
 
       <note type="variation" title="Cranberry orange">Add an additional <ing><amt><qty>1/4</qty> <unit>cup</unit></amt> <item>sugar</item></ing> to the dry ingredients. Substitute <ing><amt><qty>2</qty> <unit>tsp</unit></amt> <item>orange extract</item></ing> for the vanilla, or add the zest of <ing><amt><qty>1</qty></amt> <item>orange</item></ing> to the dry ingredients. Fold <ing><amt><qty>1 1/2</qty> <unit>cups</unit></amt> <item>cranberries</item></ing> (fresh or defrosted) into the batter. Each muffin cup will have a little extra batter in it.</note>
 
+      <note type="variation" title="Orange cardamon">Whisk in <ing><amt><qty>1</qty> <unit>tsp</unit></amt> <item>cardamon</item></ing> and the zest of <ing><amt><qty>1</qty> </amt> <item>orange</item></ing> with the flour.</note>
+
       <note type="variation" title="Savory cheesy-corn">Reduce to <ing><amt><qty>1/4</qty> <unit>cup</unit></amt> <item>sugar</item></ing>. Substitute <ing><amt><qty>1</qty> <unit>cup</unit></amt> <item>corn meal</item></ing> for <ing><amt><qty>1</qty> <unit>cup</unit></amt> <item>flour</item></ing>, and omit the vanilla extract. Fold <ing><amt><qty>2</qty> <unit>oz</unit></amt> <item>grated cheddar cheese</item></ing> and <ing><amt><qty>2</qty> <unit>oz</unit></amt> <item>grated Monterey Jack cheese</item></ing> into the batter. Each muffin cup will have a little extra batter in it.</note>
 
       <note type="variation" title="Giant muffins">Use a tin for six double-size muffins, and bake 25 to 30 minutes.</note>
     </directions>
   </recipe>
+
+  <recipe id="pretzel_rolls_a" system="US">
+    <meta content="2022-04-24" name="DC.Date"/>
+    <head>
+      <title>Pretzel rolls</title>
+      <subtitle>Laugenweckle</subtitle>
+      <categories>
+        <cat class="main">Bread</cat>
+        <cat class="region">Germany, Schwabia</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Pretzel rolls might be the hot thing in America now, but they originated around Stuttgart, Germany, where they are eaten for breakfast and at the light dinner called "Vesper". These were a favorite of my mother with butter and honey, and I would often bring a couple home from trips for her. I only regret not trying to bake these before she passed, because it is a straightforward recipe. The dough can also be formed into a traditional pretzel shape, or sticks.</x:p>
+      <x:p>A slow rise gives the rolls that traditional bread flavor, and a little butter softens the texture.</x:p>
+      <x:p>Traditionally, pretzels are soaked quickly in a lye (caustic soda) solution before baking. The alkaline water changes the outer skin of the dough, giving pretzels their traditional color and flavor. As we don't want any trips to the emergency room, we'll use a simmering baking-soda bath instead.</x:p>
+      <x:p>Germans use "Type 550" flour; I've substituted half and half bread and unbleached flour.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <title>Dough</title>
+        <ing>
+          <amt>
+            <qty>1 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>bread flour</item>
+          <prep>(if not using bread flour, double the amount of unbleached flour; bread flour is a little denser)</prep>
+
+          <!--250 g bread flour (if not using bread flour, double the amount of unbleached flour; bread flour is a little denser)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 3/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>unbleached flour</item>
+
+          <!--250 g unbleached flour-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>1 1/3</q1>
+              <q2>2 2/3</q2>
+            </range>
+            <unit>Tbs</unit>
+          </amt>
+          <item>butter</item>
+
+          <!--20g - 40g butter, softened, cut into small pieces-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>lukewarm water</item>
+
+          <!--300 ml lukewarm water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>pkg dry yeast</item>
+
+          <!--1 pkg dry yeast-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>honey</item>
+
+          <!--1 Tbs honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>salt</item>
+
+          <!--1 Tbs salt-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Soaking solution</title>
+        <ing>
+          <amt>
+            <qty>4 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>water</item>
+
+          <!--1 L water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>baking soda</item>
+
+          <!--2 Tbs baking soda-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Salting</title>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>pretzel salt</item>
+
+            <!--1 Tbs pretzel salt-->
+          </alt-ing>
+          <alt-ing>
+            <item>kosher salt</item>
+
+            <!--kosher salt-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <dir-div>
+        <title>The first day</title>
+        <step>Stir the flours together and work the butter into the mix (let the mixer run on low speed for a couple minutes, or use your fingers to rub the butter in).</step>
+        <step>To the warm water, add the yeast, honey, and salt, and stir to dissolve.</step>
+        <step>Mix the water into the flour until a dough forms.</step>
+        <step>Knead until the dough is smooth and elastic.</step>
+        <step>Place the dough into a large bowl or other container and cover. Allow to rise for half an hour to an hour before moving it into the refrigerator for a slower rise to develop flavor.</step>
+      </dir-div>
+      <dir-div>
+        <title>The second day</title>
+        <step>Line two baking trays with parchment paper. Place one tray next to where you will simmer the rolls before baking. Place the second tray next to where you will knead and form the rolls, and lightly flour the parchment paper. Lightly flour your work surface.</step>
+        <step>Divide the dough into eight pieces before kneading. Place the the dough onto the work surface and press it flat into a rectangle without kneading. Cut the dough into eight pieces of equal size. (Optionally, use a scale to weigh out eight equal pieces.)</step>
+        <step>Lightly flour the work surface. Knead a dough piece by folding the corners in toward the center of the dough. Once it is in a rough ball shape, pick the dough up and tuck the bottom pieces towards the center like you would a rusting loaf. Pinch any seams or wrinkles together on the bottom. Set on the floured parchment paper. Form the other rolls together.</step>
+        <step>While the rolls rise for fifteen minutes, preheat the oven to <temp><qty>425</qty><tempunit system="US" unit="F">degrees</tempunit><!--220 C--></temp>, and prepare for soaking. In a medium pot (a 2.5-quart pot is not too wide but still deep enough to contain most of the splatter), boil <ing><amt><qty>4 1/4</qty> <unit>c</unit></amt> <item>water</item></ing>. Place a wide slotted spoon or spatula next to the pot. When the water boils, add the baking soda, and turn the heat down to just a simmer. Place the pretzel salt and a pair of kitchen scissors next to the empty baking tray.</step>
+        <step>Using the slotted spoon, gently slide a dough ball into the water and simmer it for 30 seconds. Use a timer or count in your head. Gently remove the roll from the water and place it on the empty tray. Sprinkle a pinch of salt onto the we roll.</step>
+        <step>Continue simmering and salting the remaining rolls. Give the rolls as much room between each other as possible for good air flow and browning. Three rolls on the long outside edges and two in the center works well for me. As your confidence grows, you will be able to simmer multiple dough balls at once and this step will become faster.</step>
+        <step>After all the rolls have simmered, use the clean kitchen scissors to cut the traditional X in the top of each roll. The cuts should be a little deeper than for a loaf of bread, because the outside of the roll is now far less elastic and won't stretch. If you don't have scissors, use a lame or sharp knife, wiping off any dough that sticks to it as needed.</step>
+        <step>Bake for about 21 minutes. The rolls will be medium to dark brown.</step>
+        <step>Allow to cool and enjoy with butter, honey, jam, Nutella, or as the base for your favorite sandwich.</step>
+      </dir-div>
+    </directions>
+  </recipe>
+
 
 </recipeml>

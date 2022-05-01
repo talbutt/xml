@@ -1,7 +1,8 @@
+<?xml version="1.0"?>
 <xsl:stylesheet
 	xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 	xmlns:xs="http://www.w3.org/2001/XMLSchema"
-	xmlns:r="http://www.christmas-baking.com/recipeml.dtd"
+	xmlns:r="http://vanilla.christmas-baking.com/recipeml.dtd"
 	xmlns:x="http://www.w3.org/1999/xhtml"
 	exclude-result-prefixes="r x xs"
 	xmlns="http://www.w3.org/1999/xhtml"
@@ -148,6 +149,7 @@
             <ul class="dropdown-menu">
                 <li><a href="/baking101/hints.html">Beginning</a></li>
                 <li><a href="/baking101/hints2.html">Intermediate</a></li>
+                <li><a href="/baking101/flavors.html">Flavor combinations</a></li>
                 <li><a href="/baking101/allergies.html">Allergies</a></li>
                 <li><a href="/baking101/bakingBig.html">Going big</a></li>
                 <li><a href="/baking101/parchmentCircles.html">Parchment circles</a></li>

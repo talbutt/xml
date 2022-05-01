@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" xmlns:x="http://www.w3.org/1999/xhtml" version="0.5">
+  <recipe id="pretzel_rolls" system="metric">
+    <meta name="DC.Date" content="2022-04-24"/>
+    <head>
+      <title>Pretzel rolls</title>
+      <subtitle>Laugenweckle</subtitle>
+      <categories>
+        <cat class="main">Bread</cat>
+        <cat class="region">Germany, Schwabia</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Pretzel rolls might be the hot thing in America now, but they originated around Stuttgart, Germany, where they are eaten for breakfast and at the light dinner called "Vesper". These were a favorite of my mother with butter and honey, and I would often bring a couple home from trips for her. I only regret not trying to bake these before she passed, because it is a straightforward recipe. The dough can also be formed into a traditional pretzel shape, or sticks.</x:p>
+      <x:p>A slow rise gives the rolls that traditional bread flavor, and a little butter softens the texture.</x:p>
+      <x:p>Traditionally, pretzels are soaked quickly in a lye (caustic soda) solution before baking. The alkaline water changes the outer skin of the dough, giving pretzels their traditional color and flavor. As we don't want any trips to the emergency room, we'll use a simmering baking-soda bath instead.</x:p>
+      <x:p>Germans use "Type 550" flour; I've substituted half and half bread and unbleached flour.</x:p>
+    </description>
+    <ingredients system="metric">
+      <ing-div>
+        <title>Dough</title>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>bread flour</item>
+          <prep>(if not using bread flour, double the amount of unbleached flour; bread flour is a little denser)</prep>
+          <!--250 g bread flour (if not using bread flour, double the amount of unbleached flour; bread flour is a little denser)-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>250</qty>
+            <unit>g</unit>
+          </amt>
+          <item>unbleached flour</item>
+          <!--250 g unbleached flour-->
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>20</q1>
+              <q2>40</q2>
+            </range>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <!--20g - 40g butter, softened, cut into small pieces-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>300</qty>
+            <unit>ml</unit>
+          </amt>
+          <item>lukewarm water</item>
+          <!--300 ml lukewarm water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>pkg dry yeast</item>
+          <!--1 pkg dry yeast-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>honey</item>
+          <!--1 Tbs honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>salt</item>
+          <!--1 Tbs salt-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Soaking solution</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>L</unit>
+          </amt>
+          <item>water</item>
+          <!--1 L water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>baking soda</item>
+          <!--2 Tbs baking soda-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Salting</title>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>pretzel salt</item>
+            <!--1 Tbs pretzel salt-->
+          </alt-ing>
+          <alt-ing>
+            <item>kosher salt</item>
+            <!--kosher salt-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+    <dir-div>
+      <title>The first day</title>
+      <step>Stir the flours together and work the butter into the mix (let the mixer run on low speed for a couple minutes, or use your fingers to rub the butter in).</step>
+      <step>To the warm water, add the yeast, honey, and salt, and stir to dissolve.</step>
+      <step>Mix the water into the flour until a dough forms.</step>
+      <step>Knead until the dough is smooth and elastic.</step>
+      <step>Place the dough into a large bowl or other container and cover. Allow to rise for half an hour to an hour before moving it into the refrigerator for a slower rise to develop flavor.</step>
+    </dir-div>
+    <dir-div>
+      <title>The second day</title>
+      <step>Line two baking trays with parchment paper. Place one tray next to where you will simmer the rolls before baking. Place the second tray next to where you will knead and form the rolls, and lightly flour the parchment paper. Lightly flour your work surface.</step>
+      <step>Divide the dough into eight pieces before kneading. Place the the dough onto the work surface and press it flat into a rectangle without kneading. Cut the dough into eight pieces of equal size. (Optionally, use a scale to weigh out eight equal pieces.)</step>
+      <step>Lightly flour the work surface. Knead a dough piece by folding the corners in toward the center of the dough. Once it is in a rough ball shape, pick the dough up and tuck the bottom pieces towards the center like you would a rusting loaf. Pinch any seams or wrinkles together on the bottom. Set on the floured parchment paper. Form the other rolls together.</step>
+      <step>While the rolls rise for fifteen minutes, preheat the oven to <temp><qty>220</qty><tempunit unit="C" system="metric">degrees</tempunit><!--220 C--></temp>, and prepare for soaking. In a medium pot (a 2.5L pot is not too wide but still deep enough to contain most of the splatter), boil <ing><amt><qty>1</qty> <unit>L</unit></amt> <item>water</item></ing>. Place a wide slotted spoon or spatula next to the pot. When the water boils, add the baking soda, and turn the heat down to just a simmer. Place the pretzel salt and a pair of kitchen scissors next to the empty baking tray.</step>
+      <step>Using the slotted spoon, gently slide a dough ball into the water and simmer it for 30 seconds. Use a timer or count in your head. Gently remove the roll from the water and place it on the empty tray. Sprinkle a pinch of salt onto the we roll.</step>
+      <step>Continue simmering and salting the remaining rolls. Give the rolls as much room between each other as possible for good air flow and browning. Three rolls on the long outside edges and two in the center works well for me. As your confidence grows, you will be able to simmer multiple dough balls at once and this step will become faster.</step>
+      <step>After all the rolls have simmered, use the clean kitchen scissors to cut the traditional X in the top of each roll. The cuts should be a little deeper than for a loaf of bread, because the outside of the roll is now far less elastic and won't stretch. If you don't have scissors, use a lame or sharp knife, wiping off any dough that sticks to it as needed.</step>
+      <step>Bake for about 21 minutes. The rolls will be medium to dark brown.</step>
+      <step>Allow to cool and enjoy with butter, honey, jam, Nutella, or as the base for your favorite sandwich.</step>
+    </dir-div>
+    </directions>
+  </recipe>
+</recipeml>
