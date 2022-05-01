@@ -1,6 +1,6 @@
 <xsl:stylesheet
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:r="http://www.christmas-baking.com/recipeml.dtd"
+  xmlns:r="http://vanilla.christmas-baking.com/recipeml.dtd"
   xmlns:x="http://www.w3.org/1999/xhtml"
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:xdt="http://www.w3.org/2005/04/xpath-datatypes"
