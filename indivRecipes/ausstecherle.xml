@@ -3,85 +3,122 @@
 <?xml-stylesheet href="nsRecipe.xml" type="text/xsl"?>
 <recipeml version="0.5"
           xmlns="http://www.formatdata.com/recipeml/recipeml.dtd"
-          xmlns:xhtml="http://www.w3.org/1999/xhtml"
-		  >
-  <meta content="Thursday October 13, 2005" name="DC.Date"/>
-  <meta content="Maria Mannherz" name="DC.Creator"/>
-  <recipe id="Ausstecherle">
+          xmlns:x="http://www.w3.org/1999/xhtml"
+      >
+  <recipe id="ausstecherle" system="US">
+    <!-- meta content="1998-12-01" name="DC.Date"/ -->
+    <meta content="2022-12-13" name="DC.Date"/>
+    <meta content="Mrs. Mannherz" name="DC.Creator"/>
     <head>
       <title>Ausstecherle</title>
-      <subtitle>Cut-outs</subtitle>
+      <subtitle>Sour cream cut-outs</subtitle>
       <categories>
         <cat class="main">Cookies</cat>
-        <cat class="region">Germany, Schwaben</cat>
-				<cat class="diet">Nut-free</cat>
+        <cat class="region">Germany</cat>
+        <cat class="region">Swabia</cat>
+        <cat class="diet">Nut-free</cat>
       </categories>
     </head>
-    <description><xhtml:p>The sour cream makes these wonderful. I usually make these in the evening. Afterwards I'll make a double batch of forgotten cookies with four of the leftover egg whites, pop two whites in the refrigerator in plastic container, and use one egg white to glaze the cookies. Or, make a batch of Haselnussbroetchen, using the extra egg yolk from the Haselnussbroetchen to glaze these cookies. Traditional shapes in our family include roosters, four-leaf clovers and fish.</xhtml:p></description>
-    <ingredients system="US">
+    <description><x:p>Unlike traditional sugar cookies, these are very soft (because of the cake flour and egg yolks) with a little tang from the sour cream. Decorate them as much or as little as you want. Traditional shapes in my childhood included roosters, four-leaf clovers and fish.</x:p>
+    <x:p>The leftover egg whites are used in my favorite <x:a href="/itsAllAboutTheFood/2016/04/meringues.html">meringue cookies</x:a>, like macaroons, busserl, and haselnussbr&ouml;tchen</x:p>.</description>
+    <ingredients>
       <ing-div>
         <ing>
           <amt>
-            <qty>2 </qty>
+            <qty>1</qty>
             <unit>c</unit>
           </amt>
-          <item>(1 lb</item>
-          <prep>4 sticks) butter</prep>
+          <item>butter</item>
+          <prep>softened</prep>
 <!--2 c. (1 lb, 4 sticks) butter
 -->
         </ing>
         <ing>
           <amt>
-            <qty>2 </qty>
+            <qty>1 </qty>
             <unit>c</unit>
           </amt>
-          <item>(1 lb.) sugar</item>
+          <item>sugar</item>
 <!--2 c. (1 lb.) sugar
 -->
         </ing>
         <ing>
           <amt>
-            <qty>7 </qty>
+            <qty>4 </qty>
           </amt>
-          <item>large egg yolks (reserve 1 white for glazing cookies)</item>
+          <item>large egg yolks</item>
 <!--7 large egg yolks (reserve 1 white for glazing cookies)
 -->
         </ing>
         <ing>
+        <alt-ing>
           <amt>
-            <qty>1/2 </qty>
+            <qty>1/4</qty>
             <unit>c</unit>
           </amt>
-          <item>sour cream (can substitute 2 whole eggs)</item>
+          <item>sour cream</item>
 <!--1/2 c. sour cream (can substitute 2 whole eggs)
 -->
+        </alt-ing>
+        <alt-ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+        </alt-ing>
         </ing>
         <ing>
           <amt>
-            <qty>8 </qty>
+            <qty>4</qty>
             <unit>c</unit>
           </amt>
-          <item>(2 lb.</item>
-          <prep>1 box) cake flour</prep>
+          <item>cake flour</item>
 <!--8 c. (2 lb., 1 box) cake flour
 -->
         </ing>
         <ing>
           <amt>
-            <qty>1/2 </qty>
+            <qty>1/4</qty>
             <unit>tsp</unit>
           </amt>
           <item>baking powder</item>
 <!--1/2 tsp. baking powder-->
         </ing>
       </ing-div>
+      <ing-div>
+        <title>Decorating</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <prep>beaten with a little water</prep>
+        </ing>
+        <ing>
+          <item>colored sugars</item>
+        </ing>
+        <ing>
+          <item>sprinkles</item>
+        </ing>
+        <ing>
+          <item>dragees</item>
+        </ing>
+        <ing>
+          <item>non-pareils</item>
+        </ing>
+      </ing-div>
     </ingredients>
     <directions>
-      <note>Do not double this recipe.</note>
-      <step>Cream the butter until very light. Add sugar; cream butter and sugar until combined. Add egg yolks and sour cream and beat until combined.</step>
-      <step>Slowly add flour and baking powder (even with the pouring shield on my mixer, I still get flour all over the table if I add too quickly). Mix on low speed until dough is uniform. Refrigerate until cold (about one or two hours).</step>
-      <step>Preheat oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp>. Roll out some dough to about 3/8 of an inch thick. Refrigerate remaining dough. Cut cookies and place on ungreased cookie sheet. Brush with egg white or beaten whole egg. Bake 15 minutes until golden; watch carefully!</step>
-      <note>If you use jumbo eggs or are baking in a hot, humid (i.e. Florida) kitchen, reduce yolks to 6.</note>
+      <step>Cream the butter until very light. Add sugar; cream butter and sugar until combined. Scrape the bowl. Add egg yolks and sour cream and beat until combined. Scrape the bowl.</step>
+
+      <step>Slowly add flour and baking powder (even with the pouring shield on my mixer, I still get flour all over the table if I add too quickly). Mix on low speed until dough is uniform, scrape one last time, and mix in that last big to flour. The dough will be very sticky and unworkable. Refrigerate at least two hours until cold.</step>
+
+      <step>After the dough has chilled, preheat oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp>. Line three or four baking sheets with parchment paper.</step>
+
+      <step>Divide the chilled dough into three pieces. Roll out one piece of dough to about <size><qty>3/8</qty>-<unit>inch</unit></size> thick. Refrigerate the remaining dough. Cut cookies and place onto the lined cookie sheet. Brush with beaten egg; add decorations as desired. Bake 15 minutes until golden; watch carefully!</step>
+
+      <note>If you use jumbo eggs or are baking in a hot, humid (i.e. Florida) kitchen, reduce yolks to 3.</note>
+
       <note>A stand mixer works best. Most hand mixers don't have the power to work with this much cookie dough. If using a hand mixer, add the last bit of flour by hand.</note>
     </directions>
   </recipe>

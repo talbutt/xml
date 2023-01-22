@@ -26,7 +26,7 @@
 <xhtml:p>German specialty stores offer "tea bags" of spices under the brand name Gl&#252;hfix. Most modern Germans use Gl&#252;hfix at home (and when selling in the Markt).</xhtml:p></description>
     <ingredients system="US">
       <ing-div>
-        <title>For each 750 ml (3 cups) of wine</title>
+        <title>For each 750 ml bottle (3 cups) of wine</title>
         <ing>
           <amt>
             <qty>1</qty>
@@ -37,9 +37,16 @@
         </ing>
         <ing>
           <amt>
-            <qty>6</qty>
+            <qty>1</qty>
           </amt>
-          <item>whole cloves</item>
+          <item>whole clove</item>
+<!--6 whole cloves-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>whole allspice</item>
 <!--6 whole cloves-->
         </ing>
         <ing>

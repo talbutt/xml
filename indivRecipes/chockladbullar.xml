@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipeml PUBLIC "-//FormatData//DTD RecipeML 0.5//EN" "http://www.formatdata.com/recipeml/recipeml.dtd">
+<?xml-stylesheet href="recipe.xml" type="text/xsl"?>
+<recipeml xmlns:x="http://www.w3.org/1999/xhtml" xmlns="http://www.formatdata.com/recipeml/recipeml.dtd" version="0.5">
+  <recipe id="chockladbullar" system="metric">
+    <meta name="DC.Date" content="2022-12-04"/>
+    <head>
+      <title>Chockladbullar</title>
+      <subtitle>Swedish cocoa balls</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">No-bake</cat>
+        <cat class="region">Sweden</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Chockladbullar are a common and versatile part of the Swedish coffee tradition of ficka. When sold in cafes, they are often larger, and perhaps dipped in chocolate.</x:p>
+      <x:p>While visiting friends in Sweden, our host's sister graciously invited us to dinner. As a good Swedish guest, we brought a plant to dinner as a hosting gift, as is traditional. That didn't mean the hostess gift should not include a dessert. Our friend Maggie found this easy recipe that didn't require turning on the oven in August.</x:p>
+    </description>
+    <ingredients>
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>150</qty>
+            <unit>g</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+          <!--150 g butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>125</qty>
+            <unit>g</unit>
+          </amt>
+          <item>sugar</item>
+          <!--125g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>220</qty>
+            <unit>g</unit>
+          </amt>
+          <item>rolled oats</item>
+          <!--220g rolled oats-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>50</qty>
+            <unit>g</unit>
+          </amt>
+          <item>cocoa</item>
+          <!--50 g cocoa-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+          <!--1/4 tsp vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>cold coffee</item>
+          <!--2 Tbs cold coffee-->
+        </ing>
+        <ing>
+            <item>sprinkles or other decorations</item>
+            <!--sprinkles or other decorations-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream the butter on medium speed, then add the sugar until incorporated.</step>
+      <step>Mix in the oats, cocoa, vanilla, and coffee to the butter mixture on slow speed, or by hand. The mixture should be stiff enough to roll into balls; if it is very soft or squishy, add oats by the tablespoonful until the dough is workable.</step>
+      <step>Roll the dough into <size><qty>5</qty> <unit>cm</unit></size> balls, and set on a rimmed baking sheet or large plate lined with wax or parchment paper to prevent sticking. Roll the balls in the decorations. Chill or freeze until firm.</step>
+      <note type="variation" title="Liquid">The original recipe suggested coffee or water, but it could be anything &mdash; milk, liqueur, rum.</note>
+      <note type="variation" title="Decorations">Chocolate sprinkles and unsweetened coconut flakes are traditional decorations, but use whatever you want! Note that coconut some people allergic to tree nuts are also allergic to coconut.</note>
+      <note type="variation" title="Special diets">Oatmeal often contains some gluten, but special, gluten-free oatmeal is available. For a dairy-free version, use vegan margarine; most margarines have some casein, the milk protein responsible for some dairy allergies.</note>
+    </directions>
+  </recipe>
+</recipeml>

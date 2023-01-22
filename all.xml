@@ -208,87 +208,124 @@
     </directions>
   </recipe>
 
-  <recipe id="ausstecherle">
-  <meta content="1998-12-01" name="DC.Date"/>
-  <meta content="Maria Mannherz" name="DC.Creator"/>
+  <recipe id="ausstecherle" system="US">
+    <!-- meta content="1998-12-01" name="DC.Date"/ -->
+    <meta content="2022-12-13" name="DC.Date"/>
+    <meta content="Mrs. Mannherz" name="DC.Creator"/>
     <head>
       <title>Ausstecherle</title>
-      <subtitle>Cut-outs</subtitle>
+      <subtitle>Sour cream cut-outs</subtitle>
       <categories>
         <cat class="main">Cookies</cat>
         <cat class="region">Germany</cat>
         <cat class="region">Swabia</cat>
-        <cat class="diet">Nut-free</cat>
+				<cat class="diet">Nut-free</cat>
       </categories>
     </head>
-    <description><x:p>The sour cream makes these wonderful. I usually make these in the evening. Afterwards I'll make a double batch of forgotten cookies with four of the leftover egg whites, pop two whites in the refrigerator in plastic container, and use one egg white to glaze the cookies. Or, make a batch of Haselnussbroetchen, using the extra egg yolk from the Haselnussbroetchen to glaze these cookies. Traditional shapes in our family include roosters, four-leaf clovers and fish.</x:p></description>
+    <description><x:p>Unlike traditional sugar cookies, these are very soft (because of the cake flour and egg yolks) with a little tang from the sour cream. Decorate them as much or as little as you want. Traditional shapes in my childhood included roosters, four-leaf clovers and fish.</x:p>
+    <x:p>The leftover egg whites are used in my favorite <x:a href="/itsAllAboutTheFood/2016/04/meringues.html">meringue cookies</x:a>, like macaroons, busserl, and haselnussbr&ouml;tchen</x:p>.</description>
     <ingredients>
       <ing-div>
         <ing>
           <amt>
-            <qty>2 </qty>
+            <qty>1</qty>
             <unit>c</unit>
           </amt>
-          <item>(1 lb</item>
-          <prep>4 sticks) butter</prep>
+          <item>butter</item>
+          <prep>softened</prep>
 <!--2 c. (1 lb, 4 sticks) butter
 -->
         </ing>
         <ing>
           <amt>
-            <qty>2 </qty>
+            <qty>1 </qty>
             <unit>c</unit>
           </amt>
-          <item>(1 lb.) sugar</item>
+          <item>sugar</item>
 <!--2 c. (1 lb.) sugar
 -->
         </ing>
         <ing>
           <amt>
-            <qty>7 </qty>
+            <qty>4 </qty>
           </amt>
-          <item>large egg yolks (reserve 1 white for glazing cookies)</item>
+          <item>large egg yolks</item>
 <!--7 large egg yolks (reserve 1 white for glazing cookies)
 -->
         </ing>
         <ing>
+        <alt-ing>
           <amt>
-            <qty>1/2 </qty>
+            <qty>1/4</qty>
             <unit>c</unit>
           </amt>
-          <item>sour cream (can substitute 2 whole eggs)</item>
+          <item>sour cream</item>
 <!--1/2 c. sour cream (can substitute 2 whole eggs)
 -->
+        </alt-ing>
+        <alt-ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+        </alt-ing>
         </ing>
         <ing>
           <amt>
-            <qty>8 </qty>
+            <qty>4</qty>
             <unit>c</unit>
           </amt>
-          <item>(2 lb.</item>
-          <prep>1 box) cake flour</prep>
+          <item>cake flour</item>
 <!--8 c. (2 lb., 1 box) cake flour
 -->
         </ing>
         <ing>
           <amt>
-            <qty>1/2 </qty>
+            <qty>1/4</qty>
             <unit>tsp</unit>
           </amt>
           <item>baking powder</item>
 <!--1/2 tsp. baking powder-->
         </ing>
       </ing-div>
+      <ing-div>
+        <title>Decorating</title>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>egg</item>
+          <prep>beaten with a little water</prep>
+        </ing>
+        <ing>
+          <item>colored sugars</item>
+        </ing>
+        <ing>
+          <item>sprinkles</item>
+        </ing>
+        <ing>
+          <item>dragees</item>
+        </ing>
+        <ing>
+          <item>non-pareils</item>
+        </ing>
+      </ing-div>
     </ingredients>
     <directions>
-      <note>Do not double this recipe.</note>
-      <step>Cream the butter until very light. Add sugar; cream butter and sugar until combined. Add egg yolks and sour cream and beat until combined.</step>
-      <step>Slowly add flour and baking powder (even with the pouring shield on my mixer, I still get flour all over the table if I add too quickly). Mix on low speed until dough is uniform. Refrigerate until cold (about one or two hours).</step>
-      <step>Preheat oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp>. Roll out some dough to about 3/8 of an inch thick. Refrigerate remaining dough. Cut cookies and place on ungreased cookie sheet. Brush with egg white or beaten whole egg. Bake 15 minutes until golden; watch carefully!</step>
-      <note>If you use jumbo eggs or are baking in a hot, humid (i.e. Florida) kitchen, reduce yolks to 6.</note>
+      <step>Cream the butter until very light. Add sugar; cream butter and sugar until combined. Scrape the bowl. Add egg yolks and sour cream and beat until combined. Scrape the bowl.</step>
+
+      <step>Slowly add flour and baking powder (even with the pouring shield on my mixer, I still get flour all over the table if I add too quickly). Mix on low speed until dough is uniform, scrape one last time, and mix in that last big to flour. The dough will be very sticky and unworkable. Refrigerate at least two hours until cold.</step>
+
+      <step>After the dough has chilled, preheat oven to <temp><qty>325</qty><tempunit unit="F" system="US">degrees</tempunit><!--325  degrees--></temp>. Line three or four baking sheets with parchment paper.</step>
+
+      <step>Divide the chilled dough into three pieces. Roll out one piece of dough to about <size><qty>3/8</qty>-<unit>inch</unit></size> thick. Refrigerate the remaining dough. Cut cookies and place onto the lined cookie sheet. Brush with beaten egg; add decorations as desired. Bake 15 minutes until golden; watch carefully!</step>
+
+      <note>If you use jumbo eggs or are baking in a hot, humid (i.e. Florida) kitchen, reduce yolks to 3.</note>
+
       <note>A stand mixer works best. Most hand mixers don't have the power to work with this much cookie dough. If using a hand mixer, add the last bit of flour by hand.</note>
     </directions>
   </recipe>
+
   <recipe id="b52balls">
   <meta content="2001-12-01" name="DC.Date"/>
     <head>
@@ -2637,7 +2674,7 @@
 <x:p>German specialty stores offer "tea bags" of spices under the brand name Gl&#252;hfix. Most modern Germans use Gl&#252;hfix at home (and when selling in the Markt).</x:p></description>
     <ingredients>
       <ing-div>
-        <title>For each 750 ml (3 cups) of wine</title>
+        <title>For each 750 ml bottle (3 cups) of wine</title>
         <ing>
           <amt>
             <qty>1</qty>
@@ -2648,12 +2685,18 @@
         </ing>
         <ing>
           <amt>
-            <qty>6</qty>
+            <qty>1</qty>
           </amt>
-          <item>whole cloves</item>
+          <item>whole clove</item>
 <!--6 whole cloves-->
         </ing>
         <ing>
+          <amt>
+            <qty>4</qty>
+          </amt>
+          <item>whole allspice</item>
+<!--6 whole cloves-->
+        </ing>        <ing>
           <item>Rind of half a lemon</item>
 <!--Rind of half a lemon-->
         </ing>
@@ -12604,4 +12647,233 @@ drinking coffee and eating apple tart with <i>Schlagsahne</i>.</x:p>
     </directions>
   </recipe>
 
+  <recipe id="pretzel_rolls_a" system="US">
+    <meta content="2022-04-24" name="DC.Date"/>
+    <head>
+      <title>Pretzel rolls</title>
+      <subtitle>Laugenweckle</subtitle>
+      <categories>
+        <cat class="main">Breads</cat>
+        <cat class="region">Germany, Schwabia</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Pretzel rolls might be the hot thing in America now, but they originated around Stuttgart, Germany, where they are eaten for breakfast and at the light dinner called "Vesper". These were a favorite of my mother with butter and honey, and I would often bring a couple home from trips for her. I only regret not trying to bake these before she passed, because it is a straightforward recipe. The dough can also be formed into a traditional pretzel shape, or sticks.</x:p>
+      <x:p>A good pretzel or pretzel roll has a soft interior and crispy, dark brown crust. A slow rise gives the rolls that traditional bread flavor, and a little butter further softens the texture.</x:p>
+      <x:p>Traditionally, pretzels are soaked quickly in a lye (caustic soda) solution before baking. The alkaline water changes the outer skin of the dough, giving pretzels their traditional color and flavor. As we don't want any trips to the emergency room, we'll use a simmering baking-soda bath instead.</x:p>
+      <x:p>Germans use "Type 550" flour; I've substituted  unbleached flour.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <title>Dough</title>
+        <ing>
+          <amt>
+            <qty>3 1/2</qty>
+            <unit>c</unit>
+          </amt>
+          <item>unbleached flour</item>
+        </ing>
+        <ing>
+          <amt>
+            <range>
+              <q1>1 1/3</q1>
+              <q2>2 2/3</q2>
+            </range>
+            <unit>Tbs</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened and cut into small pieces</prep>
+
+          <!--20g - 40g butter, softened, cut into small pieces-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>lukewarm water</item>
+
+          <!--300 ml lukewarm water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+          </amt>
+          <item>pkg dry yeast</item>
+
+          <!--1 pkg dry yeast-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>honey</item>
+
+          <!--1 Tbs honey-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>salt</item>
+
+          <!--1 Tbs salt-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Soaking solution</title>
+        <ing>
+          <amt>
+            <qty>4 1/4</qty>
+            <unit>c</unit>
+          </amt>
+          <item>water</item>
+
+          <!--1 L water-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>baking soda</item>
+
+          <!--1 Tbs baking soda-->
+        </ing>
+      </ing-div>
+      <ing-div>
+        <title>Salting</title>
+        <ing>
+          <alt-ing>
+            <amt>
+              <qty>1</qty>
+              <unit>Tbs</unit>
+            </amt>
+            <item>pretzel salt</item>
+
+            <!--1 Tbs pretzel salt-->
+          </alt-ing>
+          <alt-ing>
+            <item>kosher salt</item>
+
+            <!--kosher salt-->
+          </alt-ing>
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <dir-div>
+        <title>The first day</title>
+        <step>Work the butter into the flour by letting the mixer run on low speed for a couple minutes, or using your fingers to rub the butter in.</step>
+        <step>To the warm water, add the yeast, honey, and salt (not the pretzel salt), and stir to dissolve.</step>
+        <step>Mix the water into the flour until a dough forms.</step>
+        <step>Knead until the dough is smooth and elastic. With the overnight rise, this needn't be very long.</step>
+        <step>Place the dough into a large bowl or other container and cover. Allow to rise for half an hour to an hour before moving it into the refrigerator for a slower rise to develop flavor.</step>
+      </dir-div>
+      <dir-div>
+        <title>The second day</title>
+        <step>Line two baking trays with parchment paper. Place one tray next to where you will simmer the rolls before baking. Place the second tray next to where you will knead and form the rolls, and lightly flour the parchment paper. Lightly flour your work surface.</step>
+        <step>Divide the dough into eight pieces before kneading. Place the the dough onto the work surface and press it flat into a rectangle without kneading. Cut the dough into eight pieces of equal size. (Optionally, use a scale to weigh out eight equal pieces.)</step>
+        <step>Lightly flour the work surface. Knead a dough piece by folding the corners in toward the center of the dough. Once it is in a rough ball shape, pick the dough up and tuck the bottom pieces towards the center like you would a rusting loaf. Pinch any seams or wrinkles together on the bottom. Set on the floured parchment paper. Form the other rolls together.</step>
+        <step>While the rolls rise for fifteen minutes, preheat the oven to <temp><qty>425</qty><tempunit system="US" unit="F">degrees</tempunit><!--220 C--></temp>, and prepare for soaking. In a medium pot (a 2.5L pot is not too wide but still deep enough to contain most of the splatter), boil <ing><amt><qty>4 1/4</qty> <unit>c</unit></amt> <item>water</item></ing>. Place a wide slotted spoon or spatula next to the pot. When the water boils, add the baking soda, and turn the heat down to just a simmer. Place the pretzel salt and a pair of kitchen scissors next to the empty baking tray.</step>
+        <step>Using the slotted spoon, gently slide a dough ball into the water and simmer it for 30 seconds. Use a timer or count in your head. Gently remove the roll from the water and place it on the empty tray. Sprinkle a pinch of salt onto the we roll.</step>
+        <step>Continue simmering and salting the remaining rolls. Give the rolls as much room between each other as possible for good air flow and browning. Three rolls on the long outside edges and two in the center works well for me. As your confidence grows, you will be able to simmer multiple dough balls at once and this step will become faster.</step>
+        <step>After all the rolls have simmered, use the clean kitchen scissors to cut the traditional X in the top of each roll. The cuts should be fairly deep, because the outside of the roll is now far less elastic and won't stretch. If you don't have scissors, use a lame or sharp knife, wiping off any dough that sticks to it as needed.</step>
+        <step>Bake for about 21 minutes. The rolls will be medium to dark brown.</step>
+        <step>Allow to cool and enjoy with butter, honey, jam, Nutella, or as the base for your favorite sandwich.</step>
+      </dir-div>
+    </directions>
+  </recipe>
+
+  <recipe id="chockladbullar_a" system="american">
+    <meta content="2022-12-04" name="DC.Date"/>
+    <head>
+      <title>Chockladbullar</title>
+      <subtitle>Swedish cocoa balls</subtitle>
+      <categories>
+        <cat class="main">Cookies</cat>
+        <cat class="sub">No-bake</cat>
+        <cat class="region">Sweden</cat>
+        <cat class="diet">Egg-free</cat>
+        <cat class="diet">Nut-free</cat>
+      </categories>
+    </head>
+    <description>
+      <x:p>Chockladbullar are a common and versatile part of the Swedish coffee tradition of ficka. When sold in cafes, they are often larger, and perhaps dipped in chocolate.</x:p>
+      <x:p>While visiting friends in Sweden, our host's sister graciously invited us to dinner. As a good Swedish guest, we brought a plant to dinner as a hosting gift, as is traditional. That didn't mean the hostess gift should not include a dessert. Our friend Maggie found this easy recipe that didn't require turning on the oven in August.</x:p>
+    </description>
+    <ingredients system="US">
+      <ing-div>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>butter</item>
+          <prep>softened</prep>
+
+          <!--150 g butter, softened-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>sugar</item>
+
+          <!--125g sugar-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2 2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>rolled oats</item>
+
+          <!--220g rolled oats-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2/3</qty>
+            <unit>c</unit>
+          </amt>
+          <item>cocoa</item>
+
+          <!--50 g cocoa-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>1/4</qty>
+            <unit>tsp</unit>
+          </amt>
+          <item>vanilla</item>
+
+          <!--1/4 tsp vanilla-->
+        </ing>
+        <ing>
+          <amt>
+            <qty>2</qty>
+            <unit>Tbs</unit>
+          </amt>
+          <item>cold coffee</item>
+
+          <!--2 Tbs cold coffee-->
+        </ing>
+        <ing>
+            <item>sprinkles or other decorations</item>
+            <!--sprinkles or other decorations-->
+        </ing>
+      </ing-div>
+    </ingredients>
+    <directions>
+      <step>Cream the butter on medium speed, then add the sugar until incorporated.</step>
+      <step>Mix in the oats, cocoa, vanilla, and coffee to the butter mixture on slow speed, or by hand. The mixture should be stiff enough to roll into balls; if it is very soft or squishy, add oats by the tablespoonful until the dough is workable.</step>
+      <step>Roll the dough into <size><qty>2</qty> <unit>inch</unit></size> balls, and set on a rimmed baking sheet or large plate lined with wax or parchment paper to prevent sticking. Roll the balls in the decorations. Chill or freeze until firm.</step>
+      <note title="Liquid" type="variation">The original recipe suggested coffee or water, but it could be anything &mdash; milk, liqueur, rum.</note>
+      <note title="Decorations" type="variation">Chocolate sprinkles and unsweetened coconut flakes are traditional decorations, but use whatever you want! Note that coconut some people allergic to tree nuts are also allergic to coconut.</note>
+      <note type="variation" title="Decorations">Chocolate sprinkles and unsweetened coconut flakes are traditional decorations, but use whatever you want! Note that coconut some people allergic to tree nuts are also allergic to coconut.</note>
+    </directions>
+  </recipe>
 </recipeml>

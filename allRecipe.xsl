@@ -148,9 +148,11 @@
             <ul class="dropdown-menu">
                 <li><a href="/baking101/hints.html">Beginning</a></li>
                 <li><a href="/baking101/hints2.html">Intermediate</a></li>
+                <li><a href="/baking101/flavors.html">Flavor combinations</a></li>
                 <li><a href="/baking101/allergies.html">Allergies</a></li>
                 <li><a href="/baking101/bakingBig.html">Going big</a></li>
                 <li><a href="/baking101/parchmentCircles.html">Parchment circles</a></li>
+                <li><a href="/baking101/cocktails.html">Easy cocktails</a></li>
             </ul>
         </li>
         <li><a href="/guestbook.html">Disasters</a></li>
